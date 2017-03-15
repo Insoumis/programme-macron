@@ -24,9 +24,10 @@ git fetch origin
 git fetch origin gh-pages
 
 git checkout gh-pages
+git pull
 
 git rm -r *
-cp -R ../public/ .
+cp -R ../public/* .
 git add -f *
 
 git commit -m"Update"
