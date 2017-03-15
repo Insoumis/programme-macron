@@ -27,7 +27,7 @@ git checkout gh-pages
 
 git rm -r *
 cp -R ../public/ .
-git add *
+git add -f *
 
 git commit -m"Update"
 
