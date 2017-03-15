@@ -850,4 +850,73 @@ de l’argent public.
     </entree>
   </categorie>
 
+  <categorie nom="Les territoires qui font notre France">
+    <entree>
+      <engagement> Nous exonérerons de la taxe d’habitation tous
+les Français des classes moyennes et populaires
+(soit 80% des ménages).</engagement>
+      <mesure>C’est un impôt injuste 
+: on paye souvent beaucoup plus quand on vit dans une commune
+populaire que dans une commune riche. Dès 2020, 4 Français sur 5 ne paieront plus la taxe
+d’habitation, et l’État remboursera entièrement auprès des communes leur manque
+à gagner, à l’euro près, en préservant leur autonomie fiscale.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous couvrirons en très haut débit ou en fibre
+l’ensemble du territoire.</engagement>
+      <mesure>Ce sera fait d’ici la fin du prochain quinquennat, pour ne laisser aucun territoire à la traîne 
+de la transition numérique. Les opérateurs téléphoniques doubleront la couverture mobile 
+en zone rurale pour réduire les zones sans réseau, et l’État prendra ses responsabilités 
+partout où cela est nécessaire.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous réduirons le millefeuille administratif.</engagement>
+      <mesure>Nous supprimerons au moins un quart des départements, là où ils peuvent être
+rapprochés de l’une de nos grandes métropoles</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous accélérerons la construction de logements
+là où c’est nécessaire.</engagement>
+      <mesure>Nous mettrons en place des procédures accélérées dans les zones où le logement coûte 
+trop cher. Cela permettra de construire plus vite des logements et de faire baisser les prix 
+de l’immobilier.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous réformerons radicalement notre politique
+des transports.</engagement>
+      <mesure>Car l’enjeu n’est plus de construire partout des autoroutes, des aéroports et des lignes
+de TGV. C’est, grâce à notre Plan d’investissement, de moderniser les réseaux existants
+et de développer de nouveaux services pour que tous les territoires soient raccordés 
+efficacement aux lieux de travail, d’éducation, de culture ou de soins.</mesure>
+      <analyse tag="warning" description="Méfiance">Certes, les grands projets inutiles doivent être abandonnés : c'est le cas notamment de la ligne TGV Lyon-Turin et de l'Aéroport de Notre Dame Des Landes. Pourtant, Emmanuel Macron <a href="https://reporterre.net/Macron-veut-faire-Notre-Dame-des-Landes-le-Lyon-Turin-et-la-LGV-Bordeaux">s'est exprimé en faveur du premier projet, et également du second</a> avant <a hjref="http://abonnes.lemonde.fr/election-presidentielle-2017/article/2017/02/09/notre-dame-des-landes-emmanuel-macron-veut-etudier-une-alternative_5077156_4854003.html">de devenir très flou au sujet de NDDL</a>. Il apparait donc une contradiction entre ces lignes du programme et les déclarations d'Emmanuel Macron.</analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous lancerons un Plan de Transition Agricole
+de 5 milliards d’euros.</engagement>
+      <mesure>Il soutiendra tous les projets de montée en gamme des exploitations, d’adaptation 
+aux normes environnementales et de bien-être animal.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous développerons la continuité territoriale
+au profit des Outre-mer.</engagement>
+      <mesure>D’ici la fin du quinquennat, nous proposerons chaque année aux ultra-marins au moins
+200 000 billets d’avion à prix aidé en particulier pour les étudiants et les entrepreneurs 
+pour leur mobilité entre les Outre-mer et l’Hexagone, et dans leur environnement
+régional. Nous installerons en Outre-mer l’Agence Française pour la biodiversité.
+Nous permettrons aux collectivités d’Outre-mer de modifier la réglementation de droit
+commun pour l’adapter à leur situation particulière.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>    
+  </categorie>
 </categories>
