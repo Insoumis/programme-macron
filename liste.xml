@@ -532,4 +532,93 @@ Les partenaires sociaux seront
       <analyse tag="warning" description="C'est une arnaque"></analyse>
     </entree>
   </categorie>
+
+  <categorie nom="Une Europe protectrice et à la hauteur de nos espérances">
+    <entree>
+      <engagement>Nous construirons une Europe qui développe
+nos emplois et notre économie
+</engagement>
+      <mesure>Pour pouvoir investir beaucoup plus qu’aujourd’hui, nous voulons un budget de la zone 
+euro voté par un Parlement de la zone euro et exécuté par un ministre de l’Économie
+et des Finances de la zone euro</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous lutterons contre les arrangements fiscaux
+entre États et entreprises
+multinationales.</engagement>
+      <mesure>Ils faussent la concurrence en Europe, comme celui entre Apple et l’Irlande
+qui a été sanctionné. La France se montrera exemplaire en ce domaine.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous réserverons l’accès aux marchés publics
+européens aux entreprises</engagement>
+      <mesure>qui localisent au moins la moitié
+de leur production en Europe dans le cadre d’un 
+Buy European Act
+.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous généraliserons Erasmus et l’étendrons
+aux apprentis.
+</engagement>
+      <mesure>200 000 étudiants et apprentis français partiront chaque
+année dans un pays de l’Union européenne.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous construirons une Europe qui 
+nous
+ protège.</engagement>
+      <mesure>Nous proposerons avec l’Allemagne une Europe de la défense associant les pays volontaires, en créant un Fonds européen de défense qui financera des équipements militaires 
+communs (comme les drones européens) et un Quartier Général européen permanent</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous construirons une Europe qui protège 
+nos industries stratégiques.</engagement>
+      <mesure>Nous voulons un mécanisme de contrôle
+des investissements étrangers en Europe afin de préserver nos secteurs stratégiques.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Dans la discussion du Brexit, nous défendrons
+l’intégrité du marché unique européen.</engagement>
+      <mesure>outes les entreprises
+qui y accèdent doivent être soumises aux mêmes disciplines.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous créerons un marché unique du numérique
+en Europe.</engagement>
+      <mesure>Un fonds de capital-risque permettra de financer le développement
+des start-ups européennes.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous créerons un marché unique de l’énergie
+en Europe.</engagement>
+      <mesure>Nous fixerons un prix plancher du carbone dans les pays de l’Union.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous donnerons la parole au peuple.</engagement>
+      <mesure>Nous proposerons des conventions citoyennes dans toute l’Europe dès la fin de l’année 
+2017 pour redonner un sens au projet européen. Ces conventions aboutiront à un projet 
+qui sera ensuite adopté par tous les pays qui le souhaitent. Aucun État membre n’aura 
+le pouvoir de bloquer cette nouvelle étape.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+  </categorie>
 </categories>
