@@ -42,13 +42,15 @@
                 <h1>Le programme de Macron expliqué</h1>
                 
                 <xsl:for-each select="/categories/categorie">
-                    <h2>Chapitre <xsl:value-of select="count(preceding-sibling::categorie)+1" />. <xsl:value-of select="./@nom" /></h2>
+                    <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
+                    <h2>Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
                     <ol class="entrees">
                         <xsl:for-each select="./entree">
+                            <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
                             <li>
                                 <div>
-                                    <a name=""></a>
-                                    <h3>« <xsl:value-of select="./engagement" />» <span class="glyphicon glyphicon-link" data-id=""></span></h3> 
+                                    <a name="c{$chapitre}m{$element}"></a>
+                                    <h3>« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
                                     <xsl:if test="./mesure">
                                         <div class="mesure">
                                             <xsl:copy-of select="./mesure" />
