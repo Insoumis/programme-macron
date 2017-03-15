@@ -772,4 +772,82 @@ sera entièrement dématérialisée et la décision sera rendue en ligne.</mesur
       <analyse tag="warning" description="C'est une arnaque"></analyse>
     </entree>
   </categorie>
+
+  <categorie nom="Une démocratie rénovée">
+    <entree>
+      <engagement>Nous proposerons une grande loi de moralisation
+de la vie publique qui comprendra...</engagement>
+      <mesure>
+        <ul>
+        <li>L’interdiction pour les parlementaires d’exercer des activités
+       de conseil parallèlement à leur mandat, pour mettre fin
+       aux conflits d’intérêt. 
+Toutes leurs indemnités seront soumises à l’impôt.</li> 
+<li> L’interdiction de toute embauche par un élu ou un ministre
+d’un membre de sa famille. </li>
+<li> L’interdiction du cumul de plus de trois mandats identiques
+             successifs.</li>
+<li>L’interdiction pour tous les détenteurs d’un casier judiciaire
+(niveau B2) de se présenter à une élection.</li>
+<li> La suppression du régime spécial des retraites
+des parlementaires. 
+Ils seront rattachés au régime général.</li>
+<li>
+ La présentation, par le président de la République, de son bilan
+national et européen une fois par an devant le Congrès</li>
+</ul>
+</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous améliorerons le renouvellement et le pluralisme
+de notre vie politique.</engagement>
+      <mesure>
+<ul>
+<li>Nous réduirons d’environ un tiers le nombre de députés
+et de sénateurs. 
+Ils disposeront de moyens supplémentaires pour faire
+leur travail.</li>
+<li>
+ Nous obligerons les formations politiques à respecter la parité
+dans la présentation de leurs candidats. 
+Et nous diminuerons
+le financement public des formations politiques qui auront une représentation
+déséquilibrée en termes de parité.</li>
+<li>
+ Nous ferons de la procédure d’urgence la procédure par défaut
+       d’examen des textes législatifs afin d’accélérer le travail
+             parlementaire.      </li>
+<li>
+ Nous entamerons une rénovation du fonctionnement
+             parlementaire
+en limitant le nombre de mois pendant lesquels le Parlement
+légifère et en réservant plus de temps à l’évaluation et au contrôle de l’action
+du gouvernement, en s’appuyant sur les travaux de la Cour des comptes.</li>
+</ul>
+</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+     <engagement>Nous développerons la participation des citoyens.</engagement>
+      <mesure>
+<ul>
+<li>
+ Nous demanderons aux parlementaires de mettre en place
+des dispositifs innovants d’évaluation du travail parlementaire
+et législatif
+ (jurys citoyens, compte-rendus de mandat via les réseaux sociaux...).</li>
+<li>
+ Nous encouragerons les communes à développer les budgets
+       participatifs, 
+c’est-à-dire à consulter directement les citoyens sur l’utilisation
+de l’argent public.
+</li>
+</ul></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+  </categorie>
+
 </categories>
