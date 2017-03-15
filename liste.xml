@@ -85,6 +85,27 @@ des formations.</mesure>
     </entree>
   </categorie>
 
-  <categorie nom="bla">
+  <categorie nom="Libérer le travail et l’esprit d’entreprise">
+    <entree>
+      <engagement>Nous simplifierons la vie des entrepreneurs.</engagement>
+      <mesure>Nous réduirons leurs charges et 
+supprimerons le Régime Social des 
+Indépendants (RSI)
+ qui ne fonctionne pas. Nous doublerons les plafonds pour pouvoir 
+bénéficier du régime fiscal de la microentreprise. Nous mettrons fin à toute forme
+de concurrence déloyale en permettant chaque année à tous les artisans et commerçants 
+d’opter ou non, selon leurs besoins, pour le régime fiscal de la microentreprise.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous réduirons le coût du travail.</engagement>
+      <mesure>Nous aiderons les entreprises à embaucher en baissant les cotisations sociales employeurs 
+de 6 points en remplacement du CICE, et jusqu’à 10 points au niveau du SMIC 
+:
+les employeurs économiseront près de 1800 euros par an et par salarié au SMIC,
+2200 euros par an pour un salarié payé 3000 euros bruts par mois.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
   </categorie>
 </categories>
