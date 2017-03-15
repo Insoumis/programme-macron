@@ -753,7 +753,7 @@ en termes de qualité de service
 (ex  : temps d’attente, taux
 de satisfaction, etc.)</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description="C'est une arnaque"></analyse>
+      <analyse tag="danger" description="C'est inefficace et dangereux">Tout le monde veut faire du bon travail. La politique du chiffre, le durcissement des pressions et des contraintes pour obtenir des résultats est inefficace. Pire, cela provoque du mal-être, de la souffrance, et entraîne augmente les accidents et suicides sur le lieu de travail. Il y a un problème de moyens humains et matériels, et c'est ce problème qu'il est urgent d'adresser.</analyse>
     </entree>
 
     <entree>
