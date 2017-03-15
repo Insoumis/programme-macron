@@ -371,4 +371,100 @@ européenne.</mesure>
       <analyse tag="warning" description="C'est une arnaque"></analyse>
     </entree>
   </categorie>
+
+  <categorie nom="Les mêmes chances pour tous nos enfants">
+    <entree>
+      <engagement>Nous donnerons la priorité à l’école primaire</engagement>
+      <mesure>pour que tous les élèves sachent lire, écrire et compter en arrivant en 6e.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous interdirons l’usage des téléphones portables 
+dans l’enceinte des écoles primaires et des collèges.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous donnerons plus d’autonomie aux équipes
+éducatives. </engagement>
+      <mesure>Elles seront suivies et évaluées. La formation des enseignants sera
+adaptée à ce nouveau cadre.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous limiterons à 12 élèves par enseignant la taille 
+des 12 000 classes de CP et de CE1 en zone prioritaire.</engagement>
+      <mesure>Ces enseignants recevront une prime annuelle de 3000 euros nets. Et ils seront plus
+expérimentés 
+: d’ici 2022, ceux affectés en zones prioritaires auront au moins 3 ans
+d’ancienneté.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous rendrons possible le rétablissement de parcours 
+bi-langues au collège, 
+</engagement>
+      <mesure>de parcours européens et d’un véritable enseignement
+du grec et du latin</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous proposerons à tous un accompagnement 
+après la classe.</engagement>
+      <mesure>Au collège, nous rétablirons les études dirigées après la classe grâce à des bénévoles
+(étudiants et retraités).</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous moderniserons le baccalauréat.</engagement>
+      <mesure>Il y aura désormais 4 matières obligatoires à l’examen final. Les autres seront validées
+par un contrôle continu.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous renforcerons l’autonomie des universités</engagement>
+      <mesure>Elles pourront recruter leurs enseignants et définir leurs formations. Nous ouvrirons
+80 000 places dans les filières professionnalisantes.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous demanderons à chaque lycée professionnel 
+et université de publier ses résultats</engagement>
+      <mesure> (débouchés, salaires, etc.) sur les 3 dernières années.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous ouvrirons les bibliothèques en soirée
+et le week-end.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+
+    <entree>
+      <engagement> Nous créerons un « Pass Culture ». </engagement>
+      <mesure>Il permettra à chaque
+Français de 18 ans d’effectuer 500 euros de dépenses culturelles (cinéma, théâtre, livres...). 
+Nous ne retirerons pas un euro au budget du ministère de la Culture. </mesure>
+      <analyse tag="warning" description="C'est une fausse bonne idée">Cette mesure, qui envisage la culture comme un bien de consommation, a déjà été implémentée en Italie. Les résultats sont mauvais : seule une faible partie (6% environ) du budget est effectivement allouée : en l'absence d'incitation à la culture dans le parcours éducatif, la mesure est inefficace. Par ailleurs, un marché noir parallèle de revente sur les réseaux sociaux que certains jeunes utilisent pour détourner ces fonds a vu le jour (<a href="http://www.arretsurimages.net/breves/2017-03-04/Pass-Culture-de-Macron-en-Italie-un-succes-tout-relatif-id20486">source</a>).</analyse>
+    </entree>
+    <aec>
+      <aec>https://laec.fr/section/77/democratiser-la-culture-et-ses-pratiques-soutenir-ceux-qui-la-font-vivre</aec>
+    </aec>
+  </categorie>
 </categories>
