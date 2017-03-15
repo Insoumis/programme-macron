@@ -221,4 +221,78 @@ Face aux géants étrangers, des nouvelles start-ups pourront ainsi s’adresser
     </entree>
 
   </categorie>
+
+  <categorie nom="Les mêmes règles pour tous">
+        <entree>
+      <engagement>Nous mettrons fin aux injustices de notre système 
+de retraites. </engagement>
+      <mesure>Un système universel avec des règles communes de calcul des pensions sera progressive
+-
+ment mis en place. Le fait de changer d’activité ou de secteur sera sans effet sur les droits 
+à la retraite. Avec un principe d’égalité 
+: pour chaque euro cotisé, le même droit à pension 
+pour  tous !</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous ne toucherons pas à l’âge de départ
+à la retraite, ni au niveau des pensions. </engagement>
+      <mesure></mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous publierons les noms des entreprises qui ne 
+respectent pas l’égalité salariale entre les femmes
+et les hommes.</engagement>
+      <mesure>Nous testerons au hasard, et massivement, les entreprises pour vérifier qu’elles respectent 
+bien la loi en la matière</mesure>
+      <analyse tag="warning" description="C'est une arnaque">Cette mesure que les partisans d'Emmanuel Macron dénomment "name shaming" ne propose donc aucun renforcement de la législation. Il s'agit de compter sur les consommateurs pour faire infléchir le comportement des entreprises. C'est totalement inefficace pour contre des monopôles ou des entreprises dont les clients ne sont pas des particuliers (sous-traitants, par exemple). Par ailleurs, cette vision très libérale a bien prouvé son échec dans d'autres circonstances, par exemple la protection de l'environnement : beaucoup d'entreprises continuent de polluer en toute impunité, car le pouvoir du consommateur est faible et limité.</analyse>
+      <aec>
+        <aec>https://laec.fr/section/32/reprimer-les-inegalites-femmes-hommes-dans-les-entreprises</aec>
+      </aec>
+    </entree>
+
+    <entree>
+      <engagement>Nous alourdirons les sanctions contre la fraude fiscale.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> La lutte contre la fraude aux prestations sociales 
+sera amplifiée.</engagement>
+      <mesure>Une fraude grave entraînera désormais, en plus du remboursement, la suspension
+de la prestation</mesure>
+      <analyse tag="warning" description="C'est une arnaque">La fraude aux prestations sociales ne représente que ...</analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous imposerons les grands groupes de l’Internet 
+sur leur chiffre d’affaires réalisé sur notre sol.</engagement>
+      <mesure>Pour cela, la lutte contre l’optimisation fiscale sera une priorité de notre action 
+européenne</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous ferons la transparence sur l’attribution 
+des logements sociaux</engagement>
+      <mesure>Au lieu de procédures parfois opaques, nous mettrons en place un système de points,
+fondé sur des critères objectifs (taille de la famille, niveau des ressources, lieu
+de recherche). Il permettra à chacun de connaître ses chances d’obtention d’un logement 
+et le délai d’attente prévisible.</mesure>
+      <analyse tag="info"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous nous battrons contre les abus liés au travail
+détaché.</engagement>
+      <mesure>Nous devrons limiter à un an la durée autorisée de séjour d’un travailleur détaché
+dans notre pays et redéfinir au niveau européen les règles du détachement pour mettre
+fin à toutes les formes de concurrence sociale déloyale</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+  </categorie>
 </categories>
