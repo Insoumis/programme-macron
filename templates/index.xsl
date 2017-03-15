@@ -64,7 +64,7 @@
                                         </div>
                                     </div>
                                     <xsl:if test="./aec">
-                                        <h4>Qu'en dit l'«Avenir En Commun» ?</h4>
+                                        <h4>Qu'en dit l'«Avenir en Commun» ?</h4>
                                         <div class="aec">
                                             <ul>
                                                 <xsl:for-each select="./aec/aec">

@@ -150,7 +150,10 @@ d’explication de la réglementation pour les entreprises.</engagement>
       <mesure>Un site Internet unique donnera à chaque TPE ou PME les obligations légales
 et conventionnelles qu’elle doit respecter en fonction de sa situation. Les réponses
 fournies en ligne seront valables face à l’administration.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="info" description="Pourquoi pas, mais...">Il faut améliorer l'aide juridique aux PME afin de mieux les protéger et de mieux protéger leurs employés.</analyse>
+      <aec>
+        <aec>https://laec.fr/s23m5</aec>
+      </aec>
     </entree>
   </categorie>
 
@@ -225,7 +228,7 @@ de la recherche sur la transition environnementale.</engagement>
 scolaires et les restaurants d’entreprise devront 
 être bio, écologiques ou issus de circuits courts.</engagement>
       <mesure></mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="C'est flou"></analyse>
     </entree>
 
     <entree>
@@ -465,10 +468,12 @@ et université de publier ses résultats</engagement>
     </entree>
 
     <entree>
-      <engagement> Nous ouvrirons les bibliothèques en soirée
+      <engagement>Nous ouvrirons les bibliothèques en soirée
 et le week-end.</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description="C'est une arnaque"></analyse>
+      <analyse tag="warning" description="Méfiance">
+        Indépendamment de son efficacité, cette mesure intringue, car elle semble conflictuelle avec la volonté d'Emmanuel Macron de supprimer 120.000 postes dans les fonctions publiques d'État et territoriale. 
+      </analyse>
     </entree>
 
     <entree>
