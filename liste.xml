@@ -295,4 +295,80 @@ fin à toutes les formes de concurrence sociale déloyale</mesure>
       <analyse tag="warning" description="C'est une arnaque"></analyse>
     </entree>
   </categorie>
+
+  <categorie nom="Un état qui protège">
+        <entree>
+      <engagement>Nous recruterons 10 000 policiers et gendarmes
+supplémentaires.</engagement>
+      <mesure>Ils renforceront notamment notre dispositif de renseignement contre le terrorisme.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous créerons une police de sécurité quotidienne.</engagement>
+      <mesure>Au plus près des Français, elle développera une connaissance approfondie des lieux
+et des habitants qu’elle sera chargée de protéger et d’entendre.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous donnerons aux policiers et aux gendarmes
+un nouveau pouvoir </engagement>
+      <mesure>sous le contrôle du juge, ils pourront interdire
+à une personne délinquante de fréquenter le quartier où elle a commis ses délits</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous ne tolèrerons plus les incivilités.</engagement>
+      <mesure>Le harcèlement des femmes, les insultes, la dégradation du mobilier urbain,
+les crachats... Ces incivilités seront punies d’amendes immédiates et dissuasives.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Toute peine prononcée sera exécutée.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous construirons 15 000 nouvelles places de prison.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous confirmerons la cyberdéfense
+et la cybersécurité comme priorités de notre sécurité nationale.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous augmenterons les moyens de nos armées.</engagement>
+      <mesure>Nous mobiliserons 2% du PIB qui serviront à renouveler les avions ravitailleurs,
+à moderniser les blindés de l’armée de terre, ainsi que la flotte de surface de notre marine 
+nationale.</mesure>
+      <analyse tag="danger" description="C'est dangereux">Le chiffre de 2% ne tombe pas du ciel : c'est une demande de longue date des États-Unis, qui souhaitent que la France augmente son budget de la défense afin d'acheter "sur étagère" auprès d'eux du matériel de guerre. Cela a essentiellement pour but de financer leur industrie de l'armement, et contribue à la prolifération des armes.</analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous créerons un état-major permanent des
+opérations de sécurité intérieure, de renseignement
+et de lutte contre le terrorisme.</engagement>
+      <mesure>Directement rattaché au président de la République, il associera les services et états-
+majors des ministères de l’Intérieur et de la Défense, avec la participation des ministères 
+des transports, de la santé et de l’industrie.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous agirons avec nos partenaires européens pour 
+créer une force de 5000 garde-frontières européens.</engagement>
+      <mesure>Ils seront chargés de surveiller et protéger les frontières extérieures de l’Union 
+européenne.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+  </categorie>
 </categories>
