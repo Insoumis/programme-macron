@@ -1,0 +1,90 @@
+<!-- Structure -->
+<!--
+
+categories
+  categorie
+    mesure (la mesure citée du programme)
+    analyse (notre analyse)
+    aec (ce qu'en dit l'avenir en commun)
+      aec (lien vers laec.fr)
+
+Valeurs pour analyse tag="?" :
+  danger (rouge)
+  warning (orange)
+  info (bleu)
+  success (vert)
+ 
+-->
+
+<categories>
+  <categorie nom="Bien vivre de son travail et inventer de nouvelles protections">
+    <entree>
+      <engagement> Nous améliorerons le pouvoir d’achat de tous les travailleurs.</engagement>
+      <mesure>Sans que cela ne revienne plus cher aux employeurs, nous réduirons les cotisations
+payées par les salariés, par les indépendants et par les fonctionnaires 
+: près de 
+500 euros
+supplémentaires nets par an pour un salaire de 2200 euros nets par mois 
+!</mesure>
+      <analyse tag="danger" description="C'est de l'arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous augmenterons le pouvoir d’achat des ouvriers, 
+des employés et des salariés les moins bien payés. </engagement>
+      <mesure>Tous les smicards qui bénéficient de la prime d’activité toucheront par exemple l’équivalent 
+d’un 
+13
+e
+ mois de salaire, soit 100€ nets de plus chaque mois</mesure>
+      <analyse tag="warning" description="C'est...">Explication</analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous améliorerons le pouvoir d’achat de tous les travailleurs.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous ouvrirons les droits à l’assurance-chômage 
+aux salariés qui démissionnent.</engagement>
+      <mesure>Ce droit ne sera utilisable qu’une fois tous les cinq ans. En contrepartie, 
+l’insuffisance 
+des efforts de recherche d’emploi ou le refus d’offres raisonnables 
+entraîneront la suspension des allocations.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous engagerons un effort national de formation 
+sans précédent.</engagement>
+      <mesure>Nous formerons 1 million de jeunes et 1 million de demandeurs d’emploi peu ou pas
+qualifiés et aujourd’hui sans perspective.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+    <entree>
+      <engagement>  Nous serons aux côtés des agriculteurs pour qu’ils 
+vivent de leur travail, plutôt que des aides publiques.</engagement>
+      <mesure>5 milliards d’euros de notre Plan d’investissement seront consacrés à la modernisation de 
+leurs exploitations. Et 
+nous les aiderons à être payés au prix juste 
+en soutenant 
+les organisations de producteurs dans leurs négociations avec les industriels. Nous nous 
+battrons pour faire évoluer dans ce sens le droit européen de la concurrence.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+    <entree>
+      <engagement>Nous ferons un effort massif pour l’apprentissage.</engagement>
+      <mesure>Nous développerons les périodes de pré-apprentissage et les filières en alternance dans
+tous les lycées professionnels. Des licences professionnelles seront préparées sur trois ans
+et en alternance. Nous ferons converger les contrats existants et impliquerons pleinement
+les branches professionnelles dans la définition des programmes et l’organisation
+des formations.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+  </categorie>
+
+  <categorie nom="bla">
+  </categorie>
+</categories>
