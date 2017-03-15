@@ -85,6 +85,8 @@ des formations.</mesure>
     </entree>
   </categorie>
 
+
+
   <categorie nom="Libérer le travail et l’esprit d’entreprise">
     <entree>
       <engagement>Nous simplifierons la vie des entrepreneurs.</engagement>
@@ -141,5 +143,78 @@ et conventionnelles qu’elle doit respecter en fonction de sa situation. Les r�
 fournies en ligne seront valables face à l’administration.</mesure>
       <analyse tag="warning"></analyse>
     </entree>
+  </categorie>
+
+
+  <categorie nom="Inventer un nouveau modèle de croissance">
+    <entree>
+      <engagement> Nous lancerons un grand Plan d’investissement 
+de 50 milliards d’euros.</engagement>
+      <mesure>Ce plan sur 5 ans sera mis au service des qualifications de tous les citoyens, de la transition 
+écologique, de la révolution numérique, de la modernisation des services publics et de la 
+rénovation urbaine.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous soutiendrons l’investissement privé.</engagement>
+      <mesure>Nous baisserons l’impôt sur les sociétés de 33,3% à 25% pour rejoindre la moyenne 
+européenne. Nous transformerons le CICE en allègements de charges pérennes,
+et l’ISF en « 
+Impôt sur la Fortune Immobilière 
+» sans accroître la fiscalité actuelle
+sur l’immobilier et les droits de succession, et sans taxer ce qui finance les entreprises
+et l’emploi. Nous créerons un prélèvement unique sur les revenus du capital, de l’ordre
+de 30%</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+
+    <entree>
+      <engagement> Nous créerons un Fonds pour l’industrie 
+et l’innovation.</engagement>
+      <mesure>Doté de 10 milliards d’euros issus des actions d’entreprises possédées de manière 
+minoritaire par l’État, il servira à financer l’industrie du futur.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous placerons la France en tête du combat contre 
+les perturbateurs endocriniens et les pesticides.</engagement>
+      <mesure>Ils sont l’une des principales causes de l’augmentation des cancers des enfants depuis 
+20 ans.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous rénoverons 1 million de logements mal isolés 
+d’ici 2022</engagement>
+      <mesure>et en priorité ceux des propriétaires les plus modestes.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> Nous ferons de la France le leader mondial 
+de la recherche sur la transition environnementale.</engagement>
+      <mesure>Les spécialistes étrangers bénéficieront de formalités d’accueil accélérées.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement> D’ici 2022, 50% des produits proposés par les cantines 
+scolaires et les restaurants d’entreprise devront 
+être bio, écologiques ou issus de circuits courts.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous créerons une banque de données numériques.</engagement>
+      <mesure>Les administrations chargées d’autoriser des activités (l’ouverture d’un hôtel, ou l’obtention d’une licence de chauffeur privé, ...) devront mettre à disposition leurs données.
+Face aux géants étrangers, des nouvelles start-ups pourront ainsi s’adresser par exemple
+à tous les hôteliers pour leur offrir de nouveaux services.</mesure>
+      <analyse tag="warning"></analyse>
+    </entree>
+
   </categorie>
 </categories>
