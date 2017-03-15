@@ -455,7 +455,6 @@ et le week-end.</engagement>
       <analyse tag="warning" description="C'est une arnaque"></analyse>
     </entree>
 
-
     <entree>
       <engagement> Nous créerons un « Pass Culture ». </engagement>
       <mesure>Il permettra à chaque
@@ -465,6 +464,72 @@ Nous ne retirerons pas un euro au budget du ministère de la Culture. </mesure>
       <aec>
         <aec>https://laec.fr/section/77/democratiser-la-culture-et-ses-pratiques-soutenir-ceux-qui-la-font-vivre</aec>
       </aec>
+    </entree>
+  </categorie>
+
+  <categorie nom="Fiers d'être français : exigence et bienveillance">
+    <entree>
+      <engagement>Nous appliquerons strictement le principe de laïcité.</engagement>
+      <mesure>Nous organiserons pour les ministres du culte une formation universitaire à la laïcité, aux 
+valeurs de la République et à la langue française. Nous développerons la connaissance des 
+différentes religions à l’école en prévoyant un enseignement spécifique sur le fait religieux.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous n’étendrons pas l’interdiction du voile
+à l’université.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous démantèlerons les associations qui, sous couvert
+de religion, s’attaquent à la République.</engagement>
+      <mesure> Nous fermerons 
+définitivement les lieux de culte dans lesquels certaines prêchent l’apologie du terrorisme.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous ferons de la maîtrise de la langue française
+le principal critère de l’obtention de la nationalité
+française.</engagement>
+      <mesure>Nous renforcerons l’apprentissage de notre langue pour les candidats à la naturalisation. 
+Quelle meilleure preuve de la volonté de quelqu’un de s’intégrer et de devenir français 
+?</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous examinerons les demandes d’asile en moins
+de 6 mois, recours compris.</engagement>
+      <mesure>C’est nécessaire pour accueillir dignement les réfugiés qui ont droit à la protection
+de la France. Les autres seront reconduits sans délai vers leur pays afin qu’ils ne deviennent 
+pas des immigrés clandestins.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous créerons des emplois francs pour encourager 
+l’embauche des habitants des quartiers prioritaires de 
+la politique de la ville.</engagement>
+      <mesure>Quel que soit le lieu où elle se situe, une entreprise qui recrutera en CDI un habitant
+de l’un de ces quartiers bénéficiera d’une prime de 15 000 euros sur 3 ans 
+: c’est comme
+si elle ne payait plus de charges 
+!</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous ferons de la lutte contre la discrimination
+une priorité nationale.</engagement>
+      <mesure>Nous développerons des opérations de contrôle aléatoires et imprévues à grande échelle, 
+en matière d’accès à l’emploi ou au logement. 
+Les partenaires sociaux seront
+également mobilisés.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
     </entree>
   </categorie>
 </categories>
