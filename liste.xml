@@ -703,4 +703,73 @@ l’Allocation Adulte Handicapé (AAH).</engagement>
       <analyse tag="warning" description="C'est une arnaque"></analyse>
     </entree>
   </categorie>
+
+  <categorie nom="Rendre la vie des français plus facile">
+    <entree>
+      <engagement>Nous créerons un droit à l’erreur pour tous.</engagement>
+      <mesure>Le cœur de la mission de l’administration ne sera plus la sanction mais le conseil
+et l’accompagnement, sauf en matière pénale, ou lorsque la sécurité est engagée.
+Par exemple, aujourd’hui, un employeur qui oublie de déclarer à l’URSSAF la prime
+de Noël qu’il verse à ses salariés est condamné à une amende. Il pourra demain faire
+valoir son droit à l’erreur. Aujourd’hui, des grands-parents qui hébergent leur petite-fille 
+parce qu’elle vient de trouver un emploi près de chez eux doivent la déclarer à la CAF
+sous peine de perdre une partie de leurs allocations logement et de payer des pénalités.
+Ils pourront demain faire valoir leur droit à l’erreur et ne plus payer de pénalités.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous passerons à la vitesse supérieure en ce qui 
+concerne la numérisation de l’administration.</engagement>
+      <mesure>Tous les renouvellements de documents officiels (carte d’identité, passeport, carte
+grise, etc.) devront pouvoir se faire en ligne, sans nécessité de se déplacer. Les horaires
+d’ouverture des services publics seront par ailleurs élargis aux soirées et au samedi
+pour s’adapter aux nouveaux modes de vie des Français.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous donnerons aux préfets la capacité d’adapter 
+l’organisation des services de l’État aux besoins
+de chaque région et département.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous ne rajouterons aucune norme nationale
+aux normes européennes dans les secteurs agricole,
+maritime et de la pêche.</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Tous les services publics 
+accueillant du public (hôpital, école, 
+tribunal, CAF, etc.)
+ seront tenus d’afficher leurs résultats
+en termes de qualité de service 
+(ex  : temps d’attente, taux
+de satisfaction, etc.)</engagement>
+      <mesure></mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous établirons dans chaque département
+un tribunal de première instance qui sera le guichet 
+unique permettant un accès facilité au juge.</engagement>
+      <mesure>Nous ne fermerons aucun site.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+
+    <entree>
+      <engagement>Nous raccourcirons les délais de jugement pour
+les litiges inférieurs à 4000 euros.</engagement>
+      <mesure>La procédure les concernant
+sera entièrement dématérialisée et la décision sera rendue en ligne.</mesure>
+      <analyse tag="warning" description="C'est une arnaque"></analyse>
+    </entree>
+  </categorie>
 </categories>
