@@ -2,6 +2,9 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs">
+
+    <xsl:variable name="propositions" select="count(//engagement)" />
+    <xsl:variable name="analyses" select="count(//analyse[text()])" />
     
     <xsl:template match="/">
         <html>
@@ -41,6 +44,8 @@
                 <div class="container">
                     
                 <h1>Le programme de Macron expliqué</h1>
+
+                <p>Progression : <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.</p>
                 
                 <xsl:for-each select="/categories/categorie">
                     <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
