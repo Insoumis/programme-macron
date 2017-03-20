@@ -363,13 +363,23 @@ les crachats... Ces incivilités seront punies d’amendes immédiates et dissua
     <entree>
       <engagement>Toute peine prononcée sera exécutée.</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Dangereux">Cette mesure semble innocente, mais si on l'interprète au pied de la lettre, elle revient à supprimer les <a href="http://www.vie-publique.fr/decouverte-institutions/justice/fonctionnement/administration-penitentiaire/peines-emprisonnement-peuvent-elles-etre-amenagees.html">aménagements de peine</a>, qui donnent de la latitude à la Justice pour suivre et évaluer les décisions de sanction optimales pour chaque individu. <a href="https://criminocorpus.revues.org/2489">Des études montrent</a> que ceci est de fait assez efficace : il y a moins de récidive chez les personnes ayant bénéficié d'aménagement de peine, prouvant sinon leur effet positif, du moins qu'elles sont bienfondées.</analyse>
     </entree>
 
     <entree>
       <engagement>Nous construirons 15 000 nouvelles places de prison.</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="danger" description="C'est une fausse bonne idée">
+        Certes, les prisons françaises sont actuellement en sous-capacité d'environ 10.000 places. Cependant, créer 15.000 places supplémentaires est un fausse bonne idée pour trois raisons principales :
+        <ul>
+          <li>Selon la proposition <a href="#c4m5">précédente</a>, l'objectif semble être de ne plus effectuer d'aménagements de peine. Dans ce cas, étant donné que <a href="http://www.lemonde.fr/les-decodeurs/article/2016/09/20/surpopulation-carcerale-la-france-a-la-traine-en-europe_5000876_4355770.html">le nombre de peines de prison ferme prononcées en 2014 étant d'environ 120.000 soit le double de la population carcérale actuelle</a>, ceci serait clairement insuffisant pour accueillir les dizaines de milliers de détenus supplémentaires.</li>
+          <li>Depuis 2002, dernière date à laquelle la France n'était pas en surpopulation carcérale, 10.000 places ont été créées. Le problème est donc la nette augmentation du nombre de peines exécutées !</li>
+          <li>Les conditions de détention sont mauvaises et désocialisantes. Augmenter le nombre de détenus en l'état revient à augmenter le nombre d'individus désocialisés et placés dans des conditions défavorables à une bonne réinsertion.</li>
+        </ul>
+      </analyse>
+      <aec>
+        <aec>https://laec.fr/section/11/une-justice-au-nom-du-peuple</aec>
+      </aec>
     </entree>
 
     <entree>
