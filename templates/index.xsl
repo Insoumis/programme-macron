@@ -75,7 +75,7 @@
                                                 <xsl:for-each select="./aec/aec">
                                                     <xsl:choose>
                                                       <xsl:when test="./@href">
-                                                        <li><a href="{./@href}"><xsl:value-of select="." /></a></li>
+                                                        <li><a href="{./@href}">« <xsl:value-of select="." /> »</a></li>
                                                       </xsl:when>
                                                       <xsl:otherwise>
                                                         <li><a href="{.}"><xsl:value-of select="." /></a></li>
