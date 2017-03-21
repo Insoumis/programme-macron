@@ -142,6 +142,11 @@ droit à l’assurance-chômage. </engagement>
       <mesure>Les artisans, les commerçants indépendants, les entrepreneurs, les professions libérales,
 et les agriculteurs disposeront, comme les salariés, de cette protection. </mesure>
       <analyse tag="warning"></analyse>
+      <aec>
+        <aec>https://laec.fr/s26m2</aec>
+        <aec>https://laec.fr/s26m3</aec>
+        <aec>https://laec.fr/s26m5</aec>
+      </aec>
     </entree>
 
     <entree>
