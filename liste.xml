@@ -773,8 +773,11 @@ et un salaire décent.</mesure>
       <engagement>Nous augmenterons de 100 euros par mois
 l’Allocation Adulte Handicapé (AAH).</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="C'est insuffisant">Actuellement à 808 euros par mois, l'AAH, même augmentée de 100 euros, resterait sous le seuil de pauvreté.</analyse>
     </entree>
+    <aec>
+      <aec>https://laec.fr/section/68/pas-d-obstacle-aux-personnes-en-situation-de-handicap</aec>
+    </aec>
   </categorie>
 
   <categorie nom="Rendre la vie des français plus facile">
