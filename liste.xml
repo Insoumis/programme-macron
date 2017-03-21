@@ -213,7 +213,13 @@ les perturbateurs endocriniens et les pesticides.</engagement>
       <engagement>Nous rénoverons 1 million de logements mal isolés 
 d’ici 2022</engagement>
       <mesure>et en priorité ceux des propriétaires les plus modestes.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="C'est insuffisant">La France compte <a href="https://www.insee.fr/fr/statistiques/2533533">35 425 000 logements</a> (dont plus de la moitié sont des logements individuels).
+A ce rythme, tous les logements ne seront rénovés qu'en 2192 ! Il faudra donc de la patience.
+</analyse>
+      <aec>
+        <aec>https://laec.fr/section/40/plan-de-renovation-ecologique-de-tout-le-bati</aec>
+        <aec>https://laec.fr/section/47/organiser-et-amenager-le-territoire-par-la-democratie-et-les-services-publics</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -228,7 +234,15 @@ de la recherche sur la transition environnementale.</engagement>
 scolaires et les restaurants d’entreprise devront 
 être bio, écologiques ou issus de circuits courts.</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description="C'est flou"></analyse>
+      <analyse tag="warning" description="C'est flou et contradictoire">Si les termes utilisés “bio”, “écologiques” et “circuits courts” laissent à penser que c’est une proposition innovante en matière d’environnement, ce n’est malheureusement pas vrai :
+<ul>
+<li>Il faut comprendre de cette proposition que sur 50% des produits des restaurants scolaires et d’entreprises, une partie sera bio, une autre écologique (ce qui ne veut absolument rien dire) et enfin une dernière partie sera issue de circuits courts (et ne sera donc pas bio).</li>
+<li>Cette proposition reste incantatoire : il faut des propositions concrètes pour repenser et transformer notre modèle agricole pour garantir à tous une alimentation saine et de qualité. Or, les mesures proposées par Macron se bornent à <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique">encadrer les méthodes de production actuelles sans promouvoir d'alternative</a>, alors même que la <a href="#c10m4">proposition 10.4 du programme</a> annonce qu'aucune norme agricole supplémentaire ne sera instaurée au niveau national.</li>
+</ul>
+</analyse>
+      <aec>
+        <aec>https://laec.fr/section/46/pour-une-agriculture-ecologique-et-paysanne</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -427,7 +441,16 @@ européenne.</mesure>
       <engagement> Nous interdirons l’usage des téléphones portables 
 dans l’enceinte des écoles primaires et des collèges.</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Ça existe déjà"><a href="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071191&amp;idArticle=LEGIARTI000022494861">Une loi interdit déjà l'usage du téléphone portable par les élèves dans les écoles maternelles et primaires ainsi que les collèges</a>. Le problème réside donc dans l'incapacité des équipes éducatives à faire appliquer cette loi, et à la tâche de surveillance accordée aux enseignants alors que ce n'est pas leur métier.</analyse>
+      <aec>
+        <aec>https://laec.fr/section/73/instruire-mieux-et-davantage</aec>
+        <aec>https://avenirencommun.fr/le-livret-education/</aec>
+        <aec>recruter 8
+000 conseillers principaux d’éducation (CPE) et garantir la présence 
+d’au  moins  un  CPE  à  plein  temps  dans  chaque  établissement,  avec  un  plan 
+de pré-recrutement ouvert aux assistant·e·s d’éducation (AED), et recentrer le 
+métier autour de ses missions éducatives</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -787,7 +810,7 @@ de chaque région et département.</engagement>
 aux normes européennes dans les secteurs agricole,
 maritime et de la pêche.</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description="C'est une arnaque">Premièrement, c'est une non-mesure. De plus, </analyse>
+      <analyse tag="warning" description="C'est une arnaque">Premièrement, c'est une non-mesure, on peut donc se demander pourquoi celle-ci figure dans le programme. Cependant, il est intéressant de noter que celle-ci contredit une volonté affichée - sans pour autant être étayée de proposition concrètes - de diminuer, par exemple, <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique">l'usage de pesticides</a> (<a href="#c3m4">proposition 3.4</a>). Emmanuel Macron souhaiterait donc lutter contre l'usage de pesticides au niveau européen... Mais il est clair qu'il n'y a pas de volonté européenne pour cela, comme le prouve le vote du CETA par le parlement européen, qui est une <a href="http://www.amisdelaterre.org/Le-CETA-c-est-quoi-on-en-est-ou-Notre-FAQ-pour-tout-comprendre.html#answer5">régression fondamentale sur les questions sanitaires liées à l'agriculture et notamment les pesticides</a>, et que <a href="http://www.lemonde.fr/les-decodeurs/article/2017/02/13/emmanuel-macron-seul-candidat-a-la-presidentielle-ouvertement-favorable-au-ceta_5078997_4355770.html">soutient M. Macron.</a></analyse>
     </entree>
 
     <entree>
