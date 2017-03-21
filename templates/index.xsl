@@ -73,7 +73,14 @@
                                         <div class="aec">
                                             <ul>
                                                 <xsl:for-each select="./aec/aec">
-                                                    <li><a href="{.}"><xsl:value-of select="." /></a></li>
+                                                    <xsl:choose>
+                                                      <xsl:when test="./@href">
+                                                        <li><a href="{./@href}"><xsl:value-of select="." /></a></li>
+                                                      </xsl:when>
+                                                      <xsl:otherwise>
+                                                        <li><a href="{.}"><xsl:value-of select="." /></a></li>
+                                                      </xsl:otherwise>
+                                                    </xsl:choose>
                                                 </xsl:for-each>
                                             </ul>
                                         </div>
