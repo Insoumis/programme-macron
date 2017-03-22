@@ -44,6 +44,10 @@
                     div.analyse div {
                         margin-top: 0.5em;
                     }
+
+                    .share-buttons > li > a {
+                        padding: 9px 15px;
+                    }
                 </style>
             </head>
             <body>
