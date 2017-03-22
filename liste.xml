@@ -26,7 +26,9 @@ payées par les salariés, par les indépendants et par les fonctionnaires
 500 euros
 supplémentaires nets par an pour un salaire de 2200 euros nets par mois 
 !</mesure>
-      <analyse tag="danger" description=""></analyse>
+      <analyse tag="danger" description="C'est de l'arnaque">
+        Les cotisations représentent la part socialisée du salaire. Elles bénéficient donc aussi aux travailleurs (via les retraites, la sécurité sociale, et l'assurance chômage), mais leur distribution est contrôlée par un choix politique : cela donne un contrôle citoyen de la répartition des richesses, et finance des mesures de protection absolument vitales. Au final, les travailleurs contribueront toujours au financement de ces mesures mais via l'impôt. L'idée est donc de transférer une partie sur la Contribution Sociale Généralisée, auxquels sont soumis les retraités par exemple. Or, ceci a déjà été tenté par le gouvernement Valls, mais a été <a href="http://www.lemonde.fr/election-presidentielle-2017/article/2016/12/10/macron-et-son-projet-de-reforme-des-cotisations-qui-intrigue_5046832_4854003.html">retoqué par le Conseil Constitutionnel</a>. En effet, celui ci considère que la cotisation équivaut à l'ouverture d'un droit, or les retraités ne sont de fait pas concernés par le droit à l'assurance chômage.
+      </analyse>
       <aec>
           <aec>https://laec.fr/section/30/augmenter-les-salaires</aec>
           <aec>https://laec.fr/section/26/construire-un-nouveau-statut-protecteur-pour-les-travailleurs-la-securite-sociale-integrale</aec>
@@ -41,7 +43,7 @@ d’un
 13
 e
  mois de salaire, soit 100€ nets de plus chaque mois</mesure>
-      <analyse tag="warning" description="">Explication</analyse>
+      <analyse tag="warning" description=""></analyse>
     </entree>
 
     <entree>
