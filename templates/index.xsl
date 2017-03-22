@@ -9,24 +9,29 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link href="/elements/favicon-apple-touch-icon.png" sizes="180x180" rel="apple-touch-icon" />
-                <link sizes="32x32" href="/elements/favicon-32x32.png" type="image/png" rel="icon" />
-                <link sizes="16x16" href="/elements/favicon-16x16.png" type="image/png" rel="icon" />
-                <link color="#0198b5" href="/elements/favicon-safari-pinned-tab.svg" rel="mask-icon" />
+                <base href="https://insoumis.github.io/programme-macron/" />
+                <link href="/elements/logo-180x180.png" sizes="180x180" rel="apple-touch-icon" />
+                <link sizes="32x32" href="/elements/logo-32x32.png" type="image/png" rel="icon" />
+                <link sizes="16x16" href="/elements/logo-16x16.png" type="image/png" rel="icon" />
+                <link color="#0198b5" href="/elements/logo-transparent.svg" rel="mask-icon" />
                 <meta content="#ffffff" name="theme-color" />
-                <meta content="Portail insoumis" name="apple-mobile-web-app-title" />
-                <meta content="Portail insoumis" name="application-name" />
+                <meta content="Analysons Macron" name="apple-mobile-web-app-title" />
+                <meta content="Analysons Macron" name="application-name" />
                 <meta charset="utf-8" />
                 <link href="/includes/manifest.json" rel="manifest" />
-                <meta content="Portail insoumis" property="og:title" />
+                <meta content="Analysons Macron" property="og:title" />
                 <meta content="website" property="og:type" />
-                <meta content="https://checklist.insoumis.online/" property="og:url" />
-                <meta content="http://checklist.insoumis.online/elements/open-graph.jpg" property="og:image" />
+                <meta content="https://insoumis.github.io/programme-macron/" property="og:url" />
+                <meta content="https://insoumis.github.io/programme-macron/elements/logo-256x256.png" property="og:image" />
                 <title>Le programme de Macron expliqué</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
                 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
                 <style type="text/css">
+                    h2.chapitre {
+                      
+                    }
+
                     div.mesure {
                         font-style: italic;
                         padding-left: 2em;
@@ -73,7 +78,7 @@
                 <xsl:for-each select="/categories/categorie">
                     <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                     <a name="c{$chapitre}"></a>
-                    <h2>Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
+                    <h2 class="chapitre">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
                     <ol class="entrees">
                         <xsl:for-each select="./entree">
                             <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
