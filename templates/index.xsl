@@ -24,6 +24,8 @@
                 <meta content="http://checklist.insoumis.online/elements/open-graph.jpg" property="og:image" />
                 <title>Le programme de Macron expliqué</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+                <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
                 <style type="text/css">
                     div.mesure {
                         font-style: italic;
@@ -54,7 +56,7 @@
                         <ul class="dropdown-menu">
                            <xsl:for-each select="/categories/categorie">
                             <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
-                            <li><a href="#c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
+                            <li><a href="#c{$chapitre}"><xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
                            </xsl:for-each>
                         </ul>
                       </li>
@@ -114,6 +116,9 @@
                 </xsl:for-each>
                 
                 </div>
+
+              <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
             </body>
         </html>
     </xsl:template>
