@@ -66,6 +66,12 @@
                       </li>
                       <li class="active"><a href="pourquoi.html">Pourquoi ce site ?</a></li>
                     </ul>
+                    <ul class="nav navbar-nav navbar-right share-buttons">
+                      <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fanalysons-macron.fr%2F&amp;t=Analysons%20Macron" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="elements/Facebook.png" /></a></li>
+                      <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fanalysons-macron.fr%2F&amp;text=Analysons%20Macron:%20http%3A%2F%2Fanalysons-macron.fr%2F" target="_blank" title="Tweet"><img alt="Tweet" src="elements/Twitter.png" /></a></li>
+                      <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fanalysons-macron.fr%2F" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="elements/Google+.png" /></a></li>
+                      <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fanalysons-macron.fr%2F&amp;title=Analysons%20Macron&amp;summary=Analyse%20du%20programme%20d'Emmanuel%20Macron%20par%20des%20militants%20de%20la%20France%20Insoumise.&amp;source=http%3A%2F%2Fanalysons-macron.fr%2F" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="elements/LinkedIn.png" /></a></li>
+                    </ul>
                   </div>
                 </nav>
                 <div class="container">
@@ -76,6 +82,25 @@
 
                 <p>Bien évidemment, il s'agit d'une critique orientée (comment une critique ne pourrait pas l'être), mais nous avons cherché à être aussi rigoureux que possible. Nous espérons que ce travail vous sera utile.</p>
 
+                <h2>Lien utiles</h2>
+                <h3>En Marche (Emmanuel Macron)</h3>
+                <p>
+                  <ul>
+                    <li><a href="http://www.en-marche.fr/emmanuel-macron/le-programme">Programme complet d'Emmanuel Macron</a></li>
+                    <li><a href="https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf">Programme synthétisé d'Emmanuel Macron</a></li>
+                  </ul>
+                </p>
+
+                <h3>La France Insoumise (Jean-Luc Mélenchon)</h3>
+                <p>
+                  <ul>
+                    <li><a href="http://avenirencommun.fr/">Site officiel du programme</a></li>
+                    <li><a href="https://laec.fr/">Consulter le programme en ligne</a></li>
+                    <li><a href="http://melenchonouimais.fr/">Mélenchon oui, mais...</a></li>
+                  </ul>
+                </p>
+
+                <p><i>Il s'agit d'une initiative <b>non officielle</b> de jeunes insoumis, et le contenu de ce site n'engage que nous.</i></p>
                 </div>
 
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
