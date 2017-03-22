@@ -94,6 +94,7 @@
                   </ul>
                 </p>
 
+                <p><i>Il s'agit d'une initiative <b>non officielle</b> de jeunes insoumis, et le contenu de ce site n'engage que nous.</i></p>
                 </div>
 
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
