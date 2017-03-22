@@ -338,7 +338,11 @@ des logements sociaux</engagement>
 fondé sur des critères objectifs (taille de la famille, niveau des ressources, lieu
 de recherche). Il permettra à chacun de connaître ses chances d’obtention d’un logement 
 et le délai d’attente prévisible.</mesure>
-      <analyse tag="info"></analyse>
+      <analyse tag="warning" description="Méfiance">L'intention de diminuer le temps de la procédure est louable. Mais le faire en la rendant plus automatique et en diminuant le rôle de la commission d'attribution est très risqué. Celle-ci se doit en effet de tenir compte avec humanité d'un nombre importants de paramètres très variables. C'est le cas des victimes de violences conjugales par exemple. C'est là le côté pervers d'un système de points : combien de points cela rapportera-t-il d'être une femme ou un homme battu.e ? Cette tournure, volontairement choquante, devrait faire réfléchir sur les dérives d'une telle mesure.<br />
+De plus, le problème de fond, il ne faudrait pas l'oublier, est le manque de logements publics.</analyse>
+      <aec>
+        <aec>https://laec.fr/section/34/garantir-le-droit-effectif-au-logement</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -347,7 +351,11 @@ détaché.</engagement>
       <mesure>Nous devrons limiter à un an la durée autorisée de séjour d’un travailleur détaché
 dans notre pays et redéfinir au niveau européen les règles du détachement pour mettre
 fin à toutes les formes de concurrence sociale déloyale</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Méfiance">Le régime des travailleurs détachés est, par nature, en l'absence d'harmonisation sociale, une forme de concurrence déloyale ("dumping social"). Or, les traités européens (qui ne peuvent être remis en question qu'à l'unanimité) <a href="http://www.jurion.fanc.fgov.be/jurdb-consult/plainWettekstServlet?wettekstId=9820&amp;lang=fr">interdisent l'harmonisation salariale</a> par exemple. Et surtout, les (faibles) volontés affichées de réformer le statut des travailleurs détachés sont <a href="https://www.challenges.fr/economie/comment-l-europe-veut-reduire-le-dumping-social-des-travailleurs-detaches_415216">bloquées par les pays de l'est de l'Union Européenne</a>.
+<br />Enfin, limiter à un an la durée de séjour n'aura probablement aucun impact. Les emplois à basse qualification, ou les emplois du BTP, <a href="http://www.lemonde.fr/emploi/article/2013/12/02/cinq-questions-autour-des-travailleurs-detaches_3523921_1698637.html">qui sont les plus concernés par les travailleurs détachés en France</a>, peuvent très bien recruter des étrangers sur des périodes plus courtes.</analyse>
+      <aec>
+        <aec>https://laec.fr/s49m2</aec>
+      </aec>
     </entree>
   </categorie>
 
