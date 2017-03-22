@@ -9,7 +9,6 @@
     <xsl:template match="/">
         <html>
             <head>
-                <base href="https://insoumis.github.io/programme-macron/" />
                 <link href="/elements/logo-180x180.png" sizes="180x180" rel="apple-touch-icon" />
                 <link sizes="32x32" href="/elements/logo-32x32.png" type="image/png" rel="icon" />
                 <link sizes="16x16" href="/elements/logo-16x16.png" type="image/png" rel="icon" />
@@ -21,8 +20,8 @@
                 <!--<link href="/includes/manifest.json" rel="manifest" />-->
                 <meta content="Analysons Macron" property="og:title" />
                 <meta content="website" property="og:type" />
-                <meta content="https://insoumis.github.io/programme-macron/" property="og:url" />
-                <meta content="https://insoumis.github.io/programme-macron/elements/logo-256x256.png" property="og:image" />
+                <meta content="https://analysons-macron.fr/" property="og:url" />
+                <meta content="https://analysons-macron.fr/elements/logo-256x256.png" property="og:image" />
                 <title>Le programme de Macron expliqué</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
                 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
