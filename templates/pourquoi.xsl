@@ -12,7 +12,7 @@
                 <link href="/elements/logo-180x180.png" sizes="180x180" rel="apple-touch-icon" />
                 <link sizes="32x32" href="/elements/logo-32x32.png" type="image/png" rel="icon" />
                 <link sizes="16x16" href="/elements/logo-16x16.png" type="image/png" rel="icon" />
-                <link color="#0198b5" href="/elements/logo-transparent.svg" rel="mask-icon" />
+                <link color="#ffffff" href="/elements/logo-transparent.svg" rel="mask-icon" />
                 <meta content="#ffffff" name="theme-color" />
                 <meta content="Analysons Macron" name="apple-mobile-web-app-title" />
                 <meta content="Analysons Macron" name="application-name" />
