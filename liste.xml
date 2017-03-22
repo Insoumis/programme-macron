@@ -366,7 +366,10 @@ fin à toutes les formes de concurrence sociale déloyale</mesure>
       <engagement>Nous recruterons 10 000 policiers et gendarmes
 supplémentaires.</engagement>
       <mesure>Ils renforceront notamment notre dispositif de renseignement contre le terrorisme.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="success" description="C'est bien!">Ce recrutement <a href="http://www.lemonde.fr/les-decodeurs/article/2016/06/08/effectifs-policiers-et-terrain-les-contorsions-d-eric-ciotti_4943156_4355770.html">compense les baisses qui ont été initiées sous la quinquennat de Nicolas Sarkozy, dès 2007</a>. Notre pays a la chance d'avoir une natalité élevée, et une population qui s'accroit, et nous avons donc besoin de fonctionnaires.</analyse>
+      <aec>
+        <aec>https://laec.fr/section/13/garantir-la-securite-et-la-surete</aec>
+      </aec>
     </entree>
 
     <entree>
