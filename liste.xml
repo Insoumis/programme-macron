@@ -59,7 +59,7 @@ aux salariés qui démissionnent.</engagement>
 l’insuffisance 
 des efforts de recherche d’emploi ou le refus d’offres raisonnables 
 entraîneront la suspension des allocations.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="Méfiance">A priori, ce qui est présenté comme une avancée pour les travailleurs (ouverture du droit à l'assurance chômage en cas de démission), contient un certain nombre de régressions.</analyse>
     </entree>
 
     <entree>
@@ -484,7 +484,7 @@ des 12 000 classes de CP et de CE1 en zone prioritaire.</engagement>
 expérimentés 
 : d’ici 2022, ceux affectés en zones prioritaires auront au moins 3 ans
 d’ancienneté.</mesure>
-      <analyse tag="warning" description="C'est une arnaque">D'après <a href="https://en-marche.fr/emmanuel-macron/le-programme/education">les détails fournis par "En Marche"</a>, cet objectif sera atteint en grande partie par la réallocation des moyens humains. Le nombre de postes créés serait limité (entre 4000 et 5000). De ce fait, cette réduction de la taille des classes dans des circonstances très particules (zones prioritaires et CP/CE1) sera compensée par une augmentation de la taille des classes dans tous les autres établissements et à tous les autres niveaux.</analyse>
+      <analyse tag="warning" description="C'est une arnaque">D'après <a href="https://en-marche.fr/emmanuel-macron/le-programme/education">les détails fournis par "En Marche"</a>, cet objectif sera atteint en grande partie par la réallocation des moyens humains. Le nombre de postes créés serait limité (entre 4000 et 5000). De ce fait, cette réduction de la taille des classes dans des circonstances très particulières (zones prioritaires et CP/CE1) sera compensée par une augmentation de la taille des classes dans tous les autres établissements et à tous les autres niveaux.</analyse>
     </entree>
 
     <entree>
