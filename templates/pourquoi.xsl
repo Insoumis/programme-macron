@@ -76,6 +76,24 @@
 
                 <p>Bien évidemment, il s'agit d'une critique orientée (comment une critique ne pourrait pas l'être), mais nous avons cherché à être aussi rigoureux que possible. Nous espérons que ce travail vous sera utile.</p>
 
+                <h2>Lien utiles</h2>
+                <h3>En Marche (Emmanuel Macron)</h3>
+                <p>
+                  <ul>
+                    <li><a href="http://www.en-marche.fr/emmanuel-macron/le-programme">Programme complet d'Emmanuel Macron</a></li>
+                    <li><a href="https://storage.googleapis.com/en-marche-fr/COMMUNICATION/Programme-Emmanuel-Macron.pdf">Programme synthétisé d'Emmanuel Macron</a></li>
+                  </ul>
+                </p>
+
+                <h3>La France Insoumise (Jean-Luc Mélenchon)</h3>
+                <p>
+                  <ul>
+                    <li><a href="http://avenirencommun.fr/">Site officiel du programme</a></li>
+                    <li><a href="https://laec.fr/">Consulter le programme en ligne</a></li>
+                    <li><a href="http://melenchonouimais.fr/">Mélenchon oui, mais...</a></li>
+                  </ul>
+                </p>
+
                 </div>
 
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
