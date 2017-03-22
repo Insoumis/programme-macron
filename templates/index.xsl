@@ -60,7 +60,7 @@
                         <ul class="dropdown-menu">
                            <xsl:for-each select="/categories/categorie">
                             <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
-                            <li><a href="#c{$chapitre}"><xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
+                            <li><a href="/#c{$chapitre}"><xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
                            </xsl:for-each>
                         </ul>
                       </li>
