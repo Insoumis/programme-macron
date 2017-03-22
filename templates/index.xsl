@@ -41,29 +41,29 @@
                 </style>
             </head>
             <body>
-                <nav class="navbar navbar-default">
-                  <div class="container-fluid">
-                    <div class="navbar-header">
-                      <a class="navbar-brand" href="#">Analysons Macron</a>
-                    </div>
-                    <ul class="nav navbar-nav">
-                      <li class="active"><a href="#">Accueil</a></li>
-                       <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Par chapitre
-                        <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                           <xsl:for-each select="/categories/categorie">
-                            <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
-                            <li><a href="#c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
-                           </xsl:for-each>
-                        </ul>
-                      </li>
-                      <li><a href="pourquoi.html">Pourquoi ce site ?</a></li>
-                    </ul>
-                  </div>
-                </nav>
                 <div class="container">
-                    
+                  <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                      <div class="navbar-header">
+                        <a class="navbar-brand" href="#">Analysons Macron</a>
+                      </div>
+                      <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">Accueil</a></li>
+                         <li class="dropdown">
+                          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Par chapitre
+                          <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                             <xsl:for-each select="/categories/categorie">
+                              <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
+                              <li><a href="#c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
+                             </xsl:for-each>
+                          </ul>
+                        </li>
+                        <li><a href="pourquoi.html">Pourquoi ce site ?</a></li>
+                      </ul>
+                    </div>
+                  </nav>
+
                 <h1>Le programme de Macron expliqué</h1>
 
                 <p>Progression : <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.</p>
