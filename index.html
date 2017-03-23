@@ -2195,7 +2195,7 @@
       </div><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-scrollspy.js"></script><script>
                 $(document).ready(function(){
                   $('body').on('activate.bs.scrollspy', function () {
-                      $('section').css('color', 'gray');
+                      $('section div.subgroup, section h2').css('color', 'gray');
                       var id = $("#side-menu-container li.active > a").last().attr('href').substr(1);
                       $('div#' + id).css('color', $('body').css('color'));
                       var id = $("#side-menu-container li.active > a").first().attr('href').substr(1);
