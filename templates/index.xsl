@@ -28,7 +28,11 @@
 
                 <style type="text/css">
                     body {
-                      position: relative;
+                        position: relative;
+                    }
+
+                    fixed {
+                        position: fixed;
                     }
 
                     h2.chapitre {
@@ -51,6 +55,66 @@
 
                     .share-buttons > li > a {
                         padding: 9px 15px;
+                    }
+
+                    /* sidebar */
+                    #side-menu-container {
+                        padding-left: 20px;
+                        padding-bottom: 20px;
+                    }
+
+                    /* all links */
+                    #side-menu-container .nav>li>a {
+                        color: #999;
+                        border-left: 2px solid transparent;
+                        padding: 4px 20px;
+                        font-size: 13px;
+                        font-weight: 400;
+                    }
+
+                    /* nested links */
+                    #side-menu-container .nav .nav>li>a {
+                        padding-top: 1px;
+                        padding-bottom: 1px;
+                        padding-left: 30px;
+                        font-size: 12px;
+                    }
+
+                    #side-menu-container .nav>.active>a, 
+                    #side-menu-container .nav>li>a:hover, 
+                    #side-menu-container .nav>li>a:focus {
+                        color: #563d7c;                 
+                        text-decoration: none;          
+                        background-color: transparent;  
+                        border-left-color: #563d7c; 
+                    }
+                    /* all active links */
+                    #side-menu-container .nav>.active>a, 
+                    #side-menu-container .nav>.active:hover>a,
+                    #side-menu-container .nav>.active:focus>a {
+                        font-weight: 700;
+                    }
+                    /* nested active links */
+                    #side-menu-container .nav .nav>.active>a, 
+                    #side-menu-container .nav .nav>.active:hover>a,
+                    #side-menu-container .nav .nav>.active:focus>a {
+                        font-weight: 500;
+                    }
+
+                    /* hide inactive nested list */
+                    #side-menu-container .nav ul.nav {
+                        display: none;           
+                    }
+                    /* show active nested list */
+                    #side-menu-container .nav>.active>ul.nav {
+                        display: block;           
+                    }
+
+                    /* make sidebar srollable */
+                    #side-menu-container > ul {
+                        overflow-y: auto;
+                        height: 100%;
+                        padding-top: 20px;
                     }
                 </style>
             </head>
@@ -88,13 +152,13 @@
 
                 <p>Progression : <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.</p>
                 <div class="row">
-                  <div class="col-lg-4 col-lg-push-8" id="side-menu-container">
-                    <ul class="nav nav-list affix" role="tablist" id="side-menu">
+                  <nav class="col-lg-4 col-lg-push-8" id="side-menu-container">
+                    <ul class="nav nav-stacked fixed" role="tablist" id="side-menu">
                        <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <li>
                           <a href="#c{$chapitre}"><xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a>
-                          <ul>
+                          <ul class="nav nav-stacked">
                             <xsl:for-each select="./entree">
                               <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
                               <li><a href="#c{$chapitre}m{$element}">
@@ -108,7 +172,7 @@
                         </li>
                        </xsl:for-each>
                     </ul>
-                  </div>
+                  </nav>
                   <div class="col-lg-8 col-lg-pull-4">
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
