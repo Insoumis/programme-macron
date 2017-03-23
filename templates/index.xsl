@@ -97,7 +97,12 @@
                           <ul>
                             <xsl:for-each select="./entree">
                               <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
-                              <li><a href="#c{$chapitre}m{$element}"><xsl:value-of select="./engagement" /></a></li>
+                              <li><a href="#c{$chapitre}m{$element}">
+                                <xsl:value-of select="substring(./engagement, 1, 65)"/>
+                                <xsl:if test="string-length(./engagement) &gt; 65">
+                                   <xsl:text>...</xsl:text>
+                                </xsl:if>
+                              </a></li>
                             </xsl:for-each>
                           </ul>
                         </li>
