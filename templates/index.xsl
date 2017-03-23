@@ -27,6 +27,11 @@
                 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
                 <style type="text/css">
+                    html {
+                      position: relative;
+                      height: 100%;
+                    }
+
                     body {
                         position: relative;
                     }
@@ -69,7 +74,7 @@
                         color: #999;
                         border-left: 2px solid transparent;
                         padding: 4px 20px;
-                        font-size: 13px;
+                        font-size: 14px;
                         font-weight: 400;
                     }
 
@@ -148,10 +153,6 @@
                   </div>
                 </nav>
                 <div class="container">
-                    
-                <h1>Le programme de Macron expliqué</h1>
-
-                <p>Progression : <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.</p>
                 <div class="row">
                   <nav class="col-lg-4 col-lg-push-8" id="side-menu-container">
                     <ul class="nav nav-stacked affix" role="tablist" id="side-menu">
@@ -175,6 +176,13 @@
                     </ul>
                   </nav>
                   <div class="col-lg-8 col-lg-pull-4">
+                    <h1>Le programme de Macron expliqué</h1>
+                      <div class="progress">
+                         <xsl:variable name="pourcentage" select="round(100 * $analyses div $propositions)" />
+                        <div class="progress-bar" role="progressbar" aria-valuenow="{$pourcentage}" aria-valuemin="0" aria-valuemax="100" style="width: {$pourcentage}%;">
+                          <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.
+                        </div>
+                      </div>
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <a name="c{$chapitre}"></a>
