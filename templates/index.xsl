@@ -100,46 +100,48 @@
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <a name="c{$chapitre}"></a>
-                        <h2 class="chapitre" id="c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
-                        <ol class="entrees">
-                            <xsl:for-each select="./entree">
-                                <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
-                                <li>
-                                    <div>
-                                        <a name="c{$chapitre}m{$element}"></a>
-                                        <h3 id="c{$chapitre}m{$element}">« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
-                                        <xsl:if test="./mesure">
-                                            <div class="mesure">
-                                                <xsl:copy-of select="./mesure" />
-                                            </div>
-                                        </xsl:if>
-                                        <!--<h4>Analyse</h4>-->
-                                        <div class="analyse"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
-                                            <div>
-                                                <xsl:copy-of select="./analyse" />
-                                            </div>
-                                        </div>
-                                        <xsl:if test="./aec">
-                                            <h4>φ Qu'en dit l'«Avenir en Commun» ?</h4>
-                                            <div class="aec">
-                                                <ul>
-                                                    <xsl:for-each select="./aec/aec">
-                                                        <xsl:choose>
-                                                          <xsl:when test="./@href">
-                                                            <li><a href="{./@href}">« <xsl:value-of select="." /> »</a></li>
-                                                          </xsl:when>
-                                                          <xsl:otherwise>
-                                                            <li><a href="{.}"><xsl:value-of select="." /></a></li>
-                                                          </xsl:otherwise>
-                                                        </xsl:choose>
-                                                    </xsl:for-each>
-                                                </ul>
-                                            </div>
-                                        </xsl:if>
-                                    </div>
-                                </li>
-                            </xsl:for-each>
-                        </ol>
+                        <div id="c{$chapitre}">
+                          <h2 class="chapitre">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
+                          <ol class="entrees">
+                              <xsl:for-each select="./entree">
+                                  <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
+                                  <li>
+                                      <div id="c{$chapitre}m{$element}">
+                                          <a name="c{$chapitre}m{$element}"></a>
+                                          <h3>« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
+                                          <xsl:if test="./mesure">
+                                              <div class="mesure">
+                                                  <xsl:copy-of select="./mesure" />
+                                              </div>
+                                          </xsl:if>
+                                          <!--<h4>Analyse</h4>-->
+                                          <div class="analyse"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
+                                              <div>
+                                                  <xsl:copy-of select="./analyse" />
+                                              </div>
+                                          </div>
+                                          <xsl:if test="./aec">
+                                              <h4>φ Qu'en dit l'«Avenir en Commun» ?</h4>
+                                              <div class="aec">
+                                                  <ul>
+                                                      <xsl:for-each select="./aec/aec">
+                                                          <xsl:choose>
+                                                            <xsl:when test="./@href">
+                                                              <li><a href="{./@href}">« <xsl:value-of select="." /> »</a></li>
+                                                            </xsl:when>
+                                                            <xsl:otherwise>
+                                                              <li><a href="{.}"><xsl:value-of select="." /></a></li>
+                                                            </xsl:otherwise>
+                                                          </xsl:choose>
+                                                      </xsl:for-each>
+                                                  </ul>
+                                              </div>
+                                          </xsl:if>
+                                      </div>
+                                  </li>
+                              </xsl:for-each>
+                          </ol>
+                         </div>
                     </xsl:for-each>
                   </div>
                   </div>
