@@ -125,7 +125,7 @@
                     }
                 </style>
             </head>
-            <body data-spy="scroll" data-target="#side-menu-container" data-offset="20">
+            <body data-spy="scroll" data-target="#side-menu-container" data-offset="30">
                 <nav class="navbar navbar-default">
                   <div class="container-fluid">
                     <div class="navbar-header">
