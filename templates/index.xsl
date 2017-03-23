@@ -92,14 +92,14 @@
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <a name="c{$chapitre}"></a>
-                        <h2 class="chapitre" id="#c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
+                        <h2 class="chapitre" id="c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
                         <ol class="entrees">
                             <xsl:for-each select="./entree">
                                 <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
                                 <li>
                                     <div>
                                         <a name="c{$chapitre}m{$element}"></a>
-                                        <h3 id="#c{$chapitre}m{$element}">« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
+                                        <h3 id="c{$chapitre}m{$element}">« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
                                         <xsl:if test="./mesure">
                                             <div class="mesure">
                                                 <xsl:copy-of select="./mesure" />
@@ -135,7 +135,7 @@
                     </xsl:for-each>
                   </div>
                   <div class="col-lg-4" id="side-menu-container">
-                    <ul class="nav nav-tabs" role="tablist" id="side-menu">
+                    <ul class="nav nav-list affix" role="tablist" id="side-menu">
                        <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <li><a href="#c{$chapitre}"><xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
