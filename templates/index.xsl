@@ -27,6 +27,10 @@
                 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
                 <style type="text/css">
+                    body {
+                      position: relative;
+                    }
+
                     h2.chapitre {
                       
                     }
@@ -50,7 +54,7 @@
                     }
                 </style>
             </head>
-            <body>
+            <body data-spy="scroll" data-target="#side-menu-container">
                 <nav class="navbar navbar-default">
                   <div class="container-fluid">
                     <div class="navbar-header">
@@ -88,14 +92,14 @@
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <a name="c{$chapitre}"></a>
-                        <h2 class="chapitre" id="c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
+                        <h2 class="chapitre" id="#c{$chapitre}">Chapitre <xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></h2>
                         <ol class="entrees">
                             <xsl:for-each select="./entree">
                                 <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
                                 <li>
                                     <div>
                                         <a name="c{$chapitre}m{$element}"></a>
-                                        <h3 id="c{$chapitre}m{$element}">« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
+                                        <h3 id="#c{$chapitre}m{$element}">« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
                                         <xsl:if test="./mesure">
                                             <div class="mesure">
                                                 <xsl:copy-of select="./mesure" />
@@ -130,11 +134,11 @@
                         </ol>
                     </xsl:for-each>
                   </div>
-                  <div class="col-lg-4">
-                    <ul class="nav" id="side-menu">
+                  <div class="col-lg-4" id="side-menu-container">
+                    <ul class="nav nav-tabs" role="tablist" id="side-menu">
                        <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
-                        <li><a href="/#c{$chapitre}"><xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
+                        <li><a href="#c{$chapitre}"><xsl:value-of select="$chapitre" />. <xsl:value-of select="./@nom" /></a></li>
                        </xsl:for-each>
                     </ul>
                   </div>
@@ -142,7 +146,7 @@
                 </div>
               
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+              <script type="text/javascript">$(document).ready(function() {$('body').scrollspy({ target: '#side-menu-container' })});</script>
             </body>
         </html>
     </xsl:template>
