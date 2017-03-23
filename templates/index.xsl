@@ -47,6 +47,7 @@
                     div.analyse {
                         font-size: 1.2em;
                         margin-top: 2em;
+                        text-align: justify;
                     }
 
                     div.analyse div {
@@ -225,7 +226,7 @@
                 </div>
               
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-              <script type="text/javascript">$(document).ready(function() {$('body').scrollspy({ target: '#side-menu-container' })});</script>
+              <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-scrollspy.js"></script>
             </body>
         </html>
     </xsl:template>
