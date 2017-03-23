@@ -16,7 +16,11 @@
       <title>Le programme de Macron expliqué</title>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><script src="https://code.jquery.com/jquery-3.2.1.min.js"></script><style type="text/css">
                     body {
-                      position: relative;
+                        position: relative;
+                    }
+
+                    fixed {
+                        position: fixed;
                     }
 
                     h2.chapitre {
@@ -39,6 +43,66 @@
 
                     .share-buttons > li > a {
                         padding: 9px 15px;
+                    }
+
+                    /* sidebar */
+                    #side-menu-container {
+                        padding-left: 20px;
+                        padding-bottom: 20px;
+                    }
+
+                    /* all links */
+                    #side-menu-container .nav>li>a {
+                        color: #999;
+                        border-left: 2px solid transparent;
+                        padding: 4px 20px;
+                        font-size: 13px;
+                        font-weight: 400;
+                    }
+
+                    /* nested links */
+                    #side-menu-container .nav .nav>li>a {
+                        padding-top: 1px;
+                        padding-bottom: 1px;
+                        padding-left: 30px;
+                        font-size: 12px;
+                    }
+
+                    #side-menu-container .nav>.active>a, 
+                    #side-menu-container .nav>li>a:hover, 
+                    #side-menu-container .nav>li>a:focus {
+                        color: #563d7c;                 
+                        text-decoration: none;          
+                        background-color: transparent;  
+                        border-left-color: #563d7c; 
+                    }
+                    /* all active links */
+                    #side-menu-container .nav>.active>a, 
+                    #side-menu-container .nav>.active:hover>a,
+                    #side-menu-container .nav>.active:focus>a {
+                        font-weight: 700;
+                    }
+                    /* nested active links */
+                    #side-menu-container .nav .nav>.active>a, 
+                    #side-menu-container .nav .nav>.active:hover>a,
+                    #side-menu-container .nav .nav>.active:focus>a {
+                        font-weight: 500;
+                    }
+
+                    /* hide inactive nested list */
+                    #side-menu-container .nav ul.nav {
+                        display: none;           
+                    }
+                    /* show active nested list */
+                    #side-menu-container .nav>.active>ul.nav {
+                        display: block;           
+                    }
+
+                    /* make sidebar srollable */
+                    #side-menu-container > ul {
+                        overflow-y: auto;
+                        height: 100%;
+                        padding-top: 20px;
                     }
                 </style></head>
    <body data-spy="scroll" data-target="#side-menu-container">
@@ -77,9 +141,9 @@
          <h1>Le programme de Macron expliqué</h1>
          <p>Progression : 32/95 propositions analysées.</p>
          <div class="row">
-            <div class="col-lg-4 col-lg-push-8" id="side-menu-container">
-               <ul class="nav nav-list affix" role="tablist" id="side-menu">
-                  <li><a href="#c1">1. Bien vivre de son travail et inventer de nouvelles protections</a><ul>
+            <nav class="col-lg-4 col-lg-push-8" id="side-menu-container">
+               <ul class="nav nav-stacked fixed" role="tablist" id="side-menu">
+                  <li><a href="#c1">1. Bien vivre de son travail et inventer de nouvelles protections</a><ul class="nav nav-stacked">
                         <li><a href="#c1m1"> Nous améliorerons le pouvoir d’achat de tous les travailleurs.</a></li>
                         <li><a href="#c1m2"> Nous augmenterons le pouvoir d’achat des ouvriers, 
                               des employés...</a></li>
@@ -93,7 +157,7 @@
                         <li><a href="#c1m7">Nous ferons un effort massif pour l’apprentissage.</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c2">2. Libérer le travail et l’esprit d’entreprise</a><ul>
+                  <li><a href="#c2">2. Libérer le travail et l’esprit d’entreprise</a><ul class="nav nav-stacked">
                         <li><a href="#c2m1">Nous simplifierons la vie des entrepreneurs.</a></li>
                         <li><a href="#c2m2">Nous réduirons le coût du travail.</a></li>
                         <li><a href="#c2m3">Nous combattrons la précarité en responsabilisant
@@ -105,7 +169,7 @@
                               d’explication de ...</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c3">3. Inventer un nouveau modèle de croissance</a><ul>
+                  <li><a href="#c3">3. Inventer un nouveau modèle de croissance</a><ul class="nav nav-stacked">
                         <li><a href="#c3m1"> Nous lancerons un grand Plan d’investissement 
                               de 50 milliards d...</a></li>
                         <li><a href="#c3m2">Nous soutiendrons l’investissement privé.</a></li>
@@ -122,7 +186,7 @@
                         <li><a href="#c3m8">Nous créerons une banque de données numériques.</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c4">4. Les mêmes règles pour tous</a><ul>
+                  <li><a href="#c4">4. Les mêmes règles pour tous</a><ul class="nav nav-stacked">
                         <li><a href="#c4m1">Nous mettrons fin aux injustices de notre système 
                               de retraites. </a></li>
                         <li><a href="#c4m2">Nous ne toucherons pas à l’âge de départ
@@ -140,7 +204,7 @@
                               détaché.</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c5">5. Un état qui protège</a><ul>
+                  <li><a href="#c5">5. Un état qui protège</a><ul class="nav nav-stacked">
                         <li><a href="#c5m1">Nous recruterons 10 000 policiers et gendarmes
                               supplémentaires.</a></li>
                         <li><a href="#c5m2">Nous créerons une police de sécurité quotidienne.</a></li>
@@ -158,7 +222,7 @@
                               créer une force...</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c6">6. Les mêmes chances pour tous nos enfants</a><ul>
+                  <li><a href="#c6">6. Les mêmes chances pour tous nos enfants</a><ul class="nav nav-stacked">
                         <li><a href="#c6m1">Nous donnerons la priorité à l’école primaire</a></li>
                         <li><a href="#c6m2"> Nous interdirons l’usage des téléphones portables 
                               dans l’encein...</a></li>
@@ -180,7 +244,7 @@
                         <li><a href="#c6m12"> Nous créerons un « Pass Culture ». </a></li>
                      </ul>
                   </li>
-                  <li><a href="#c7">7. Fiers d'être français : exigence et bienveillance</a><ul>
+                  <li><a href="#c7">7. Fiers d'être français : exigence et bienveillance</a><ul class="nav nav-stacked">
                         <li><a href="#c7m1">Nous appliquerons strictement le principe de laïcité.</a></li>
                         <li><a href="#c7m2">Nous n’étendrons pas l’interdiction du voile
                               à l’université.</a></li>
@@ -196,7 +260,7 @@
                               une priorité nat...</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c8">8. Une Europe protectrice et à la hauteur de nos espérances</a><ul>
+                  <li><a href="#c8">8. Une Europe protectrice et à la hauteur de nos espérances</a><ul class="nav nav-stacked">
                         <li><a href="#c8m1">Nous construirons une Europe qui développe
                               nos emplois et notre é...</a></li>
                         <li><a href="#c8m2">Nous lutterons contre les arrangements fiscaux
@@ -220,7 +284,7 @@
                         <li><a href="#c8m10">Nous donnerons la parole au peuple.</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c9">9. Faire plus pour ceux qui ont moins</a><ul>
+                  <li><a href="#c9">9. Faire plus pour ceux qui ont moins</a><ul class="nav nav-stacked">
                         <li><a href="#c9m1">Nous augmenterons le minimum vieillesse
                               de 100 euros par mois.</a></li>
                         <li><a href="#c9m2">Nous créerons un versement social unique.</a></li>
@@ -241,7 +305,7 @@
                               l’Allocation Adulte Handi...</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c10">10. Rendre la vie des français plus facile</a><ul>
+                  <li><a href="#c10">10. Rendre la vie des français plus facile</a><ul class="nav nav-stacked">
                         <li><a href="#c10m1">Nous créerons un droit à l’erreur pour tous.</a></li>
                         <li><a href="#c10m2">Nous passerons à la vitesse supérieure en ce qui 
                               concerne la num...</a></li>
@@ -257,7 +321,7 @@
                               les litiges inféri...</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c11">11. Une démocratie rénovée</a><ul>
+                  <li><a href="#c11">11. Une démocratie rénovée</a><ul class="nav nav-stacked">
                         <li><a href="#c11m1">Nous proposerons une grande loi de moralisation
                               de la vie publiqu...</a></li>
                         <li><a href="#c11m2">Nous améliorerons le renouvellement et le pluralisme
@@ -265,7 +329,7 @@
                         <li><a href="#c11m3">Nous développerons la participation des citoyens.</a></li>
                      </ul>
                   </li>
-                  <li><a href="#c12">12. Les territoires qui font notre France</a><ul>
+                  <li><a href="#c12">12. Les territoires qui font notre France</a><ul class="nav nav-stacked">
                         <li><a href="#c12m1"> Nous exonérerons de la taxe d’habitation tous
                               les Français des c...</a></li>
                         <li><a href="#c12m2"> Nous couvrirons en très haut débit ou en fibre
@@ -282,7 +346,7 @@
                      </ul>
                   </li>
                </ul>
-            </div>
+            </nav>
             <div class="col-lg-8 col-lg-pull-4"><a name="c1"></a><section id="c1" class="group">
                   <h2 class="chapitre">Chapitre 1. Bien vivre de son travail et inventer de nouvelles protections</h2>
                   <ol class="entrees">
