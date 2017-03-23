@@ -13,6 +13,7 @@
                 <link sizes="32x32" href="/elements/logo-32x32.png" type="image/png" rel="icon" />
                 <link sizes="16x16" href="/elements/logo-16x16.png" type="image/png" rel="icon" />
                 <link color="#ffffff" href="/elements/logo-transparent.svg" rel="mask-icon" />
+                <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                 <meta content="#ffffff" name="theme-color" />
                 <meta content="Analysons Macron" name="apple-mobile-web-app-title" />
                 <meta content="Analysons Macron" name="application-name" />
@@ -124,7 +125,7 @@
                     }
                 </style>
             </head>
-            <body data-spy="scroll" data-target="#side-menu-container">
+            <body data-spy="scroll" data-target="#side-menu-container" data-offset="20">
                 <nav class="navbar navbar-default">
                   <div class="container-fluid">
                     <div class="navbar-header">
@@ -197,7 +198,7 @@
                                   <li>
                                       <div id="c{$chapitre}m{$element}" class="subgroup">
                                           <a name="c{$chapitre}m{$element}"></a>
-                                          <h3>« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
+                                          <h3>« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}" class="anchor"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
                                           <xsl:if test="./mesure">
                                               <div class="mesure">
                                                   <xsl:copy-of select="./mesure" />
