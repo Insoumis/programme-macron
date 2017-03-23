@@ -153,7 +153,7 @@
                 <p>Progression : <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.</p>
                 <div class="row">
                   <nav class="col-lg-4 col-lg-push-8" id="side-menu-container">
-                    <ul class="nav nav-stacked fixed" role="tablist" id="side-menu">
+                    <ul class="nav nav-stacked affix" role="tablist" id="side-menu">
                        <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <li>
