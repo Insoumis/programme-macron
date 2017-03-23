@@ -183,6 +183,9 @@
                           <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.
                         </div>
                       </div>
+
+                      <p>Des citoyens insoumis proposent une analyse détaillée du programme d'En Marche. <a href="pourquoi.html">En savoir plus...</a></p>
+
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <a name="c{$chapitre}"></a>
