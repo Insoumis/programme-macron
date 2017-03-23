@@ -154,7 +154,7 @@
                 </nav>
                 <div class="container">
                 <div class="row">
-                  <nav class="col-lg-4 col-lg-push-8" id="side-menu-container">
+                  <nav class="col-lg-4 col-lg-push-8 visible-lg" id="side-menu-container">
                     <ul class="nav nav-stacked affix" role="tablist" id="side-menu">
                        <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
