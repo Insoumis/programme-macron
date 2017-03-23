@@ -178,6 +178,7 @@
                           </ul>
                         </li>
                        </xsl:for-each>
+                       <li><a href="#conclusion">Conclusion</a></li>
                     </ul>
                   </nav>
                   <div class="col-lg-8 col-lg-pull-4">
@@ -237,6 +238,25 @@
                           </ol>
                          </section>
                     </xsl:for-each>
+
+                    <section id="conclusion" class="group">
+                      <a name="conclusion"></a>
+                      <h2 class="chapitre">Conclusion</h2>
+                      <div id="generalites" class="subgroup">
+                        <a name="generalites"></a>
+                        <h3>Critique globale</h3>
+                        <div class="analyse">
+                           
+                        </div>
+                      </div>                          
+                      <div id="notre-vision" class="subgroup">
+                        <a name="notre-vision"></a>
+                        <h3>Notre vision</h3>
+                        <div class="analyse">
+                           
+                        </div>
+                      </div>
+                    </section>    
                   </div>
                   </div>
                 </div>
