@@ -94,10 +94,10 @@
                     #side-menu-container .nav>.active>a, 
                     #side-menu-container .nav>li>a:hover, 
                     #side-menu-container .nav>li>a:focus {
-                        color: #563d7c;                 
+                        color: #337ab7;                 
                         text-decoration: none;          
                         background-color: transparent;  
-                        border-left-color: #563d7c; 
+                        border-left-color: #337ab7; 
                     }
                     /* all active links */
                     #side-menu-container .nav>.active>a, 
