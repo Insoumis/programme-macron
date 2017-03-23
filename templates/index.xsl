@@ -242,7 +242,7 @@
               <script>
                 $(document).ready(function(){
                   $('body').on('activate.bs.scrollspy', function () {
-                      $('section').css('color', 'gray');
+                      $('section div.subgroup, section h2').css('color', 'gray');
                       var id = $("#side-menu-container li.active > a").last().attr('href').substr(1);
                       $('div#' + id).css('color', $('body').css('color'));
                       var id = $("#side-menu-container li.active > a").first().attr('href').substr(1);
