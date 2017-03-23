@@ -244,7 +244,7 @@
                   $('body').on('activate.bs.scrollspy', function () {
                       $('section').css('color', 'gray');
                       var id = $("#side-menu-container li.active > a").last().attr('href').substr(1);
-                      $('#' + id).css('color', $('body').css('color'));
+                      $('div#' + id).css('color', $('body').css('color'));
                       var id = $("#side-menu-container li.active > a").first().attr('href').substr(1);
                       $('#' + id + ' h2').css('color', $('body').css('color'));
                   });
