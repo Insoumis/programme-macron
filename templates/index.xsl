@@ -125,7 +125,7 @@
                     }
                 </style>
             </head>
-            <body data-spy="scroll" data-target="#side-menu-container" data-offset="30">
+            <body data-spy="scroll" data-target="#side-menu-container" data-offset="50">
                 <nav class="navbar navbar-default">
                   <div class="container-fluid">
                     <div class="navbar-header">
@@ -145,7 +145,7 @@
                       </li>
                       <li><a href="pourquoi.html">Pourquoi ce site ?</a></li>
                     </ul>
-                    <ul class="nav navbar-nav navbar-right share-buttons">
+                    <ul class="nav navbar-nav navbar-right share-buttons hidden-sm hidden-xs">
                       <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fanalysons-macron.fr%2F&amp;t=Analysons%20Macron" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="elements/Facebook.png" /></a></li>
                       <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fanalysons-macron.fr%2F&amp;text=Analysons%20Macron:%20http%3A%2F%2Fanalysons-macron.fr%2F" target="_blank" title="Tweet"><img alt="Tweet" src="elements/Twitter.png" /></a></li>
                       <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fanalysons-macron.fr%2F" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="elements/Google+.png" /></a></li>
@@ -239,6 +239,17 @@
               
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
               <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-scrollspy.js"></script>
+              <script>
+                $(document).ready(function(){
+                  $('body').on('activate.bs.scrollspy', function () {
+                      $('section').css('color', 'gray');
+                      var id = $("#side-menu-container li.active > a").last().attr('href').substr(1);
+                      $('#' + id).css('color', $('body').css('color'));
+                      var id = $("#side-menu-container li.active > a").first().attr('href').substr(1);
+                      $('#' + id + ' h2').css('color', $('body').css('color'));
+                  });
+                });
+              </script>
             </body>
         </html>
     </xsl:template>
