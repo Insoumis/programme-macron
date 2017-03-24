@@ -73,8 +73,9 @@ entraîneront la suspension des allocations.</mesure>
 sans précédent.</engagement>
       <mesure>Nous formerons 1 million de jeunes et 1 million de demandeurs d’emploi peu ou pas
 qualifiés et aujourd’hui sans perspective.</mesure>
-      <analyse tag="warning">
-        
+      <analyse tag="warning" description="Méfiance">
+        Le niveau de qualification des français n'a jamais été aussi élevé, alors même que le taux de chômage y est très haut. Si les personnes moins qualifiées sont en difficulté, c'est parce qu'elles sont peu concurrentielles sur le "marché de l'emploi" qui est devenu très défavorable aux demandeurs d'emploi. Au mieux, c'est une mesure dans la ligne libérale de l'égalité des chances.<br />
+Enfin, on peut craindre que ces formations soient détournées pour devenir un cadeau déguisé aux entreprises, car de <a href="http://www.lemonde.fr/societe/article/2014/11/20/comment-leclerc-abuse-des-aides-de-pole-emploi_4526289_3224.html">nombreux cas</a> d'<a href="http://www.corsematin.com/article/article/soupcons-de-detournement-de-fonds-au-pole-emploi-dajaccio">abus ou détournements</a> existent déjà.
       </analyse>
     </entree>
     <entree>
@@ -493,7 +494,8 @@ métier autour de ses missions éducatives</aec>
 éducatives. </engagement>
       <mesure>Elles seront suivies et évaluées. La formation des enseignants sera
 adaptée à ce nouveau cadre.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="">
+      </analyse>
     </entree>
 
     <entree>
@@ -658,6 +660,9 @@ et des Finances de la zone euro</mesure>
         </ul>
         Ainsi, ces points fondamentaux étant "gravés dans la marbre des traités", toute tentative de démocratisation dans ce cadre est vaine : l'essentiel des choix économiques, et le cadre ordolibéral de l'UE, sont fixés par les traités. Pire encore, un transfert de souveraineté supplémentaire vers des structures européennes accélerera ces politiques. Et s'il provoque enfin une harmonisation fiscale et sociale dans la zone-euro, ce sera très certainement vers le bas.
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s49</aec>
+      </aec>
     </entree>
 
     <entree>
