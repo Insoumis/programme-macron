@@ -25,7 +25,7 @@
                 <meta content="http://analysons-macron.fr/elements/logo-256x256.png" property="og:image" />
                 <title>Le programme de Macron expliqué</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
-                <link href="https://fonts.googleapis.com/css?family=Courgette|Montserrat:300|Roboto:300" rel="stylesheet">
+                <link href="https://fonts.googleapis.com/css?family=Courgette|Montserrat:300|Roboto:300" rel="stylesheet" />
                 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
                 <style type="text/css">
                     html {
@@ -196,7 +196,7 @@
                                           </div>
                                           <xsl:if test="./aec">
                                               <div class="aec">
-                                                 <img src="elements/phi.png" style="width:30px;float:left;margin-top:5px;margin-left: 5px; margin-right: 5px; "></span><h4>Qu'en dit l'«Avenir en Commun» ?</h4>
+                                                 <img src="elements/phi.png" style="width:30px;float:left;margin-top:5px;margin-left: 5px; margin-right: 5px; " /><h4>Qu'en dit l'«Avenir en Commun» ?</h4>
                                                   <ul>
                                                       <xsl:for-each select="./aec/aec">
                                                           <xsl:choose>
@@ -210,12 +210,12 @@
                                                       </xsl:for-each>
                                                   </ul>
                                               </div>
-                                              <hr class="dot">
+                                              <hr class="dot" />
                                           </xsl:if>
                                       </div>
                                   </li>
                               </xsl:for-each>
-                              <hr class="solid">
+                              <hr class="solid" />
                           </ol>
                          </section>
                     </xsl:for-each>
