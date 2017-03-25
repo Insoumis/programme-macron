@@ -25,8 +25,8 @@
                 <meta content="http://analysons-macron.fr/elements/logo-256x256.png" property="og:image" />
                 <title>Le programme de Macron expliqué</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+                <link href="https://fonts.googleapis.com/css?family=Courgette|Montserrat:300|Roboto:300" rel="stylesheet">
                 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-
                 <style type="text/css">
                     html {
                       position: relative;
@@ -39,29 +39,6 @@
 
                     fixed {
                         position: fixed;
-                    }
-
-                    h2.chapitre {
-                      
-                    }
-
-                    div.subgroup {
-                        min-height: 10em;
-                    }
-
-                    div.mesure {
-                        font-style: italic;
-                        padding-left: 2em;
-                    }
-
-                    div.analyse {
-                        font-size: 1.2em;
-                        margin-top: 2em;
-                        text-align: justify;
-                    }
-
-                    div.analyse div {
-                        margin-top: 0.5em;
                     }
 
                     .share-buttons > li > a {
@@ -128,6 +105,7 @@
                         padding-top: 20px;
                     }
                 </style>
+                <link rel="stylesheet" href="EMcss.css" />
             </head>
             <body data-spy="scroll" data-target="#side-menu-container" data-offset="60">
                 <nav class="navbar navbar-default">
@@ -209,15 +187,16 @@
                                                   <xsl:copy-of select="./mesure" />
                                               </div>
                                           </xsl:if>
+                                          <div style="text-align: center;"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span></div>
                                           <!--<h4>Analyse</h4>-->
-                                          <div class="analyse"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
+                                          <div class="analyse">
                                               <div>
                                                   <xsl:copy-of select="./analyse" />
                                               </div>
                                           </div>
                                           <xsl:if test="./aec">
-                                              <h4>φ Qu'en dit l'«Avenir en Commun» ?</h4>
                                               <div class="aec">
+                                                 <img src="elements/phi.png" style="width:30px;float:left;margin-top:5px;margin-left: 5px; margin-right: 5px; "></span><h4>Qu'en dit l'«Avenir en Commun» ?</h4>
                                                   <ul>
                                                       <xsl:for-each select="./aec/aec">
                                                           <xsl:choose>
@@ -231,10 +210,12 @@
                                                       </xsl:for-each>
                                                   </ul>
                                               </div>
+                                              <hr class="dot">
                                           </xsl:if>
                                       </div>
                                   </li>
                               </xsl:for-each>
+                              <hr class="solid">
                           </ol>
                          </section>
                     </xsl:for-each>

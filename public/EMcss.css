@@ -1,0 +1,111 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+h2, h2.chapitre{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+	font-weight: 300;
+	color :#1F3356;
+	text-align: center;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #FFFFFF;
+	width :90%;
+	background-color: #C9462C;
+	padding: 15px 20px 15px 20px;
+}
+
+ol{
+
+	padding-left: 0px;
+	/*list-style-position: inside;*/
+}
+
+li{
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+/*	list-style-position: inside;*/
+}
+
+ul{
+	margin:0;
+/*	list-style-position: inside;*/
+}
+
+.aec li{
+	list-style-position: outside;
+	list-style-type: disc;
+	color: #ffffff;
+	padding-left: 0px;
+}
+
+.anchor{
+	display: none;
+}
+
+.mesure{
+	border-color: #7A7A7A;
+	color: #7A7A7A;
+	border: 1px solid;
+	margin: 30px 20px 20px 30px;
+	padding: 10px 15px 10px 15px;
+	text-align: justify;
+}
+
+.analyse{
+	background-color: #E9E9E9;
+	padding: 15px;
+	color:#333333;
+	text-align: justify;
+}
+
+.analyse a{
+	color:#333333;
+	font-weight:bold;
+}
+
+.aec{
+	background-color: #0098B6;
+	color:#FFFFFF;
+	margin: 1.5em;
+	padding: 1.2em;
+	border-radius: 6px;
+}
+
+.aec a{
+	color:#FFFFFF;
+	margin: 0;
+}
+
+h4{
+	font-family: 'Courgette',sans-serif;
+}
+
+.label{
+	display: inline-block;
+	font-size: 20px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	transform: rotate(-4deg);
+	margin-bottom: 10px;
+}
+
+hr.dot{
+border-top: 1px dashed #7A7A7A;
+width: 70%;
+}
+
+hr.solid{
+	border-top: 1px solid #7A7A7A;
+	width:70%;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
