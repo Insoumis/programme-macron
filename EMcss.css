@@ -8,7 +8,6 @@ h2, h2.chapitre{
 	font-size: 26px;
 	font-weight: 300;
 	color :#1F3356;
-	text-align: center;
 }
 
 h3{
@@ -37,6 +36,13 @@ li{
 ul{
 	margin:0;
 /*	list-style-position: inside;*/
+}
+
+.aec {
+    background: url(elements/phi.png) no-repeat;
+    background-position: 15px 15px;
+    background-size: 30px;
+    margin: 10px;
 }
 
 .aec li{
@@ -85,7 +91,9 @@ ul{
 }
 
 h4{
-	font-family: 'Courgette',sans-serif;
+	font-family: 'Roboto Slab',sans-serif;
+    margin-left: 30px;
+    margin-top: 5px;
 }
 
 .label{
@@ -93,6 +101,7 @@ h4{
 	font-size: 20px;
 	text-transform: uppercase;
 	vertical-align: baseline;
+    font-weight: bold;
 	transform: rotate(-4deg);
 	margin-bottom: 10px;
 }
