@@ -243,7 +243,6 @@
                 </div>
               
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-              <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-scrollspy.js"></script>
               <script>
                 $(document).ready(function(){
                   $('body').on('activate.bs.scrollspy', function () {
