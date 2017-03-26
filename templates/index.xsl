@@ -96,7 +96,7 @@
 
                     .label{
 	                    display: inline-block;
-	                    font-size: 20px;
+	                    font-size: 16px;
 	                    text-transform: uppercase;
 	                    vertical-align: baseline;
                         font-weight: bold;
