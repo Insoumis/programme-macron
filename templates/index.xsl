@@ -64,6 +64,45 @@
                         margin-top: 0.5em;
                     }
 
+                    .aec {
+                        background: url(elements/phi.png) no-repeat;
+                        background-position: 15px 15px;
+                        background-size: 30px;
+                        margin: 10px;
+	                    background-color: #0098B6;
+	                    color:#FFFFFF;
+	                    margin: 1.5em;
+	                    padding: 1.2em;
+	                    border-radius: 6px;
+                    }
+
+                    .aec li {
+	                    list-style-position: outside;
+	                    list-style-type: disc;
+	                    color: #ffffff;
+	                    padding-left: 0px;
+                    }
+
+                    .aec a {
+	                    color:#FFFFFF;
+	                    margin: 0;
+                    }
+
+                    h4 {
+	                    /*font-family: 'Roboto Slab',sans-serif;*/
+                        margin-left: 40px;
+                        margin-top: 5px;
+                    }
+
+                    .label{
+	                    display: inline-block;
+	                    font-size: 20px;
+	                    text-transform: uppercase;
+	                    vertical-align: baseline;
+                        font-weight: bold;
+	                    transform: rotate(-4deg);
+                    }
+
                     .share-buttons > li > a {
                         padding: 9px 15px;
                     }
@@ -216,8 +255,8 @@
                                               </div>
                                           </div>
                                           <xsl:if test="./aec">
-                                              <h4>φ Qu'en dit l'«Avenir en Commun» ?</h4>
                                               <div class="aec">
+                                                  <h4>Qu'en dit l'«Avenir en Commun» ?</h4>
                                                   <ul>
                                                       <xsl:for-each select="./aec/aec">
                                                           <xsl:choose>
@@ -262,15 +301,17 @@
                 </div>
               
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-              <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-scrollspy.js"></script>
               <script>
                 $(document).ready(function(){
                   $('body').on('activate.bs.scrollspy', function () {
                       $('section div.subgroup, section h2').css('color', 'gray');
+                      $('.aec').css('background-color', 'gray');
                       var id = $("#side-menu-container li.active > a").last().attr('href').substr(1);
                       $('div#' + id).css('color', $('body').css('color'));
+                      $('div#' + id + ' .aec').css('background-color', '#0098B6');
                       var id = $("#side-menu-container li.active > a").first().attr('href').substr(1);
                       $('#' + id + ' h2').css('color', $('body').css('color'));
+                      $('div#' + id + ' .aec').css('background-color', '#0098B6');
                   });
                 });
               </script>
