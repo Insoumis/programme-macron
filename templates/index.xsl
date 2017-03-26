@@ -301,7 +301,7 @@
                 </div>
               
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-              <script>
+              <!--<script>
                 $(document).ready(function(){
                   $('body').on('activate.bs.scrollspy', function () {
                       $('section div.subgroup, section h2').css('color', 'gray');
@@ -314,7 +314,7 @@
                       $('div#' + id + ' .aec').css('background-color', '#0098B6');
                   });
                 });
-              </script>
+              </script>-->
             </body>
         </html>
     </xsl:template>
