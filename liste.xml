@@ -467,12 +467,17 @@ européenne.</mesure>
       <mesure>pour que tous les élèves sachent lire, écrire et compter en arrivant en 6e.</mesure>
       <analyse tag="info" description="C'est bien, mais comment ?">
         Regardons dans le détail : 
-<ul><li>E. Macron propose de mettre en place des bilans individualisés pour tous les élèves de la grande section de maternelle jusqu’à la 3ième. Or, cela existe déjà (sous le nom de “Le Livret Scolaire Unique du CP à la 3ième”).</li>
+<ul><li>E. Macron propose de mettre en place des <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/education">bilans individualisés</a> pour tous les élèves de la grande section de maternelle jusqu’à la 3ième. Or, cela existe déjà (sous le nom de “<a href="http://www.education.gouv.fr/cid106168/le-livret-scolaire-unique-du-cp-a-la-troisieme.html">Le Livret Scolaire Unique du CP à la 3ième</a>”).</li>
 <li>
 E. Macron Propose des stages de remise à niveau en fin d’été pour les élèves en difficultés du CP au CM2. Ces stages de remise à niveau existent déjà pour les classes de CM1 et CM2. Cette proposition l’étendra aux CP et CE1.</li>
 <li>
 E. Macron propose enfin de renforcer l’individualisation des apprentissages en développant des supports numériques et des applications adaptées pour faire évoluer les pratiques pédagogiques. S’il est pertinent d’initier les enfants au numérique et de prévenir son addiction, “ L’école doit « apprendre à vivre ensemble » et cela passe par « apprendre ensemble ». Ces valeurs semblent piloter fortement les pratiques des enseignants dans leurs classes, l’absence de différenciation des contenus et la réduction effective des processus de stigmatisation en témoignent” (Voir la <a href="https://rfp.revues.org/1520#tocto1n4">Revue Française de Pédagogie</a>).</li></ul>
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s73m1</aec>
+        <aec>https://laec.fr/s73m2</aec>
+        <aec>https://laec.fr/s73m3</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -495,7 +500,8 @@ métier autour de ses missions éducatives</aec>
 éducatives. </engagement>
       <mesure>Elles seront suivies et évaluées. La formation des enseignants sera
 adaptée à ce nouveau cadre.</mesure>
-      <analyse tag="warning" description="">
+      <analyse tag="warning" description="Méfiance">
+           Après de longues recherches dans les propositions de son programme pour l’éducation, nous n’avons trouvé aucune mesure permettant de donner plus d’autonomie aux équipes éducatives. Par ailleurs, dire d’une part, qu’il souhaite donner de l’autonomie aux équipes éducatives et d’autre part, qu’elles seront suivies et évaluées est semble contradictoire.
       </analyse>
     </entree>
 
@@ -507,6 +513,11 @@ expérimentés
 : d’ici 2022, ceux affectés en zones prioritaires auront au moins 3 ans
 d’ancienneté.</mesure>
       <analyse tag="warning" description="C'est une arnaque">D'après <a href="https://en-marche.fr/emmanuel-macron/le-programme/education">les détails fournis par "En Marche"</a>, cet objectif sera atteint en grande partie par la réallocation des moyens humains. Le nombre de postes créés serait limité (entre 4000 et 5000). De ce fait, cette réduction de la taille des classes dans des circonstances très particulières (zones prioritaires et CP/CE1) sera compensée par une augmentation de la taille des classes dans tous les autres établissements et à tous les autres niveaux.</analyse>
+      <aec>
+        <aec>https://laec.fr/s73m2</aec>
+        <aec>https://laec.fr/s73m4</aec>
+        <aec>https://laec.fr/s73m5</aec>
+      </aec>
     </entree>
 
     <entree>
