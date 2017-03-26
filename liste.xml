@@ -526,7 +526,11 @@ bi-langues au collège,
 </engagement>
       <mesure>de parcours européens et d’un véritable enseignement
 du grec et du latin</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="success" description="C'est bien !">C'est très bien : l'apprentissage des langues nécessite une pratique dans la durée.</analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/le-livret-education">Nous proposons également de rouvrir les options bilangues, européennes et des options langues anciennes au collège réparties sur plusieurs classes.</aec>
+        <aec href="https://avenirencommun.fr/le-livret-education">Nous souhaitons instaurer un enseignement de sciences économiques et sociales obligatoire en seconde et un enseignement de philosophie de 2h hebdomadaires en terminale professionnelle et d’intégrer une initiation au droit dans les programmes du collège et du lycée.</aec>
+      </aec>
     </entree>
 
     <entree>
