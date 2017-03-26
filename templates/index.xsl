@@ -45,6 +45,17 @@
                       
                     }
 
+                    ol.entrees > li {
+                        list-style: none;
+                    }
+
+                    ol.entrees > li span.num {
+                        float: left;
+                        margin-left: -20px;
+                        margin-right: 5px;
+                        font-size: 1.3em;
+                    }
+
                     div.subgroup {
                         min-height: 10em;
                     }
@@ -241,8 +252,9 @@
                                   <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
                                   <li>
                                       <div id="c{$chapitre}m{$element}" class="subgroup">
+                                          <span class="num"><a href="#c{$chapitre}m{$element}" class="anchor"><xsl:value-of select="$chapitre" />.<xsl:value-of select="$element" /></a></span>
                                           <a name="c{$chapitre}m{$element}"></a>
-                                          <h3>« <xsl:value-of select="./engagement" />» <a href="#c{$chapitre}m{$element}" class="anchor"><span class="glyphicon glyphicon-link" data-id=""></span></a></h3>
+                                          <h3>« <xsl:value-of select="./engagement" />»</h3>
                                           <xsl:if test="./mesure">
                                               <div class="mesure">
                                                   <xsl:copy-of select="./mesure" />
