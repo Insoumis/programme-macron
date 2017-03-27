@@ -1024,7 +1024,13 @@ c’est-à-dire à consulter directement les citoyens sur l’utilisation
 de l’argent public.
 </li>
 </ul></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="info" description="C'est dans le bon sens">
+        Cela va dans le bon sens, mais notons deux motifs de doute et d'inquiétude :
+        <ul>
+          <li>Il est quasi impossible, dans le cadre de la 5ème République, de véritablement donner du pouvoir aux citoyens</li>
+          <li>L'autonomie des communes étant mise à mal par la <a href="#c12m1">réforme de la taxe d'habitation</a> proposée par M. Macron, ce pouvoir des citoyens risque d'être artificiel.</li>
+        </ul>
+      </analyse>
     </entree>
   </categorie>
 
