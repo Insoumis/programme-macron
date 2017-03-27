@@ -5,8 +5,23 @@
 
     <xsl:variable name="propositions" select="count(//engagement)" />
     <xsl:variable name="analyses" select="count(//analyse[text()])" />
+
+
+    <xsl:template match="@*|node()">
+      <xsl:copy>
+        <xsl:apply-templates select="@*|node()"/>
+      </xsl:copy>
+    </xsl:template>
+
+    <xsl:template match="a[not(@target)]">
+      <xsl:copy>
+        <xsl:attribute name="target">_blank</xsl:attribute>
+        <xsl:apply-templates select="@*|node()" />
+      </xsl:copy>
+    </xsl:template>
     
     <xsl:template match="/">
+
         <html>
             <head>
                 <link href="/elements/logo-180x180.png" sizes="180x180" rel="apple-touch-icon" />
@@ -264,7 +279,7 @@
                                           <!--<h4>Analyse</h4>-->
                                           <div class="analyse"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
                                               <div>
-                                                  <xsl:copy-of select="./analyse" />
+                                                  <xsl:apply-templates select="./analyse" />
                                               </div>
                                           </div>
                                           <xsl:if test="./aec">
