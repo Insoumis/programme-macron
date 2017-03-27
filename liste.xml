@@ -392,7 +392,12 @@ supplémentaires.</engagement>
       <engagement>Nous créerons une police de sécurité quotidienne.</engagement>
       <mesure>Au plus près des Français, elle développera une connaissance approfondie des lieux
 et des habitants qu’elle sera chargée de protéger et d’entendre.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="success" description="C'est bien !">
+        Il faut restaurer la confiance entre les français et leur police. Pour cela, il faut réinstaurer la police de proximité <a href="http://tempsreel.nouvelobs.com/societe/20160719.OBS4914/3-decisions-de-sarkozy-qui-ont-affaibli-la-police.html">supprimée par Nicolas Sarkozy</a>. La proposition d'Emmanuel Macron y ressemble.
+      </analyse>
+      <aec>
+        <aec>https://laec.fr/section/13/garantir-la-securite-et-la-surete</aec>
+      </aec>
     </entree>
 
     <entree>
