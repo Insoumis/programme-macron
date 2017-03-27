@@ -2,7 +2,7 @@
 #  inkscape public/elements/logo.svg -w ${s} -h ${s} -e "public/elements/logo-${s}x${s}.png";
 #done
 
-saxonb-xslt -s:liste.xml -xsl:laec.xsl -o:"laec" -ext:on
+#saxonb-xslt -s:liste.xml -xsl:laec.xsl -o:"laec" -ext:on
 
 for f in templates/*.xsl; do
     bn=$(basename "$f")
