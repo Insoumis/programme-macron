@@ -564,7 +564,7 @@ du grec et du latin</mesure>
 après la classe.</engagement>
       <mesure>Au collège, nous rétablirons les études dirigées après la classe grâce à des bénévoles
 (étudiants et retraités).</mesure>
-      <analyse tag="warning" description="">
+      <analyse tag="warning" description="C'est de l'arnaque">
 Dans le complément du programme, il est indiqué : « Nous mobiliserons les enseignants et des bénévoles. Dans le parcours de tous les étudiants de France, il y aura un trimestre dédié à cette activité. »
 
 Pour pouvoir mobiliser des enseignants vers ce travail supplémentaire, il faudrait créer des nouveaux postes. 
@@ -815,7 +815,14 @@ le pouvoir de bloquer cette nouvelle étape.</mesure>
       <engagement>Nous augmenterons le minimum vieillesse
 de 100 euros par mois.</engagement>
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="C'est insuffisant">
+        En France, le seuil de pauvreté est de <a href="https://www.insee.fr/fr/statistiques/fichier/2492211/FPORSOC16l2_F4.2_pauvrete.pdf">1 008 €</a> ( 60% du revenu médian). Toute personne en dessous de ce niveau de vie est donc considérée comme pauvre.
+Depuis le 1er avril 2016, les montants de l'allocation de solidarité aux personnes âgées (ASPA), encore appelée minimum vieillesse, complète les revenus (pensions de retraite, pensions d'invalidité, pensions alimentaires, allocations adulte handicapé) des personnes de plus de 65 ans (60 ans en cas d'inaptitude au travail) <a href="http://droit-finances.commentcamarche.net/faq/4958-montant-du-minimum-vieillesse-2017-aspa">jusqu’à 801 € pour une personne seule ou 1 243 € pour un couple</a>.
+Avec 100 € supplémentaires, ces personnes resteraient donc sous le seuil de pauvreté.
+      </analyse>
+      <aec>
+        <aec>https://laec.fr/s31m2</aec>
+      </aec>
     </entree>
 
     <entree>
