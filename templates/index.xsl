@@ -159,17 +159,18 @@
                        <li><a href="#conclusion">Conclusion</a></li>
                     </ul>
                   </nav>
-                  <div class="col-lg-8 col-lg-pull-4">
-                    <h1>Le programme de Macron expliqué</h1>
-                      <div class="progress">
-                         <xsl:variable name="pourcentage" select="round(100 * $analyses div $propositions)" />
-                        <div class="progress-bar" role="progressbar" aria-valuenow="{$pourcentage}" aria-valuemin="0" aria-valuemax="100" style="width: {$pourcentage}%;">
-                          <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.
-                        </div>
+                   <div class="col-lg-8 col-lg-pull-4">
+                      <div class="jumbotron">
+                        <h1>Le programme de Macron expliqué</h1>
+                          <div class="progress">
+                            <xsl:variable name="pourcentage" select="round(100 * $analyses div $propositions)" />
+                              <div class="progress-bar" role="progressbar" aria-valuenow="{$pourcentage}" aria-valuemin="0" aria-valuemax="100" style="width: {$pourcentage}%;">
+                            <xsl:value-of select="$analyses" />/<xsl:value-of select="$propositions" /> propositions analysées.
+                          </div>
                       </div>
-
-                      <p>Des citoyens insoumis proposent une analyse détaillée du programme d'En Marche. <a href="pourquoi.html">En savoir plus...</a></p>
-
+                      <p>Des citoyens insoumis proposent une analyse détaillée du programme d'En Marche.</p>
+                      <p><a class="btn btn-primary btn-lg" href="pourquoi.html" role="button">En savoir plus...</a></p>
+                    </div>
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
                         <a name="c{$chapitre}"></a>
