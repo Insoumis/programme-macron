@@ -593,7 +593,12 @@ Ce sont des travailleurs rémunérés, qui de plus, sont très souvent dans des 
       <engagement>Nous moderniserons le baccalauréat.</engagement>
       <mesure>Il y aura désormais 4 matières obligatoires à l’examen final. Les autres seront validées
 par un contrôle continu.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="C'est dangereux">
+         L'évaluation par les professeurs au cours de l'année doit rester constructive. Le contrôle continu transforme cette évaluation à visée pédagogique et indicative en une sanction. Par ailleurs, il est une source potentielle de tensions entre élèves et professeurs, qui deviennent alors examinateurs. Cela pose de plus un problème d'anonymat.
+      </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/le-livret-education/">Nous souhaitons en finir avec le contrôle continu aux baccalauréats et au brevet pour garantir l’égalité et l’anonymat des candidats.</aec>
+      </aec>
     </entree>
 
     <entree>
