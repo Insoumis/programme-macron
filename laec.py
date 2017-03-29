@@ -3,6 +3,7 @@ import httplib2
 import re
 import markdown2
 import xml.etree.cElementTree as ET
+import os.path
 
 def get_measures(section, measure):
     h = httplib2.Http('.cache')    
@@ -37,6 +38,9 @@ def parse_refs():
                         continue
 
             if ref['s'] == '0':
+              continue
+
+            if os.path.isfile("tmp/laec_s" + ref['s'] + "m" + ref['m'] + ".xml"):
               continue
 
             measures = get_measures(ref['s'], int(ref['m']))
