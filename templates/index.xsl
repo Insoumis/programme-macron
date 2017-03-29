@@ -12,7 +12,7 @@
           <xsl:variable name="section" select="regex-group(1)" />
           <xsl:variable name="mesure" select="regex-group(2)" />
           <li>
-            <a href="{.}"><xsl:copy-of select="document(concat('../tmp/laec_s', $section, 'm', $mesure, '.xml'))//measure" /></a>
+            <a href="{.}"><xsl:copy-of select="document(concat('../tmp/laec_s', $section, 'm', $mesure, '.xml'))//measure/node()" /></a>
           </li>
         </xsl:matching-substring>
         <!--<xsl:non-matching-substring>
@@ -30,7 +30,7 @@
           <li><a href="{.}"><xsl:value-of select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/@title" /></a>
             <ul>
               <xsl:for-each select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/measure">
-                <li><xsl:copy-of select="." /></li>
+                <li><xsl:copy-of select="node()" /></li>
               </xsl:for-each>
             </ul>
           </li>
@@ -328,7 +328,7 @@
                                               <div class="aec">
                                                   <h4>Qu'en dit l'«Avenir en Commun» ?</h4>
                                                   <ul>
-                                                      <xsl:apply-templates select="./aec" />
+                                                      <xsl:apply-templates select="./aec/node()" />
                                                   </ul>
                                               </div>
                                           </xsl:if>
