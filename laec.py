@@ -12,8 +12,6 @@ def get_measures(section, measure):
     data = json.loads(content.decode('utf-8'))
     data = data['data']
 
-    data['foreword'] = str(markdown2.markdown(data['foreword']))
-
     for m in data['measures']:
         m['body'] = str(markdown2.markdown(m['body']))
 
