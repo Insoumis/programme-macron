@@ -7,7 +7,7 @@
     <xsl:variable name="analyses" select="count(//analyse[text()])" />
 
     <xsl:template match="//aec/aec[matches(., 'https://laec.fr/s[0-9]*m[0-9]*')]" priority="4">
-      <xsl:analyze-string select="." regex="laec.fr/s([0-9]*)m([0-9]*)">
+      <xsl:analyze-string select="." regex="https://laec.fr/s([0-9]*)m([0-9]*)">
         <xsl:matching-substring>
           <xsl:variable name="section" select="regex-group(1)" />
           <xsl:variable name="mesure" select="regex-group(2)" />
