@@ -24,7 +24,7 @@
     </xsl:template>
 
     <xsl:template match="//aec/aec[matches(., 'https://laec.fr/section/.*/')]" priority="3">
-      <xsl:analyze-string select="." regex="https://laec.fr/section/([0-9]*)/">
+      <xsl:analyze-string select="." regex="https://laec.fr/section/([0-9]*)/.*">
         <xsl:matching-substring>
           <xsl:variable name="section" select="regex-group(1)" />
           <li><a href="{.}"><xsl:value-of select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/@title" /></a>
