@@ -1,13 +1,21 @@
 sudo: false
 dist: trusty
+language: python
+python:
+  - "3.4"
 
-cache: apt
+cache:
+  directories:
+  - $PWD/tmp
 
 addons:
   apt:
     packages:
     - libsaxonb-java
     - default-jre
+
+install:
+ - "pip install -r requirements.txt"
 
 script: ./build.sh
 

@@ -6,17 +6,59 @@
     <xsl:variable name="propositions" select="count(//engagement)" />
     <xsl:variable name="analyses" select="count(//analyse[text()])" />
 
+    <xsl:template match="//aec/aec[matches(., 'https://laec.fr/s[0-9]*m[0-9]*')]" priority="4">
+      <xsl:analyze-string select="." regex="laec.fr/s([0-9]*)m([0-9]*)">
+        <xsl:matching-substring>
+          <xsl:variable name="section" select="regex-group(1)" />
+          <xsl:variable name="mesure" select="regex-group(2)" />
+          <li>
+            <a href="{.}"><xsl:copy-of select="document(concat('../tmp/laec_s', $section, 'm', $mesure, '.xml'))//measure" /></a>
+          </li>
+        </xsl:matching-substring>
+        <!--<xsl:non-matching-substring>
+          <li>
+            <a href="{.}">Mesure <xsl:value-of select="." /></a>
+          </li>
+        </xsl:non-matching-substring>-->
+      </xsl:analyze-string>
+    </xsl:template>
+
+    <xsl:template match="//aec/aec[matches(., 'https://laec.fr/section/.*/')]" priority="3">
+      <xsl:analyze-string select="." regex="https://laec.fr/section/([0-9]*)/">
+        <xsl:matching-substring>
+          <xsl:variable name="section" select="regex-group(1)" />
+          <li><a href="{.}"><xsl:value-of select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/@title" /></a>
+            <ul>
+              <xsl:for-each select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/measure">
+                <li><xsl:copy-of select="." /></li>
+              </xsl:for-each>
+            </ul>
+          </li>
+        </xsl:matching-substring>
+        <!--<xsl:non-matching-substring>
+          <li>
+            <a href="{.}"><xsl:value-of select="." /></a>
+          </li>
+        </xsl:non-matching-substring>-->
+      </xsl:analyze-string>
+    </xsl:template>
+
+    <xsl:template match="//aec/aec[@href]" priority="2">
+      <li>
+        <a href="{./@href}">« <xsl:value-of select="." /> »</a>
+      </li>
+    </xsl:template>
+
+    <xsl:template match="//aec/aec[not(@href)]" priority="1">
+      <li>
+        <a href="{.}"><xsl:value-of select="." /></a>
+      </li>
+    </xsl:template>
+
 
     <xsl:template match="@*|node()">
       <xsl:copy>
         <xsl:apply-templates select="@*|node()"/>
-      </xsl:copy>
-    </xsl:template>
-
-    <xsl:template match="a[not(@target)]">
-      <xsl:copy>
-        <xsl:attribute name="target">_blank</xsl:attribute>
-        <xsl:apply-templates select="@*|node()" />
       </xsl:copy>
     </xsl:template>
     
@@ -286,16 +328,7 @@
                                               <div class="aec">
                                                   <h4>Qu'en dit l'«Avenir en Commun» ?</h4>
                                                   <ul>
-                                                      <xsl:for-each select="./aec/aec">
-                                                          <xsl:choose>
-                                                            <xsl:when test="./@href">
-                                                              <li><a href="{./@href}">« <xsl:value-of select="." /> »</a></li>
-                                                            </xsl:when>
-                                                            <xsl:otherwise>
-                                                              <li><a href="{.}"><xsl:value-of select="." /></a></li>
-                                                            </xsl:otherwise>
-                                                          </xsl:choose>
-                                                      </xsl:for-each>
+                                                      <xsl:apply-templates select="./aec" />
                                                   </ul>
                                               </div>
                                           </xsl:if>
