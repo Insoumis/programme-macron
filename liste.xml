@@ -1090,7 +1090,17 @@ unique permettant un accès facilité au juge.</engagement>
 les litiges inférieurs à 4000 euros.</engagement>
       <mesure>La procédure les concernant
 sera entièrement dématérialisée et la décision sera rendue en ligne.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="C'est insuffisant">Cette mesure part d’une bonne intention, 
+        car elle vise à désengorger les tribunaux de proximité et de faire en sorte que les litiges soient réglés plus rapidement.
+        Cependant, elle ignore le problème essentiel à l'origine de la lenteur de la Justice, à savoir que <a href="http://www.liberation.fr/france/2016/02/05/cette-justice-penalisee-par-un-manque-de-moyens_1431424">ses moyens sont <i>très</i> insuffisants</a>. En particulier, le budget de la Justice française en 2014 était de <a href="https://www.francebleu.fr/emissions/tous-europeens/tous-europeens-du-jeudi-5-mai-2016">74 € par habitant</a>, alors qu'il est de 146 euros par habitant en Allemagne. Il est donc absolument nécessaire de redonner les moyens à la Justice de fonctionner convenablement.<br />
+        Par ailleurs, la proposition d'Emmanuel Macron est complétée d'<a href="http://www.en-marche.fr/emmanuel-macron/le-programme/justice">une autre mesure</a> : "Nous favoriserons la création de plateformes de règlement amiable des litiges qui lorsqu’elles seront tenues par des professionnels associant avocats huissiers ou notaires pourront conclure des accords ayant la force d’un jugement.". Ceci est inquiétant, car cela ressemble à l'instauration d'une justice privatisée parallèle au système public voué à l'abandon.
+      </analyse>
+      <aec>
+        <aec href="">Augmentation de moitié des effectifs
+ des services judiciaires afin de parvenir 
+au nombre approprié de magistrats par habitant, en recrutant 18 000 magistrats, 
+greffiers et personnels administratifs</aec>
+      </aec>
     </entree>
   </categorie>
 
