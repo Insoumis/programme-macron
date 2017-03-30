@@ -39,6 +39,7 @@ def parse_refs():
               continue
 
             if os.path.isfile("tmp/laec_s" + ref['s'] + "m" + ref['m'] + ".xml"):
+              print ("Skipping existing laec_s" + ref['s'] + "m" + ref['m'] + ".xml")
               continue
 
             measures = get_measures(ref['s'], int(ref['m']))
