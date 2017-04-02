@@ -371,6 +371,9 @@ Ainsi, la phrase "pour chaque euro cotisé, le même droit à pension pour tous"
 De plus, ce système souffre d'un problème partagé avec la retraite par capitalisation, à savoir l'incertitude sur le montant des pensions.
 Il apparait une autre injustice : les classes défavorisées ayant une espérance de vie inférieure, elles jouissent d'une pension plus basse que ce qui serait calculé à partir de leur espérance de vie et non pas la moyenne de toutes les catégories socio-professionnelles confondues.
 </analyse>
+      <aec>
+        <aec>https://laec.fr/s31m3</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -383,6 +386,9 @@ Il apparait une autre injustice : les classes défavorisées ayant une espéranc
         <li>Le calcul basé sur l'espérance de vie moyenne à l'âge du départ est une incitation à le repousser afin de compenser cette baisse des pensions. C'est par ailleurs très injuste pour les catégories défavorisées, pour qui continuer de travailler est plus pénible, et dont l'espérance de vie, donc le temps disponible pour profiter de leur retraite, est inférieure.</li>
       </ul>
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s31m1</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -412,6 +418,9 @@ sera amplifiée.</engagement>
       <mesure>Une fraude grave entraînera désormais, en plus du remboursement, la suspension
 de la prestation</mesure>
       <analyse tag="warning" description="C'est une arnaque">La fraude aux prestations sociales est déjà activement recherchée : près de <a href="http://abonnes.lemonde.fr/societe/article/2017/02/22/caf-pres-de-43-000-fraudes-en-2016_5083737_3224.html">35,5 millions de contrôles ont été réalisés en 2016</a>. Cependant, elle représente un montant modeste, qui atteindrait <a href="http://tempsreel.nouvelobs.com/en-direct/a-chaud/33790-eco-millions-euros-fraude-prestations-sociales-detectes.html">à peine 300 millions d'euros</a>, là où la fraude fiscale est estimée à <a href="https://www.lesechos.fr/22/01/2013/lesechos.fr/0202517122793_la-fraude-fiscale-couterait-80-milliards-d-euros.htm">80 milliards d'euros !</a>. Enfin, le montant des aides dues mais non perçues ou réclamées, <a href="http://www.caminteresse.fr/economie-societe/prestations-sociales-non-recours-fraude-milliards-euros-1155908/">s'élèverait à 12 milliards d'euros</a>,(soit donc 30 fois plus que celui de la fraude aux prestations sociales !</analyse>
+      <aec>
+        <aec>https://laec.fr/section/37/terrasser-l-evasion-et-la-fraude-fiscales</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -495,6 +504,9 @@ les crachats... Ces incivilités seront punies d’amendes immédiates et dissua
       <engagement>Toute peine prononcée sera exécutée.</engagement>
       <mesure></mesure>
       <analyse tag="warning" description="Dangereux">Cette mesure semble innocente, mais si on l'interprète au pied de la lettre, elle revient à supprimer les <a href="http://www.vie-publique.fr/decouverte-institutions/justice/fonctionnement/administration-penitentiaire/peines-emprisonnement-peuvent-elles-etre-amenagees.html">aménagements de peine</a>, qui donnent de la latitude à la Justice pour suivre et évaluer les décisions de sanction optimales pour chaque individu. <a href="https://criminocorpus.revues.org/2489">Des études montrent</a> que ceci est de fait assez efficace : il y a moins de récidive chez les personnes ayant bénéficié d'aménagement de peine, prouvant sinon leur effet positif, du moins leur bien-fondé.</analyse>
+      <aec>
+        <aec>https://laec.fr/s11m2</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -526,6 +538,11 @@ et la cybersécurité comme priorités de notre sécurité nationale.</engagemen
 à moderniser les blindés de l’armée de terre, ainsi que la flotte de surface de notre marine 
 nationale.</mesure>
       <analyse tag="danger" description="C'est dangereux">Le chiffre de 2% ne tombe pas du ciel : c'est une demande de longue date des États-Unis, qui souhaitent que la France augmente son budget de la défense afin d'acheter "sur étagère" auprès d'eux du matériel de guerre. Cela a essentiellement pour but de financer leur industrie de l'armement, et contribue à la prolifération des armes. Cette mesure coûterait près de 7 milliards d'euros par an.</analyse>
+      <aec>
+        <aec>https://laec.fr/s55m1</aec>
+        <aec>https://laec.fr/s55m2</aec>
+        <aec>https://laec.fr/s55m3</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -591,6 +608,12 @@ adaptée à ce nouveau cadre.</mesure>
       <analyse tag="warning" description="Méfiance">
            Après de longues recherches dans les propositions de son programme pour l’éducation, nous n’avons trouvé aucune mesure permettant de donner plus d’autonomie aux équipes éducatives. Par ailleurs, dire d’une part, qu’il souhaite donner de l’autonomie aux équipes éducatives et d’autre part, qu’elles seront suivies et évaluées est semble contradictoire.
       </analyse>
+      <aec>
+        <aec>
+          <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-30-EDUCATION_vdef2.pdf">pour rattraper le gel du point d’indice</aec>
+          <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-30-EDUCATION_vdef2.pdf">alléger la charge de travail par la suppression des activités pédagogiques complémentaires et la mise en place d’un temps hebdomadaire autogéré d’1h30</aec>
+          <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-30-EDUCATION_vdef2.pdf">renforcer les garanties statutaires : liberté pédagogique ; abrogation du décret Hamon d'août 2014 et de la réforme de l’évaluation ; pleine maîtrise de l’évaluation en interdisant toute immixtion hiérarchique et en revenant sur l’ensemble des procédures d’harmonisation informatisées</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -676,6 +699,10 @@ Finalement, ce sont surtout les étudiants qui compensent le désengagement de l
 
 Pour les « 80 000 places dans les filières professionnalisantes », c'est à dire principalement les licences et masters professionnels, avec le désengagement de l'Etat et la baisse des budgets des universités, on voit mal comment ce serait possible, sauf en poursuivant le logique de privatisation des universités, en augmentant leur ouverture aux financements privés, ou en augmentant encore les frais d'inscription.
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s75m5</aec>
+        <aec>https://laec.fr/s75m9</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -763,8 +790,13 @@ Par ailleurs, le fait de retenir comme motif le fait de « s'attaquer à la Rép
 
 Les détails du programme parlent aussi de conditionner « les différentes formes de partenariats publics (…) au respect strict des principes républicains ». Si ça peux sembler logique, il faut aussi faire attention aux dérives possibles, comme dans le cas de « <a href="http://www.droitpublic.net/spip.php?article5596">chartes de la laïcité</a> » adoptées récemment par certaines collectivités locales et rejetées par la justice.<br />
 Il est aussi question de conditionner « le soutien des communes à la construction de mosquées » aux mêmes principes, mais il faut rappeler que <a href="http://www.slate.fr/story/121757/infographie-lieux-de-culte-france">le financement des lieux de cultes par l'Etat ou les collectivité est interdit</a>, à l'exception <a href="https://fr.wikipedia.org/wiki/Concordat_en_Alsace-Moselle">de l'Alsace-Moselle, qui sont sous concordat</a> (<a href="#c7m1">voir 7.1</a>).
-
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s7m1</aec>
+        <aec>https://laec.fr/s7m2</aec>
+        <aec>https://laec.fr/s12m6</aec>
+        <aec>https://laec.fr/s12m5</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -774,7 +806,16 @@ française.</engagement>
       <mesure>Nous renforcerons l’apprentissage de notre langue pour les candidats à la naturalisation. 
 Quelle meilleure preuve de la volonté de quelqu’un de s’intégrer et de devenir français 
 ?</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="info" description="Ça existe déjà">
+        La maitrise de la langue française est <a href="https://www.service-public.fr/particuliers/vosdroits/F2213">déjà un des principaux critères</a> d'obtention de la nationalité française. Depuis <a href="http://www.vie-publique.fr/actualite/dossier/integration/contrat-accueil-integration-parcours-obligatoire-condition-installation-durable.html">2006</a>, un <a href="http://www.edrh-sophiaantipolis.com/public/docs/page/souspage/53.pdf">Contrat d'Accueil et d'Intégration (CAI)</a> est obligatoire pour tout nouvel arrivant désireux d'acquérir la nationalité française. Suite à un test de langue française, si nécessaire, <a href="http://www.superprof.fr/blog/integration-par-les-cours-de-fle/">le candidat devait suivre une formation linguistique gratuite</a>, pour finalement décrocher le diplôme initial de langue française (DILF), qui valide le 1er niveau identifiable en français (niveau A1.1).<br />
+
+En 2012, l'exigence linguisitique s'est élevée, avec la mise en place d'un <a href="http://www.ciep.fr/tcf-anf"><abbr title="Test de Connaissance du Français">TCF</abbr>, ou <abbr title="Test d'Evaluation du Français"> TEF</abbr></a>, pour les candidats à la nationalité, exigeant le niveau B1 pour l'obtenir.
+En 2016, la formation linguisitique est renforcée, puisqu'un <a href="https://www.service-public.fr/particuliers/vosdroits/F17048">Contrat d’Intégration Républicaine (CIR)</a> a remplacé le CAI, mettant en place pour le candidat un « <a href="http://www.immigration.interieur.gouv.fr/Accueil-et-accompagnement/Le-parcours-personnalise-d-integration-republicaine">parcours personnalisé d’intégration républicaine</a> » d’une durée de cinq ans. Le CIR prescrit une formation linguistique pour mener l'étranger au niveau A1. Si le candidat valide ce niveau et satisfait aux autres exigences, <a href="http://normandie.drdjscs.gouv.fr/sites/normandie.drdjscs.gouv.fr/IMG/pdf/genese_de_la_politique_d_accompagnement_linguistique_des_etrangers_en_france_.pdf">il obtiendra un titre de séjour pluriannuel</a>. Une nouvelle formation est alors prévue pour atteindre le niveau A2. Au bout de 5 ans, il pourra prétendre à une carte de résident si il atteint ce niveau. <a href="http://www.ofii.fr/tests_197/envie_d_approfondir_vos_connaissances_linguistiques_en_langue_francaise_1349.html?preview=oui">Une autre formation est prévue pour atteindre le niveau B1</a>. Ces formations sont gratuites.<br />
+
+On peut donc s'étonner de la promesse de donner un « droit à une formation linguistique suffisante pour atteindre le niveau B1 » dans les détails du programme d' « En Marche », alors que ce droit existe déjà.<br />
+
+Quant aux mineurs, ils sont inscrits dans des établissements scolaires, et il existe des classes pour non francophones <!--(dits « [allophones ](https://fr.wikipedia.org/wiki/Allophone_(sociolinguistique))» )--> destinées aux élèves nouvellement arrivés. Néanmoins, ces classes (dites « UPE2A ») <a href="http://www.sudeducation.org/Pour-une-reelle-prise-en-charge.html">manquent de moyens</a>, et « En Marche » ne prévoit pas de les soutenir.
+      </analyse>
     </entree>
 
     <entree>
