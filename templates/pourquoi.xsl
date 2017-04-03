@@ -19,10 +19,19 @@
                 <meta content="Analysons Macron" name="application-name" />
                 <meta charset="utf-8" />
                 <!--<link href="/includes/manifest.json" rel="manifest" />-->
+
                 <meta content="Analysons Macron" property="og:title" />
                 <meta content="website" property="og:type" />
                 <meta content="http://analysons-macron.fr/" property="og:url" />
+                <meta content="Analyse détaillée, mesure par mesure, du programme de Macron. Par la France Insoumise." property="og:description" />
                 <meta content="http://analysons-macron.fr/elements/logo-256x256.png" property="og:image" />
+
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="twitter:site" content="@Action_Insoumis">
+                <meta name="twitter:creator" content="@Action_Insoumis">
+                <meta name="twitter:description" content="Analyse détaillée, mesure par mesure, du programme de Macron. Par la France Insoumise.">
+                <meta name="twitter:image" content="http://analysons-macron.fr/elements/logo-256x256.png">
+
                 <title>Le programme de Macron expliqué</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
                 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
