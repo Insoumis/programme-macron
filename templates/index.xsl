@@ -328,19 +328,19 @@
                                               </div>
                                           </xsl:if>
                                           <!--<h4>Analyse</h4>-->
-                                          <xsl:choose>
-                                            <xsl:when test="./analyse != ''">
-                                              <div class="analyse"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
-                                                  <div>
-                                                      <xsl:apply-templates select="./analyse" />
-                                                  </div>
-                                              </div>  
-                                            </xsl:when>
-                                            <xsl:otherwise>
-                                              <div class="analyse">
-                                              <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !</div>
-                                            </xsl:otherwise>
-                                          </xsl:choose>
+                                          <div class="analyse">
+                                            <xsl:choose>
+                                              <xsl:when test="./analyse != ''">
+                                                <span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
+                                                <div>
+                                                    <xsl:apply-templates select="./analyse" />
+                                                </div>
+                                              </xsl:when>
+                                              <xsl:otherwise>
+                                                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !
+                                              </xsl:otherwise>
+                                            </xsl:choose>
+                                          </div>
                                           <xsl:if test="./aec">
                                               <div class="aec">
                                                   <h4>Qu'en dit l'«Avenir en Commun» ?</h4>
