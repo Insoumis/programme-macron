@@ -328,11 +328,19 @@
                                               </div>
                                           </xsl:if>
                                           <!--<h4>Analyse</h4>-->
-                                          <div class="analyse"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
-                                              <div>
-                                                  <xsl:apply-templates select="./analyse" />
-                                              </div>
-                                          </div>
+                                          <xsl:choose>
+                                            <xsl:when test="./analyse != ''">
+                                              <div class="analyse"><span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
+                                                  <div>
+                                                      <xsl:apply-templates select="./analyse" />
+                                                  </div>
+                                              </div>  
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                              <div class="analyse">
+                                              <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !</div>
+                                            </xsl:otherwise>
+                                          </xsl:choose>
                                           <xsl:if test="./aec">
                                               <div class="aec">
                                                   <h4>Qu'en dit l'«Avenir en Commun» ?</h4>
@@ -353,9 +361,26 @@
                       <h2 class="chapitre">Conclusion</h2>
                       <div id="generalites" class="subgroup">
                         <a name="generalites"></a>
-                        <h3>Critique globale</h3>
+                        <h3>Critique</h3>
                         <div class="analyse">
-                           
+                           <p>
+                            Il semble que le programme d'Emmanuel Macron se place sous le signe de la continuité des politiques menées depuis 30 ans, et en particulier du quinquennat précédent. Le programme <b>économique</b> poursuit le choix de la politique de l'offre, conformément aux traités européens et aux recommandations de la commission européenne. En effet, d'une part, le choix est fait de maintenir les coûts et de contenir les salaires, puisque la hausse que suggère le programme n'est qu'un transfert de la part socialisée vers la part individuelle, compensée par des impôts. D'autre part, les investissements ne compenseront pas les mesures d'austérité prévues, si bien que l'impact global sur l'économie sera bien une contraction. Par ailleurs, les mesures d'allègements fiscaux prévues pour les grandes entreprises et les rentiers contribueront davantage à rémunérer la rente et les dividendes, et donc à nourrir la bulle financière au détriment de l'économie réelle et de l'activité.<br />Par ailleurs, 
+                           </p>
+                           <p>
+                            Du point de vue de l'<b>écologie</b>, le programme d'En Marche est également dans la continuité. Aucune critique du productivisme capitaliste, aucune critique du libre-échange, qui est un désastre pour l'environnement, n'y sont faites. Les prises de positions sur l'agriculture chimique ou les perturbateurs endoctriniens sont contradictoires et légères. L'essentiel des mesures environnementales sont soient faiblement incitatives, soient incantatoires. Enfin, les sommes avancées pour financer la transition écologique sont dérisoires.
+                           </p>
+                           <p>
+                            En ce qui concerne les <b>institutions</b>, le programme est extrêmement insuffisant. Sans adresser les lacunes démocratiques profondes (monarchie présidentielle, non respect des engagements électoraux et référendums), il se borne à des réformes marginales de "moralisation" bien trop peu contraignantes. Certaines mesures semblent même constituer des régressions : ainsi, la représentativité des parlementaires sera diminuée, là où elle devrait être augmentée.
+                           </p>
+                           <p>
+                            Sur l'<b>Europe</b>, puisque son programme est tout à fait dans la ligne de son orientation actuelle, il n'est pas surprenant qu'E. Macron ne fasse aucune contestation des traités européens, et du déficit démocratique qui découle largement de leur verrouillage. Sa proposition de parlement de la zone euro n'y changera rien. C'est pourtant cet immobilisme qui conduit l'Union Européenne au bord du gouffre, en la plongeant dans la morosité économique, et en ravivant les tensions, les haines, et les mouvement d'extrême-droite.
+                           </p>
+                           <p>
+                            Le volet <b>international</b> est préoccupant. Il soutient la volonté d'une Europe de la Défense, dont on se demande, contre quelle menace, et surtout, si ce n'est pas surtout une Europe de la guerre qui se prépare, car celle-ci facilitera l'implication générale de ses membres dans des conflits. De plus, il semble suivre les recommandations de réarmement de l'OTAN, qui financeront l'industrie américaine de l'armement. Au final, les engagements d'Emmanuel Macron sur le plan international mettent à mal l'indépendance de la France.
+                           </p>
+                           <p>
+                            
+                           </p>
                         </div>
                       </div>                          
                       <div id="notre-vision" class="subgroup">
