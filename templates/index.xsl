@@ -167,6 +167,7 @@
 
                     .aec a {
 	                    color:#FFFFFF;
+                      text-decoration: underline;
 	                    margin: 0;
                     }
 
@@ -377,7 +378,7 @@
                             En ce qui concerne les <b>institutions</b>, le programme est extrêmement insuffisant. Sans adresser les lacunes démocratiques profondes (monarchie présidentielle, non respect des engagements électoraux et référendums), il se borne à des réformes marginales de "moralisation" bien trop peu contraignantes. Certaines mesures semblent même constituer des régressions : ainsi, la représentativité des parlementaires sera diminuée, là où elle devrait être augmentée.
                            </p>
                            <p>
-                            Sur l'<b>Europe</b>, puisque son programme est tout à fait dans la ligne de son orientation actuelle, il n'est pas surprenant qu'E. Macron ne fasse aucune contestation des traités européens, et du déficit démocratique qui découle largement de leur verrouillage. Sa proposition de parlement de la zone euro n'y changera rien. C'est pourtant cet immobilisme qui conduit l'Union Européenne au bord du gouffre, en la plongeant dans la morosité économique, et en ravivant les tensions, les haines, et les mouvement d'extrême-droite.
+                            Sur l'<b>Europe</b>, puisque son programme est tout à fait dans la ligne de son orientation actuelle, il n'est pas surprenant qu'E. Macron ne fasse aucune contestation des traités européens, et du déficit démocratique qui découle largement de leur verrouillage. Sa proposition de parlement de la zone euro n'y changera rien. C'est pourtant cet immobilisme qui conduit l'Union Européenne au bord du gouffre, en la plongeant dans la morosité économique, et en ravivant les tensions, les haines, et les mouvements d'extrême-droite.
                            </p>
                            <p>
                             Le volet <b>international</b> est préoccupant. Il soutient la volonté d'une Europe de la Défense, dont on se demande, contre quelle menace, et surtout, si ce n'est pas davantage une Europe de la guerre qui se prépare, car celle-ci facilitera l'implication générale de ses membres dans des conflits. De plus, il semble suivre les recommandations de réarmement de l'OTAN, qui financeront l'industrie américaine de l'armement. Au final, les engagements d'Emmanuel Macron sur le plan international mettent à mal l'indépendance de la France.
