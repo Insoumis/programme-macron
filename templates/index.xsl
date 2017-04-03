@@ -154,6 +154,10 @@
 	                    border-radius: 6px;
                     }
 
+                    .aec ul {
+                      padding-left: 20px;
+                    }
+
                     .aec li {
 	                    list-style-position: outside;
 	                    list-style-type: disc;
