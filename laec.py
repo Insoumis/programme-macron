@@ -47,7 +47,10 @@ def parse_refs():
             root = ET.Element("measures", title=measures['title']) if 'title' in measures else ET.Element("measures")
 
             for m in measures['measures']:
-                root.append(ET.fromstring('<measure>' + m['body'] + '</measure>'))
+                try:
+                  root.append(ET.fromstring('<measure>' + m['body'] + '</measure>'))
+                except:
+                  print ("warning: failed to parse " + m['body'])
 
             tree = ET.ElementTree(root)
             tree.write("tmp/laec_s" + ref['s'] + "m" + ref['m'] + ".xml")
