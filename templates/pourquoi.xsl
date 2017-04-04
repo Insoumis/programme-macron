@@ -119,7 +119,7 @@
 
                 <p>Le climat particulier de cette campagne traversée par les "affaires", et les défaillances du système médiatique peu propice à la mise en avant et à la discussion des idées, nous ont poussé à trouver un cadre plus favorable à un travail de réflexion et de débat. Aussi, notre collectif de militants de la <a href="https://avenirencommun.fr/">France Insoumise</a> a mis en place une critique point par point du programme d'Emmanuel Macron, qui selon nous n'a pas reçu l'examen que la délibération démocratique nécessite.</p>
 
-                <p>Bien évidemment, il s'agit d'une critique orientée (comment une critique ne pourrait pas l'être), mais nous avons cherché à être aussi rigoureux que possible. Nous espérons que ce travail vous sera utile.</p>
+                <p>Bien évidemment, il s'agit d'une critique orientée (comment une critique ne pourrait pas l'être), mais nous avons cherché à être aussi rigoureux que possible. Nous espérons que ce travail vous sera utile. Veuillez noter que suite à la publication tardive du programme d'En Marche, l'analyse n'est pas encore achevée à ce jour.</p>
 
                 <h2>Liens utiles</h2>
                 <h3>En Marche (Emmanuel Macron)</h3>
