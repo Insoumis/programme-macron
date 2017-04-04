@@ -153,9 +153,12 @@
                         margin-top: 0.5em;
                     }
 
-                    div.analyse > span.attente {
-                        padding-left: 5em;
+                    div.attente {
                         color: #B8B8B8;
+                    }
+
+                    div.attente > span.text {
+                        padding-left: 5em;
                     }
 
                     .aec {
@@ -349,7 +352,7 @@
                                               </div>
                                           </xsl:if>
                                           <!--<h4>Analyse</h4>-->
-                                          <div class="analyse">
+                                          <div class="analyse attente">
                                             <xsl:choose>
                                               <xsl:when test="./analyse != ''">
                                                 <span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
@@ -358,7 +361,7 @@
                                                 </div>
                                               </xsl:when>
                                               <xsl:otherwise>
-                                                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> <span class="attente">Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !</span>
+                                                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> <span class="text">Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !</span>
                                               </xsl:otherwise>
                                             </xsl:choose>
                                           </div>
