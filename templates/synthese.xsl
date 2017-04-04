@@ -70,6 +70,15 @@
                         padding: 9px 15px;
                     }
 
+                    a.navbar-brand {
+                        margin: 0;
+                        padding: 0 1em;
+                    }
+
+                    a.navbar-brand > img {
+                        height: 50px;
+                    }
+
                     div.analyse {
                         font-size: 1.2em;
                         margin-top: 2em;
@@ -81,7 +90,7 @@
                 <nav class="navbar navbar-default">
                   <div class="container-fluid">
                     <div class="navbar-header">
-                      <a class="navbar-brand" href="/">Analysons Macron</a>
+                      <a class="navbar-brand" href="/"><img src="elements/title.svg" /></a>
                     </div>
                     <ul class="nav navbar-nav">
                       <li><a href="/">Accueil</a></li>

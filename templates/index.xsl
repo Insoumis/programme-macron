@@ -213,6 +213,15 @@
                         padding: 9px 15px;
                     }
 
+                    a.navbar-brand {
+                        margin: 0;
+                        padding: 0 1em;
+                    }
+
+                    a.navbar-brand > img {
+                        height: 50px;
+                    }
+
                     /* sidebar */
                     #side-menu-container {
                         padding-left: 20px;
@@ -278,7 +287,7 @@
                 <nav class="navbar navbar-default">
                   <div class="container-fluid">
                     <div class="navbar-header">
-                      <a class="navbar-brand" href="/">Analysons Macron</a>
+                      <a class="navbar-brand" href="/"><img src="elements/title.svg" /></a>
                     </div>
                     <ul class="nav navbar-nav">
                       <li class="active"><a href="/">Accueil</a></li>
