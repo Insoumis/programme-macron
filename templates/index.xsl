@@ -372,7 +372,6 @@
                                               </div>
                                             </xsl:otherwise>
                                           </xsl:choose>
-                                          </div>
                                           <xsl:if test="./aec">
                                               <div class="aec">
                                                   <h4>Qu'en dit l'«Avenir en Commun» ?</h4>
