@@ -395,8 +395,11 @@
                               </xsl:for-each>
                           </ol>
                          </section>
-                    </xsl:for-each> 
-                  </div>
+                    </xsl:for-each>
+                         <p>
+                          La synthèse de toutes ces critiques et la confrontation globale des programmes d'En Marche et de la France Insoumise sont disponibles dans la <a href="synthese.html">synthèse</a>.
+                         </p>
+                    </div>
                   </div>
                 </div>
               
