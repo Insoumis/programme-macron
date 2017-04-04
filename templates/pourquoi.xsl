@@ -89,6 +89,7 @@
                            </xsl:for-each>
                         </ul>
                       </li>
+                      <li><a href="synthese.html">Synthèse</a></li>
                       <li class="active"><a href="pourquoi.html">Pourquoi ce site ?</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right share-buttons">
