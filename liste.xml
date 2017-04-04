@@ -754,7 +754,7 @@ et université de publier ses résultats</engagement>
 et le week-end.</engagement>
       <mesure></mesure>
       <analyse tag="warning" description="Méfiance">
-        En ce qui concerne l'efficacité de cette mesure, elle n'est pas garantie, puisque les bibliothèques qui bénéficieraient le plus de plus larges ouvertures ne sont pas celles qui sont déjà ouvertes du lundi au samedi avec de larges amplitudes horaires.<br />
+        Premièrement, l'efficacité de cette mesure n'est pas garantie, puisque les bibliothèques qui bénéficieraient le plus de plus longues ouvertures ne sont pas celles qui sont déjà ouvertes du lundi au samedi avec de larges amplitudes horaires.<br />
         Par ailleurs, cette mesure intrigue, car elle semble conflictuelle avec la volonté d'Emmanuel Macron de <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/action-publique-fonction-publique">supprimer 120.000 postes dans les fonctions publiques d'État et territoriale</a>. <br />
         Cette mesure a un inconvénient supplémentaire, puisque les postes qui devront être créés pour la mettre en place impliqueront des horaires particuliers (tard en soirée, le dimanche) et seront majoritairement pourvus par des <a href="http://www.humanite.fr/le-travail-du-dimanche-cache-deja-une-foret-de-precarite-574181">précaires</a> au détriment de leur vie de famille. Cela peut être des <a href="http://lentreprise.lexpress.fr/qui-travaille-le-dimanche-et-dans-quelles-conditions_1529376.html">jeunes</a> afin de payer leurs études.<br />
         De ce fait, une telle mesure risque d'accroître les inégalités en faisant travailler les classes défavorisées pour faire fonctionner les loisirs des plus favorisés. On peut donc arguer qu'il est préférable de mieux payer les gens ou de financer les études des jeunes afin qu'ils n'aient pas à recourir à des emplois particulièrement contraignants pour vivre décemment. Il faudra donc recourir à des gens qualifiés.
@@ -772,9 +772,16 @@ larges ouvertures.</aec>
       <mesure>Il permettra à chaque
 Français de 18 ans d’effectuer 500 euros de dépenses culturelles (cinéma, théâtre, livres...). 
 Nous ne retirerons pas un euro au budget du ministère de la Culture. </mesure>
-      <analyse tag="warning" description="C'est une fausse bonne idée">Cette mesure, qui envisage la culture comme un bien de consommation, a déjà été implémentée en Italie. Les résultats sont mauvais : seule une faible partie (6% environ) du budget est effectivement allouée : en l'absence d'incitation à la culture dans le parcours éducatif, la mesure est inefficace. Par ailleurs, un marché noir parallèle de revente sur les réseaux sociaux que certains jeunes utilisent pour détourner ces fonds a vu le jour (<a href="http://www.arretsurimages.net/breves/2017-03-04/Pass-Culture-de-Macron-en-Italie-un-succes-tout-relatif-id20486">source</a>).</analyse>
+      <analyse tag="warning" description="C'est une fausse bonne idée">Bien qu'il soit un peu tôt pour faire un bilan définitif du Bonus Cultura en Italie, <a href="https://www.francemusique.fr/emissions/culture-eco/le-bilan-des-pass-culture-en-italie-32167">les premiers résulats ne sont pas si positifs</a>. Sur les 574 000 jeunes pouvants bénéficier de ce pass, 300 000 se sont déjà manifestés. La date limite pur l’inscription a dû être repoussée à juin 2017 ! De plus, seulement 6,3 % du fond prévu à cet effet a été utilisé. Ce qui veut dire que la culture n'intéresse pas plus les jeunes italiens !
+
+Aussi selon <a href="https://www.actualitte.com/article/monde-edition/de-jeunes-italiens-vendent-les-500-du-bonus-culture-de-l-etat-je-lis-pas/68832">La Reppublica</a>, un des principaux médias italiens, beaucoup utilisent le Bonus Cultura non pas pour consommer de la culture mais pour se faire de l'argent en via la revente. Leur principe est simple : acheter ce qu'on leur commande, pour revendre à moitié prix. Cette pratique s'est surtout faite à la période de Noël.</analyse>
       <aec>
-        <aec>https://laec.fr/section/77/democratiser-la-culture-et-ses-pratiques-soutenir-ceux-qui-la-font-vivre</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-culture_vdef.pdf">Étendre la gratuité dans les musées et les autres lieux culturels recevant des subventions publiques nationales, à commencer par un accès gratuit tous les dimanches.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-culture_vdef.pdf">Défendre  le  maillage  national  des  bibliothèques  et  médiathèques, garantir leur budget face aux choix financiers ou idéologiques de certaines collectivités territoriales et embaucher des professionnel·le·s pour assurer de plus larges ouvertures.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-culture_vdef.pdf">Faire reculer l’emprise des multinationales culturelles, diriger les marchés publics de livres (commandes de collectivités et de bibliothèques) vers les librairies indépendantes.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-culture_vdef.pdf">
+L’investissement public en matière de culture sera porté à 1 % du PIB, soit plus de 20 milliards d’euros, pour l’État, les collectivités locales et les établissements publics culturels.
+        </aec>
       </aec>
     </entree>
   </categorie>
