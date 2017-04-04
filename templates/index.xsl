@@ -166,11 +166,11 @@
                         background-position: 15px 15px;
                         background-size: 30px;
                         margin: 10px;
-	                    background-color: #0098B6;
-	                    color:#FFFFFF;
-	                    margin: 1.5em;
-	                    padding: 1.2em;
-	                    border-radius: 6px;
+	                      background-color: #0098B6;
+	                      color:#FFFFFF;
+	                      margin: 1.5em;
+	                      padding: 1.2em;
+	                     border-radius: 6px;
                     }
 
                     .aec ul {
@@ -188,6 +188,10 @@
 	                    color:#FFFFFF;
                       text-decoration: none;
 	                    margin: 0;
+                    }
+
+                    .aec a:hover {
+                      text-decoration: none;
                     }
 
                     h4 {
