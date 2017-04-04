@@ -55,15 +55,20 @@
       </li>
     </xsl:template>
 
-
     <xsl:template match="@*|node()">
       <xsl:copy>
         <xsl:apply-templates select="@*|node()"/>
       </xsl:copy>
     </xsl:template>
-    
-    <xsl:template match="/">
 
+    <xsl:template match="a">
+      <xsl:copy>
+        <xsl:attribute name="target">_blank</xsl:attribute>
+        <xsl:apply-templates select="@*|node()" />
+      </xsl:copy>
+    </xsl:template>
+
+    <xsl:template match="/">
         <html>
             <head>
                 <link href="/elements/logo-180x180.png" sizes="180x180" rel="apple-touch-icon" />
