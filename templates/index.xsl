@@ -158,7 +158,7 @@
                     }
 
                     div.attente > span.text {
-                        padding-left: 5em;
+                        padding-left: 2.5em;
                     }
 
                     .aec {
