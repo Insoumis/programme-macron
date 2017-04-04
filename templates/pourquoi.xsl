@@ -75,10 +75,10 @@
                 <nav class="navbar navbar-default">
                   <div class="container-fluid">
                     <div class="navbar-header">
-                      <a class="navbar-brand" href="/#">Analysons Macron</a>
+                      <a class="navbar-brand" href="/">Analysons Macron</a>
                     </div>
                     <ul class="nav navbar-nav">
-                      <li><a href="/#">Accueil</a></li>
+                      <li><a href="/">Accueil</a></li>
                        <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Par chapitre
                         <span class="caret"></span></a>
