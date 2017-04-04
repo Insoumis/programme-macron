@@ -154,7 +154,8 @@
                     }
 
                     div.analyse > span.attente {
-                        color: B8B8B8;
+                        padding-left: 1em;
+                        color: #B8B8B8;
                     }
 
                     .aec {
