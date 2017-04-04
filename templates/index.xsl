@@ -167,7 +167,7 @@
 
                     .aec a {
 	                    color:#FFFFFF;
-                      text-decoration: underline;
+                      text-decoration: none;
 	                    margin: 0;
                     }
 
