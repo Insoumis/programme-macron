@@ -285,7 +285,7 @@
             </head>
             <body data-spy="scroll" data-target="#side-menu-container" data-offset="60">
                 <nav class="navbar navbar-default">
-                  <div class="container-fluid">
+                  <div class="container">
                     <div class="navbar-header">
                       <a class="navbar-brand" href="/"><img src="elements/title.svg" /></a>
                     </div>
