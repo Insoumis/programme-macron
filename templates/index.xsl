@@ -192,7 +192,7 @@
                     }
 
                     .aec a:hover {
-                      text-decoration: none;
+                      text-decoration: underline;
                     }
 
                     h4 {
