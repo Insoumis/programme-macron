@@ -392,7 +392,13 @@
                         <a name="notre-vision"></a>
                         <h3>Notre vision</h3>
                         <div class="analyse">
-                           
+                           <p>Le programme l'"<a href="https://avenirencommun.fr/">Avenir en Commun</a>" repose sur le principe de départ qu'il existe un intérêt général humain qui domine les intérêts particuliers, en s'appuyant sur le fait que nous partageons tous un même bien commun, la Terre. Nos modes de productions détruisent la nature, dans laquelle nous sommes tous plongés, et devant laquelle nous sommes tous égaux. Cette façon d'organiser la société, qui menace désormais jusqu'aux conditions de son existence, produit aussi des inégalités inacceptables. Il faut donc urgemment réaliser la transition écologique, le changement de notre façon de produire et de partager. C'est le sens de notre programme et de la révolution citoyenne qu'il a l'ambition de porter.</p>
+                           <p>
+                            La première étape de cette révolution citoyenne, c'est de rendre au peuple le pouvoir se s'organiser comme il le souhaite, afin qu'il puisse défendre l'intérêt général, c'est-à-dire ses intérêts. Il faut donc se débarrasser de l'oligarchie qui gouverne selon les siens en profitant des faiblesses de la Vème République. Une assemblée constituante sera ainsi organisée aussitôt que le Jean-Luc Mélenchon sera élu. Son mode de désignation assurera qu'elle est issue de la société civile. Elle travaillera indépendamment du pouvoir qui s'exercera normalement dans le cadre de la Vème République en parallèle, le temps que devra durer le processus constituant. Chacun pourra faire des propositions. Par exemple, la France Insoumise suggérera d'inscrire dans la constitution la Règle Verte, et la liberté à chacun de disposer de son corps ce qui protégera l'IVG et autorisera le suicide assisté. Nous proposerons des réformes institutionnelles comme le référendum révocatoire et le remplacement du Sénat par une assemblée citoyenne. Au terme de ce processus, le texte proposé par l'assemblée sera soumis à référendum.
+                           </p>
+                           <p>
+                            
+                           </p>
                         </div>
                       </div>
                     </section>    
