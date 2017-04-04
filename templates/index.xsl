@@ -357,18 +357,21 @@
                                               </div>
                                           </xsl:if>
                                           <!--<h4>Analyse</h4>-->
-                                          <div class="analyse attente">
-                                            <xsl:choose>
-                                              <xsl:when test="./analyse != ''">
+                                          <xsl:choose>
+                                            <xsl:when test="./analyse != ''">
+                                              <div class="analyse">
                                                 <span class="label label-{./analyse/@tag}"><xsl:value-of select="./analyse/@description" /></span>
                                                 <div>
                                                     <xsl:apply-templates select="./analyse" />
                                                 </div>
-                                              </xsl:when>
-                                              <xsl:otherwise>
+                                              </div>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                              <div class="analyse attente">
                                                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> <span class="text">Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !</span>
-                                              </xsl:otherwise>
-                                            </xsl:choose>
+                                              </div>
+                                            </xsl:otherwise>
+                                          </xsl:choose>
                                           </div>
                                           <xsl:if test="./aec">
                                               <div class="aec">
