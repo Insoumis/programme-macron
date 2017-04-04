@@ -113,6 +113,7 @@
 
                     body {
                         position: relative;
+                        padding-bottom: 40px;
                     }
 
                     fixed {

@@ -48,6 +48,10 @@
                 </script>
 
                 <style type="text/css">
+                    body {
+                        padding-bottom: 40px;
+                    }
+
                     h2.chapitre {
                       
                     }
