@@ -142,6 +142,10 @@
                         margin-top: 0.5em;
                     }
 
+                    div.analyse > span.attente {
+                        color: B8B8B8;
+                    }
+
                     .aec {
                         background: url(elements/phi.png) no-repeat;
                         background-position: 15px 15px;
@@ -342,7 +346,7 @@
                                                 </div>
                                               </xsl:when>
                                               <xsl:otherwise>
-                                                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !
+                                                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> <span class="attente">Nous n'avons pas encore rédigé d'analyse pour cette proposition. Repassez plus tard !</span>
                                               </xsl:otherwise>
                                             </xsl:choose>
                                           </div>
