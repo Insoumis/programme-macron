@@ -154,7 +154,7 @@
                     }
 
                     div.analyse > span.attente {
-                        padding-left: 1em;
+                        padding-left: 5em;
                         color: #B8B8B8;
                     }
 
