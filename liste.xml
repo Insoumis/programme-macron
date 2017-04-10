@@ -880,12 +880,18 @@ Quant aux mineurs, ils sont inscrits dans des établissements scolaires, et il e
     </entree>
 
     <entree>
-      <engagement>Nous examinerons les demandes d’asile en moins
-de 6 mois, recours compris.</engagement> <!-- 7.5 -->
+      <engagement>Nous examinerons les demandes d’asile en moins de 6 mois, recours compris.</engagement> <!-- 7.5 -->
       <mesure>C’est nécessaire pour accueillir dignement les réfugiés qui ont droit à la protection
 de la France. Les autres seront reconduits sans délai vers leur pays afin qu’ils ne deviennent 
 pas des immigrés clandestins.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="C'est peu probable">
+Actuellement, les demandeurs d'asile déposent une demande en préfecture, qui statue sur leurs conditions de séjour en France. Ensuite c'est l'office français de protection des réfugiés et apatrides (<a href="https://fr.wikipedia.org/wiki/Office_fran%C3%A7ais_de_protection_des_r%C3%A9fugi%C3%A9s_et_apatrides">OFPRA</a>) qui étudie les motifs de la demande. En cas de refus, la grande majorité déposent un recours auprès de la cour nationale du droit d'asile (<a href="https://fr.wikipedia.org/wiki/Cour_nationale_du_droit_d%27asile">CNDA</a>), un tribunal administratif. En 2016, <a href="http://www.psmigrants.org/site/ofpra-bilan-provisoire-de-lasile-en-2016/">le délai moyen d’instruction par l'OFPRA a été de 5 mois</a>). « En Marche » veut réduire ce délai à 8 semaines, ce qui semble peu crédible, alors qu'E. Macron promet de <a href="http://www.lagazettedescommunes.com/492750/ce-que-propose-emmanuel-macron-pour-les-fonctionnaires-et-les-collectivites/">supprimer 120 000 fonctionnaires, et que les priorités annoncées sont ailleurs (sécurité, hôpitaux et enseignants de CP-CE1)</a>. L'idée proposée de mettre dans chaque centre d'accueil une délégation de l'OFPRA est bonne, mais ne devrait pas réduire de beaucoup ce délais.<br/>
+<br/>
+Par ailleurs, le principal problème se situe en amont avec le manque de moyens des préfectures. Alors que <a href="http://www.lemonde.fr/immigration-et-diversite/article/2016/09/09/forte-hausse-des-demandes-d-asile_4995135_1654200.html">les demandes d'asile augmentent</a>, <a href="http://www.lemonde.fr/immigration-et-diversite/article/2016/06/08/asile-les-modestes-records-de-la-france_4942871_1654200.html">le manque de personnel bloque le processus de traitement des dossiers, en particulier à Paris</a>). La aussi, la réduction du nombre de fonctionnaires risque de ne pas arranger les choses. <br/>
+Concernant la CNDA, actuellement, le délai de traitement des recours est de <a href="https://www.senat.fr/commission/fin/pjlf2017/np/np06/np061.html">6 mois (6 semaines en procédure accélérée)</a>, ajoutés aux 5 mois de l'OFPRA. L'idée de permettre que cette cour « puisse statuer dans les centres d’accueil » parait bonne. Mais <a href="https://www.senat.fr/commission/fin/pjlf2017/np/np06/np061.html">si les délais de traitement par la CNDA ont baissé durant le dernier quinquennat, c'est en grande partie grâce à la hausse des effectifs de fonctionnaires et de magistrats</a> et « En Marche » ne prévoit aucune augmentation du nombre de magistrats.<br/>
+<br/>
+Réduire à 6 mois le total du délai d'examen semble donc peu réaliste, d'autant que la tendance à l'augmentation du nombre de demandes d'asile devrait se poursuivre. La seule manière de le faire, en l'absence de recrutements, serait d'augmenter le nombre de procédures accélérées et d'écarter un plus grand nombre de demandes (la réforme de 2015 va en partie dans ce sens). Ce qui risque fort de réduire la défense des demandeurs d'asile, qui ont besoin de temps pour constituer les dossiers, demander de l'aide ou recourir à l'aide juridictionnelle. La volonté de reconduire « sans délai » les demandeurs qui ont vu leurs demandes refusées va dans le même sens, alors qu'actuellement ils ont un délai d'un mois pour effectuer un recours.
+      </analyse>
     </entree>
 
     <entree>
