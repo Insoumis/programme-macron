@@ -594,7 +594,13 @@ et de lutte contre le terrorisme.</engagement> <!-- 5.9 -->
       <mesure>Directement rattaché au président de la République, il associera les services et états-
 majors des ministères de l’Intérieur et de la Défense, avec la participation des ministères 
 des transports, de la santé et de l’industrie.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Méfiance">
+La confusion est dans l’organigramme. Un état-major (et son chef) qui serait rattaché directement et en permanence au président de la République, signifierait qu'il passe outre les fonctions du 1er ministre. Il serait amené à associer (coordonner ?) les ministères de la Défense et de l’Intérieur et accessoirement d’autres ministères comme l’Industrie, alors que ces ministres sont sous l’autorité du 1er ministre. Cela pose donc un vrai problème en matière de respect des prérogatives attribuées au président et au 1er ministre par la constitution, sur un sujet aussi régalien que celui-ci. Ensuite, cette mesure pose beaucoup d’autres questions : "En Marche" suggère-t-il de mélanger les genres entre police nationale, corps de gendarmerie et armée ?<br/>
+<br/>
+Sur un thème très voisin, "En Marche" propose aussi de « créer une cellule spéciale du renseignement anti-Daech, permanente, de 50 à 100 agents, associant les principaux services de renseignement, placée auprès du Président de la République ». Mais comme le souligne le criminologue Alain Bauer, et comme le reconnait Patrick Calvar, le patron de la DGSI, <a href="https://www.franceinter.fr/societe/secrets-d-info">le problème n'est pas tant le manque de renseignements que le manque de personnels compétents pour le traitement et l'analyse de ces renseignements</a>, en particulier de personnels spécialisés dans d'autres domaines, comme l’économie, la finance, la psychologie ou les langues.<br/>
+<br/>
+Enfin, cette cellule placée auprès du président de la République passerait-elle outre l'Etat-major, qui passerait lui-même outre le 1er ministre ? Tout cela est confus.
+      </analyse>
     </entree>
 
     <entree>
@@ -1137,7 +1143,7 @@ Par contre, il y a un problème dont ne parle pas le programme d' « En Marche�
     </entree>
 
     <entree>
-      <engagement>Nous créerons un «&nbsp;accélérateur&nbsp;» d’associations.</engagement> <!-- 9.3 -->
+      <engagement>Nous créerons un « accélérateur » d’associations.</engagement> <!-- 9.3 -->
       <mesure>Elles font un travail formidable, mais il est difficile pour elles de toucher tous leurs publics. 
 Cette nouvelle structure sera chargée de déployer sur l’ensemble du territoire et en moins 
 de 5 ans les associations les plus utiles à notre société.</mesure>
