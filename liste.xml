@@ -38,15 +38,27 @@ supplémentaires nets par an pour un salaire de 2200 euros nets par mois
     <entree>
       <engagement> Nous augmenterons le pouvoir d’achat des ouvriers, 
 des employés et des salariés les moins bien payés. </engagement> <!-- 1.2 -->
-      <mesure>Tous les smicards qui bénéficient de la prime d’activité toucheront par exemple l’équivalent 
-d’un 
-13
-e
- mois de salaire, soit 100€ nets de plus chaque mois</mesure>
-      <analyse tag="danger" description=""></analyse>
+      <mesure>Tous les smicards qui bénéficient de la prime d’activité toucheront par exemple l’équivalent d’un 13e mois de salaire, soit 100€ nets de plus chaque mois</mesure>
+      <analyse tag="danger" description="C'est insuffisant">
+Cette mesure se décompose en <a href="https://en-marche.fr/emmanuel-macron/le-programme/travail-emploi">deux parties</a> :<br />
+- augmentation du revenu net par la réduction des cotisations sociales financée par une hausse de la CSG<br />
+- augmentation de 50% de la prime d'activité<br />
+<br />
+La contribution sociale généralisée (CSG) est prélevée sur les revenus d'activité et de remplacement (indemnités de chômage, pensions de retraite, etc.). Dans le cadre de la mesure, seule la CCG prélevée sur les salaires sera augmentée. Elle représente 7,37% pour les revenus en-dessous de 156 912 € brut annuel.<br />
+<br />
+En clair, "En Marche" augmente les salaires net mais compense par une augmentation de l'impôt sur le revenu. Il n'augmente donc pas vraiment le pouvoir d'achat avec cette première sous-mesure. Par ailleurs, il ne précise pas quelles cotisations sociales sont réduites. Il faut supposer qu'il s'agira de l'assurance maladie afin que la compensation par la hausse de la CSG soit cohérente.<br />
+<br />
+La prime d'activité remplace le RSA activité et la prime pour l'emploi depuis 2016. Elle concerne les travailleurs modestes (<a href="https://www.caf.fr/visite-guidee/la-prime-d-activite">moins de 1500€ pour une personne seule en location hors APL</a>) <a href="https://www.service-public.fr/particuliers/vosdroits/F2882">en activité, salariés ou non,  scolarisés ou non, résidents en France</a>.<br />
+Le calcul de son montant est particulièrement complexe. Il prend en compte les revenus de l'ensemble du foyer (revenus nets, indemnités, retraites, pensions, aides sociales, patrimoine) et est plafonné en fonction de la composition dudit foyer.<br />
+Par exmple, une personne seule sans enfant avec un salaire de 1300 € net et une aide au logement, touchera 33,52 € de prime d'activité. Un couple avec 2 enfants, un revenu de 2400 € net sans aide au logement, <a href="https://www.caf.fr/aides-et-services/les-services-en-ligne/estimer-vos-droits/simulation-prime-d-activite">devrait toucher 174 € de prime d'activité</a>.<br />
+<br />
+La mesure d'"En Marche" prévoit d'augmenter la prime de 50%. Dans notre exemple, la personne seule recevrait donc 16,76 €supplémentaires par mois, le couple 87€. C'est peu.<br />   
+      </analyse>
       <aec>
         <aec>https://laec.fr/s30m1</aec>
         <aec>https://laec.fr/s30m2</aec>
+        <aec>https://laec.fr/s72m1</aec>
+        <aec>https://laec.fr/s33m6</aec>
       </aec>
 
     </entree>
