@@ -19,7 +19,7 @@ Valeurs pour analyse tag="?" :
 <categories>
   <categorie nom="Bien vivre de son travail et inventer de nouvelles protections">
     <entree>
-      <engagement> Nous améliorerons le pouvoir d’achat de tous les travailleurs.</engagement>
+      <engagement> Nous améliorerons le pouvoir d’achat de tous les travailleurs.</engagement> <!-- 1.1 -->
       <mesure>Sans que cela ne revienne plus cher aux employeurs, nous réduirons les cotisations
 payées par les salariés, par les indépendants et par les fonctionnaires 
 : près de 
@@ -37,23 +37,35 @@ supplémentaires nets par an pour un salaire de 2200 euros nets par mois
 
     <entree>
       <engagement> Nous augmenterons le pouvoir d’achat des ouvriers, 
-des employés et des salariés les moins bien payés. </engagement>
-      <mesure>Tous les smicards qui bénéficient de la prime d’activité toucheront par exemple l’équivalent 
-d’un 
-13
-e
- mois de salaire, soit 100€ nets de plus chaque mois</mesure>
-      <analyse tag="danger" description=""></analyse>
+des employés et des salariés les moins bien payés. </engagement> <!-- 1.2 -->
+      <mesure>Tous les smicards qui bénéficient de la prime d’activité toucheront par exemple l’équivalent d’un 13e mois de salaire, soit 100€ nets de plus chaque mois</mesure>
+      <analyse tag="danger" description="C'est insuffisant">
+Cette mesure se décompose en <a href="https://en-marche.fr/emmanuel-macron/le-programme/travail-emploi">deux parties</a> :<br />
+- augmentation du revenu net par la réduction des cotisations sociales financée par une hausse de la CSG<br />
+- augmentation de 50% de la prime d'activité<br />
+<br />
+La contribution sociale généralisée (CSG) est prélevée sur les revenus d'activité et de remplacement (indemnités de chômage, pensions de retraite, etc.). Dans le cadre de la mesure, seule la CCG prélevée sur les salaires sera augmentée. Elle représente 7,37% pour les revenus en-dessous de 156 912 € brut annuel.<br />
+<br />
+En clair, "En Marche" augmente les salaires net mais compense par une augmentation de l'impôt sur le revenu. Il n'augmente donc pas vraiment le pouvoir d'achat avec cette première sous-mesure. Par ailleurs, il ne précise pas quelles cotisations sociales sont réduites. Il faut supposer qu'il s'agira de l'assurance maladie afin que la compensation par la hausse de la CSG soit cohérente.<br />
+<br />
+La prime d'activité remplace le RSA activité et la prime pour l'emploi depuis 2016. Elle concerne les travailleurs modestes (<a href="https://www.caf.fr/visite-guidee/la-prime-d-activite">moins de 1500€ pour une personne seule en location hors APL</a>) <a href="https://www.service-public.fr/particuliers/vosdroits/F2882">en activité, salariés ou non,  scolarisés ou non, résidents en France</a>.<br />
+Le calcul de son montant est particulièrement complexe. Il prend en compte les revenus de l'ensemble du foyer (revenus nets, indemnités, retraites, pensions, aides sociales, patrimoine) et est plafonné en fonction de la composition dudit foyer.<br />
+Par exmple, une personne seule sans enfant avec un salaire de 1300 € net et une aide au logement, touchera 33,52 € de prime d'activité. Un couple avec 2 enfants, un revenu de 2400 € net sans aide au logement, <a href="https://www.caf.fr/aides-et-services/les-services-en-ligne/estimer-vos-droits/simulation-prime-d-activite">devrait toucher 174 € de prime d'activité</a>.<br />
+<br />
+La mesure d'"En Marche" prévoit d'augmenter la prime de 50%. Dans notre exemple, la personne seule recevrait donc 16,76 €supplémentaires par mois, le couple 87€. C'est peu.<br />   
+      </analyse>
       <aec>
         <aec>https://laec.fr/s30m1</aec>
         <aec>https://laec.fr/s30m2</aec>
+        <aec>https://laec.fr/s72m1</aec>
+        <aec>https://laec.fr/s33m6</aec>
       </aec>
 
     </entree>
 
     <entree>
       <engagement>Nous rétablirons les exonérations de cotisations
-sociales sur les heures supplémentaires.</engagement>
+sociales sur les heures supplémentaires.</engagement> <!-- 1.3 -->
       <mesure></mesure>
       <analyse tag="danger" description="C'est de l'arnaque">
         À cette mesure, nous portons les mêmes critiques qu'à la proposition <a href="#c1m1">1.1</a>, à savoir, entre autres, que ceci sera compensé par de l'impôt, tout en diminuant le contrôle politique de la part des richesses rendues aux travailleurs.<br />
@@ -68,7 +80,7 @@ sociales sur les heures supplémentaires.</engagement>
 
     <entree>
       <engagement> Nous ouvrirons les droits à l’assurance-chômage 
-aux salariés qui démissionnent.</engagement>
+aux salariés qui démissionnent.</engagement> <!-- 1.4 -->
       <mesure>Ce droit ne sera utilisable qu’une fois tous les cinq ans. En contrepartie, 
 l’insuffisance 
 des efforts de recherche d’emploi ou le refus d’offres raisonnables 
@@ -84,7 +96,7 @@ entraîneront la suspension des allocations.</mesure>
 
     <entree>
       <engagement> Nous engagerons un effort national de formation 
-sans précédent.</engagement>
+sans précédent.</engagement> <!-- 1.5 -->
       <mesure>Nous formerons 1 million de jeunes et 1 million de demandeurs d’emploi peu ou pas
 qualifiés et aujourd’hui sans perspective.</mesure>
       <analyse tag="warning" description="Méfiance">
@@ -102,7 +114,7 @@ Enfin, on peut craindre que ces formations soient détournées pour devenir un c
     </entree>
     <entree>
       <engagement>  Nous serons aux côtés des agriculteurs pour qu’ils 
-vivent de leur travail, plutôt que des aides publiques.</engagement>
+vivent de leur travail, plutôt que des aides publiques.</engagement> <!-- 1.6 -->
       <mesure>5 milliards d’euros de notre Plan d’investissement seront consacrés à la modernisation de 
 leurs exploitations. Et 
 nous les aiderons à être payés au prix juste 
@@ -129,7 +141,7 @@ Poursuivre dans ce modèle agricole ne garantira en rien une meilleure rémunér
       </aec>
     </entree>
     <entree>
-      <engagement>Nous ferons un effort massif pour l’apprentissage.</engagement>
+      <engagement>Nous ferons un effort massif pour l’apprentissage.</engagement> <!-- 1.7 -->
       <mesure>Nous développerons les périodes de pré-apprentissage et les filières en alternance dans
 tous les lycées professionnels. Des licences professionnelles seront préparées sur trois ans
 et en alternance. Nous ferons converger les contrats existants et impliquerons pleinement
@@ -150,7 +162,7 @@ des formations.</mesure>
 
   <categorie nom="Libérer le travail et l’esprit d’entreprise">
     <entree>
-      <engagement>Nous simplifierons la vie des entrepreneurs.</engagement>
+      <engagement>Nous simplifierons la vie des entrepreneurs.</engagement> <!-- 2.1 -->
       <mesure>Nous réduirons leurs charges et 
 supprimerons le Régime Social des 
 Indépendants (RSI)
@@ -158,11 +170,15 @@ Indépendants (RSI)
 bénéficier du régime fiscal de la microentreprise. Nous mettrons fin à toute forme
 de concurrence déloyale en permettant chaque année à tous les artisans et commerçants 
 d’opter ou non, selon leurs besoins, pour le régime fiscal de la microentreprise.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="Méfiance">
+Tout d'abord, la suppression du RSI et la réintégration des bénéficiaires dans le régime général nous parait une bonne chose, mais on peut se demander pourquoi Emmanuel Macron n'a pas honoré cette promesse de campagne de François Hollande en sa qualité de ministre. Ensuite, concernant le doublement des plafonds, nous supposons que l’on parle ici des chiffres d'affaires hors taxe. Pour les commerçants, la limite est aujourd'hui de 82 800 € et de 33 100 € pour les prestataires de service. Le problème de ce <a href="http://droit-finances.commentcamarche.net/contents/614-micro-entreprise-guide-pratique">statut de microentreprise</a>, c'est qu'il exempte ces indépendants de TVA, donc cela réduit considérablement les recettes de l'Etat.<br/>
+Cette mesure est dans la continuité de sa politique pour les indépendants, lesquels sont moins protégés contre les aléas de la vie, personnels et professionnels. La facilitation du passage en microentreprise risque de faire grimper le nombre d'indépendants en situation de salariat déguisé, tout en complexifiant le recrutement du fait de la nature du régime de microentreprise. La concurrence déloyale qu'il prétend donc effacer **restera** donc bien présente et risque de se faire au détriment des micro-entrepreneurs qui pourraient devenir encore plus dépendants des autres entreprises (ce qu'on observe déjà avec le RSI). A nouveau, cela risque de diminuer toujours plus les recettes de l'Etat.<br/>
+La mesure détaillée sur le programme complet indique une volonté de "transformer le CICE en allègement permanent de cotisations sociales de 6 points", ce qui revient à une baisse des cotisations patronales, forcément au détriment des cotisations des salariés. Une mesure finalement très coûteuse pour l'Etat.
+      </analyse>
     </entree>
 
     <entree>
-      <engagement>Nous réduirons le coût du travail.</engagement>
+      <engagement>Nous réduirons le coût du travail.</engagement> <!-- 2.2 -->
       <mesure>Nous aiderons les entreprises à embaucher en baissant les cotisations sociales employeurs 
 de 6 points en remplacement du CICE, et jusqu’à 10 points au niveau du SMIC 
 :
@@ -182,7 +198,7 @@ les employeurs économiseront près de 1800 euros par an et par salarié au SMIC
 
     <entree>
       <engagement>Nous combattrons la précarité en responsabilisant
-les employeurs.</engagement>
+les employeurs.</engagement> <!-- 2.3 -->
       <mesure>Nous créerons un bonus-malus sur l’assurance-chômage. Les employeurs qui
 entretiennent la précarité en recourant exagérément aux contrats courts paieront
 plus de charges, ceux qui créent des emplois stables en paieront moins.</mesure>
@@ -197,7 +213,7 @@ plus de charges, ceux qui créent des emplois stables en paieront moins.</mesure
     </entree>
 
     <entree>
-      <engagement> Nous redéfinirons le dialogue social.</engagement>
+      <engagement> Nous redéfinirons le dialogue social.</engagement> <!-- 2.4 -->
       <mesure>Les principes fondamentaux (durée légale du temps de travail, égalité professionnelle, 
 salaire minimum...) resteront dans la loi. Mais, par exemple, les horaires effectifs 
 ou l’organisation du travail seront négociés au plus près du terrain. Ils seront définis 
@@ -227,10 +243,13 @@ En réalité, c'est une véritable remise en cause du principe des 35 heures, qu
 
     <entree>
       <engagement> Nous permettrons à tous les travailleurs d’avoir 
-droit à l’assurance-chômage. </engagement>
+droit à l’assurance-chômage. </engagement> <!-- 2.5 -->
       <mesure>Les artisans, les commerçants indépendants, les entrepreneurs, les professions libérales,
 et les agriculteurs disposeront, comme les salariés, de cette protection. </mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="C'est contradictoire !">On peut se demander comment "En Marche" compte financer l'assurance chômage.<br />
+En effet, d'une part son programme prévoit d'élargir les conditions d'éligibilité non seulement aux artisans, commerçants indépendants, entrepreneurs, professions libérales et agriculteurs, mais également <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/emploi-ch%C3%B4mage-securites-professionnelles">salariés démissionnaires</a>.<br />
+En parallèle, il prévoit de <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/entreprises">supprimer les cotisations chômage </a>, d'économiser 10 milliards d'euros annuel sur l'assurance chômage (soit 13%).<br />
+Ces mesures sont particulièrement contradictoires et il ne semble pas y avoir d'autres financements des allocations chômage de prévues.</analyse>
       <aec>
         <aec>https://laec.fr/s26m2</aec>
         <aec>https://laec.fr/s26m3</aec>
@@ -240,7 +259,7 @@ et les agriculteurs disposeront, comme les salariés, de cette protection. </mes
 
     <entree>
       <engagement> Nous créerons sur Internet un nouveau service 
-d’explication de la réglementation pour les entreprises.</engagement>
+d’explication de la réglementation pour les entreprises.</engagement> <!-- 2.6 -->
       <mesure>Un site Internet unique donnera à chaque TPE ou PME les obligations légales
 et conventionnelles qu’elle doit respecter en fonction de sa situation. Les réponses
 fournies en ligne seront valables face à l’administration.</mesure>
@@ -255,7 +274,7 @@ fournies en ligne seront valables face à l’administration.</mesure>
   <categorie nom="Inventer un nouveau modèle de croissance">
     <entree>
       <engagement> Nous lancerons un grand Plan d’investissement 
-de 50 milliards d’euros.</engagement>
+de 50 milliards d’euros.</engagement> <!-- 3.1 -->
       <mesure>Ce plan sur 5 ans sera mis au service des qualifications de tous les citoyens, de la transition 
 écologique, de la révolution numérique, de la modernisation des services publics et de la 
 rénovation urbaine.</mesure>
@@ -274,7 +293,7 @@ rénovation urbaine.</mesure>
     </entree>
 
     <entree>
-      <engagement>Nous soutiendrons l’investissement privé.</engagement>
+      <engagement>Nous soutiendrons l’investissement privé.</engagement> <!-- 3.2 -->
       <mesure>Nous baisserons l’impôt sur les sociétés de 33,3% à 25% pour rejoindre la moyenne 
 européenne. Nous transformerons le CICE en allègements de charges pérennes,
 et l’ISF en « 
@@ -302,7 +321,7 @@ Par ailleurs, l'ISF est d'ores et déjà bien affaibli, puisque par exemple des 
 
     <entree>
       <engagement> Nous créerons un Fonds pour l’industrie 
-et l’innovation.</engagement>
+et l’innovation.</engagement> <!-- 3.3 -->
       <mesure>Doté de 10 milliards d’euros issus des actions d’entreprises possédées de manière 
 minoritaire par l’État, il servira à financer l’industrie du futur.</mesure>
       <analyse tag="warning" description="Méfiance">
@@ -313,7 +332,7 @@ minoritaire par l’État, il servira à financer l’industrie du futur.</mesur
 
     <entree>
       <engagement> Nous placerons la France en tête du combat contre 
-les perturbateurs endocriniens et les pesticides.</engagement>
+les perturbateurs endocriniens et les pesticides.</engagement> <!-- 3.4 -->
       <mesure>Ils sont l’une des principales causes de l’augmentation des cancers des enfants depuis 
 20 ans.</mesure>
       <analyse tag="warning" description="Méfiance">
@@ -329,7 +348,7 @@ Enfin, l’élimination des pesticides de l’agriculture implique aussi de sort
 
     <entree>
       <engagement>Nous rénoverons 1 million de logements mal isolés 
-d’ici 2022</engagement>
+d’ici 2022</engagement> <!-- 3.5 -->
       <mesure>et en priorité ceux des propriétaires les plus modestes.</mesure>
       <analyse tag="warning" description="C'est insuffisant">La France compte <a href="https://www.insee.fr/fr/statistiques/2533533">35 425 000 logements</a> (dont plus de la moitié sont des logements individuels).
 A ce rythme, tous les logements ne seront rénovés qu'en 2192 ! Il faudra donc de la patience.
@@ -342,7 +361,7 @@ A ce rythme, tous les logements ne seront rénovés qu'en 2192 ! Il faudra donc 
 
     <entree>
       <engagement> Nous ferons de la France le leader mondial 
-de la recherche sur la transition environnementale.</engagement>
+de la recherche sur la transition environnementale.</engagement> <!-- 3.6 -->
       <mesure>Les spécialistes étrangers bénéficieront de formalités d’accueil accélérées.</mesure>
       <analyse tag="warning"></analyse>
     </entree>
@@ -350,7 +369,7 @@ de la recherche sur la transition environnementale.</engagement>
     <entree>
       <engagement> D’ici 2022, 50% des produits proposés par les cantines 
 scolaires et les restaurants d’entreprise devront 
-être bio, écologiques ou issus de circuits courts.</engagement>
+être bio, écologiques ou issus de circuits courts.</engagement> <!-- 3.7 -->
       <mesure></mesure>
       <analyse tag="warning" description="C'est flou et contradictoire">Si les termes utilisés “bio”, “écologiques” et “circuits courts” laissent à penser que c’est une proposition innovante en matière d’environnement, ce n’est malheureusement pas vrai :
 <ul>
@@ -365,11 +384,17 @@ scolaires et les restaurants d’entreprise devront
     </entree>
 
     <entree>
-      <engagement>Nous créerons une banque de données numériques.</engagement>
+      <engagement>Nous créerons une banque de données numériques.</engagement> <!-- 3.8 -->
       <mesure>Les administrations chargées d’autoriser des activités (l’ouverture d’un hôtel, ou l’obtention d’une licence de chauffeur privé, ...) devront mettre à disposition leurs données.
 Face aux géants étrangers, des nouvelles start-ups pourront ainsi s’adresser par exemple
 à tous les hôteliers pour leur offrir de nouveaux services.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="c'est dangereux">
+« En Marche » souhaite donc que les données récoltées par ces administrations soient mises à la disposition de « nouvelles start-ups ». Autrement dit, qu'elles soient vendues à ces start-ups. Sous quelles modalités ? Quel contrôle et quel objectif ? Nous n'en savons rien. Les start-ups étrangères pourraient-elles acheter de cette manière des données personnelles collectées par les administrations françaises ? Cette hypothèse semble dangereuse...<br/>
+<br/>
+Surtout, cette mesure pose un gros problème en matière de respect de la vie privée et de protection des données personnelles. La <a href="http://www.ls-avocats.com/article-presse/53-donnee-perso">commercialisation de certaines données dites « sensibles » est interdite</a>, comme les données médicales. Et le reste des données personnelles, avec quelques exceptions, doit faire l'objet d'une <a href="https://www.service-public.fr/professionnels-entreprises/vosdroits/F24270">déclaration préalable auprès de la Commission Nationale Informatique et Liberté (CNIL)</a>, qui doit donner son autorisation pour certains fichiers.<br/>
+<br/>
+Il s'agit en fait d'ouvrir les données des administrations aux entreprises privées, alors que la <a href="http://www.lemonde.fr/pixels/article/2015/09/26/la-loi-numerique-cible-les-donnees-personnelles_4772884_4408996.html">loi numérique adoptée en 2015, encouragée par E. Macron</a>, avait déjà prévu l'ouverture de ces données au public. Ceci, alors que <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">la protection des données personnelles est déjà fortement remise en cause dans l' europe actuelle</a>...
+      </analyse>
     </entree>
 
   </categorie>
@@ -377,7 +402,7 @@ Face aux géants étrangers, des nouvelles start-ups pourront ainsi s’adresser
   <categorie nom="Les mêmes règles pour tous">
         <entree>
       <engagement>Nous mettrons fin aux injustices de notre système 
-de retraites. </engagement>
+de retraites. </engagement> <!-- 4.1 -->
       <mesure>Un système universel avec des règles communes de calcul des pensions sera progressive
 -
 ment mis en place. Le fait de changer d’activité ou de secteur sera sans effet sur les droits 
@@ -399,7 +424,7 @@ Il apparait une autre injustice : les classes défavorisées ayant une espéranc
 
     <entree>
       <engagement>Nous ne toucherons pas à l’âge de départ
-à la retraite, ni au niveau des pensions. </engagement>
+à la retraite, ni au niveau des pensions. </engagement> <!-- 4.2 -->
       <mesure></mesure>
       <analyse tag="danger" description="C'est une arnaque">Le système de retraite voulu par Emmanuel Macron (voir ci-dessus) entraîne mécaniquement recul effectif de l'âge de départ à la retraite et une baisse effective des pensions :
       <ul>
@@ -415,7 +440,7 @@ Il apparait une autre injustice : les classes défavorisées ayant une espéranc
     <entree>
       <engagement>Nous publierons les noms des entreprises qui ne 
 respectent pas l’égalité salariale entre les femmes
-et les hommes.</engagement>
+et les hommes.</engagement> <!-- 4.3 -->
       <mesure>Nous testerons au hasard, et massivement, les entreprises pour vérifier qu’elles respectent 
 bien la loi en la matière</mesure>
       <analyse tag="warning" description="C'est une arnaque">Cette mesure que les partisans d'Emmanuel Macron dénomment "name shaming" ne propose donc aucun renforcement de la législation. Il s'agit de compter sur les consommateurs pour faire infléchir le comportement des entreprises. C'est totalement inefficace pour contrer des monopôles ou des entreprises dont les clients ne sont pas des particuliers (sous-traitants, par exemple). Par ailleurs, cette vision très libérale a bien prouvé son échec dans d'autres circonstances, par exemple la protection de l'environnement : beaucoup d'entreprises continuent de polluer en toute impunité, car le pouvoir du consommateur est faible et limité.</analyse>
@@ -425,7 +450,7 @@ bien la loi en la matière</mesure>
     </entree>
 
     <entree>
-      <engagement>Nous alourdirons les sanctions contre la fraude fiscale.</engagement>
+      <engagement>Nous alourdirons les sanctions contre la fraude fiscale.</engagement> <!-- 4.4 -->
       <mesure></mesure>
       <analyse tag="warning" description="C'est inefficace">La fraude fiscale est un manque à gagner considérable, puisqu'elle s'élèverait à <a href="https://www.lesechos.fr/22/01/2013/lesechos.fr/0202517122793_la-fraude-fiscale-couterait-80-milliards-d-euros.htm">80 milliards d'euros</a> pour un recouvrement ayant atteint au maximum <a href="http://abonnes.lemonde.fr/economie/article/2016/03/03/la-lutte-contre-la-fraude-fiscale-atteint-des-rendements-record_4875965_3234.html">20 milliards</a>. Faut-il alourdir les sanctions ? Peut-être, mais les sanctions prévues sont déjà élevées : Jérôme Cahuzac encourrait par exemple <a href="http://www.europe1.fr/societe/fraude-fiscale-suivez-en-direct-le-jugement-du-proces-de-jerome-cahuzac-2921924">7 ans de prison ferme</a>. Et s'il a été condamné, c'est grâce à une dénonciation en premier lieu, sans quoi probablement l'histoire n'aurait jamais été connue. Le problème vient donc des moyens de lutte mis à disposition, <a href="http://www.lci.fr/economie/baisses-d-effectifs-chez-les-agents-du-fisc-avant-le-prelevement-a-la-source-le-recouvrement-de-l-impot-en-patira-t-il-2012857.html">en baisse depuis des années</a>,  et au "verrou de Bercy", c'est-à-dire que c'est le ministère du Budget qui décide ou non de poursuites judiciaires dans les affaires de fraude fiscale.</analyse>
       <aec>
@@ -435,7 +460,7 @@ bien la loi en la matière</mesure>
 
     <entree>
       <engagement> La lutte contre la fraude aux prestations sociales 
-sera amplifiée.</engagement>
+sera amplifiée.</engagement> <!-- 4.5 -->
       <mesure>Une fraude grave entraînera désormais, en plus du remboursement, la suspension
 de la prestation</mesure>
       <analyse tag="warning" description="C'est une arnaque">La fraude aux prestations sociales est déjà activement recherchée : près de <a href="http://abonnes.lemonde.fr/societe/article/2017/02/22/caf-pres-de-43-000-fraudes-en-2016_5083737_3224.html">35,5 millions de contrôles ont été réalisés en 2016</a>. Cependant, elle représente un montant modeste, qui atteindrait <a href="http://tempsreel.nouvelobs.com/en-direct/a-chaud/33790-eco-millions-euros-fraude-prestations-sociales-detectes.html">à peine 300 millions d'euros</a>, là où la fraude fiscale est estimée à <a href="https://www.lesechos.fr/22/01/2013/lesechos.fr/0202517122793_la-fraude-fiscale-couterait-80-milliards-d-euros.htm">80 milliards d'euros</a> ! Enfin, le montant des aides dues mais non perçues ou réclamées, <a href="http://www.caminteresse.fr/economie-societe/prestations-sociales-non-recours-fraude-milliards-euros-1155908/">s'élèverait à 12 milliards d'euros</a>, soit donc 30 fois plus que celui de la fraude aux prestations sociales !</analyse>
@@ -446,7 +471,7 @@ de la prestation</mesure>
 
     <entree>
       <engagement> Nous imposerons les grands groupes de l’Internet 
-sur leur chiffre d’affaires réalisé sur notre sol.</engagement>
+sur leur chiffre d’affaires réalisé sur notre sol.</engagement> <!-- 4.6 -->
       <mesure>Pour cela, la lutte contre l’optimisation fiscale sera une priorité de notre action 
 européenne</mesure>
       <analyse tag="warning" description="Méfiance">Il n'y a pas d'harmonisation fiscale dans l'Union Européenne. Si une telle harmonisation devait être mise en place, elle devrait être validée à l'unanimité par le Conseil Européen : autrement dit, c'est quasiment impossible, puisque cela rencontrerait très certainement l'opposition des paradis fiscaux de l'UE (Luxembourg, Irlande...).</analyse>
@@ -457,7 +482,7 @@ européenne</mesure>
 
     <entree>
       <engagement>Nous ferons la transparence sur l’attribution 
-des logements sociaux</engagement>
+des logements sociaux</engagement> <!-- 4.7 -->
       <mesure>Au lieu de procédures parfois opaques, nous mettrons en place un système de points,
 fondé sur des critères objectifs (taille de la famille, niveau des ressources, lieu
 de recherche). Il permettra à chacun de connaître ses chances d’obtention d’un logement 
@@ -471,7 +496,7 @@ De plus, le problème de fond, il ne faudrait pas l'oublier, est le manque de lo
 
     <entree>
       <engagement> Nous nous battrons contre les abus liés au travail
-détaché.</engagement>
+détaché.</engagement> <!-- 4.8 -->
       <mesure>Nous devrons limiter à un an la durée autorisée de séjour d’un travailleur détaché
 dans notre pays et redéfinir au niveau européen les règles du détachement pour mettre
 fin à toutes les formes de concurrence sociale déloyale</mesure>
@@ -486,7 +511,7 @@ fin à toutes les formes de concurrence sociale déloyale</mesure>
   <categorie nom="Un état qui protège">
         <entree>
       <engagement>Nous recruterons 10 000 policiers et gendarmes
-supplémentaires.</engagement>
+supplémentaires.</engagement> <!-- 5.1 -->
       <mesure>Ils renforceront notamment notre dispositif de renseignement contre le terrorisme.</mesure>
       <analyse tag="success" description="C'est bien!">Ce recrutement <a href="http://www.lemonde.fr/les-decodeurs/article/2016/06/08/effectifs-policiers-et-terrain-les-contorsions-d-eric-ciotti_4943156_4355770.html">compense les baisses qui ont été initiées sous le quinquennat de Nicolas Sarkozy, dès 2007</a>. Notre pays a la chance d'avoir une natalité élevée, et une population qui s'accroit, et nous avons donc besoin de fonctionnaires.</analyse>
       <aec>
@@ -495,7 +520,7 @@ supplémentaires.</engagement>
     </entree>
 
     <entree>
-      <engagement>Nous créerons une police de sécurité quotidienne.</engagement>
+      <engagement>Nous créerons une police de sécurité quotidienne.</engagement> <!-- 5.2 -->
       <mesure>Au plus près des Français, elle développera une connaissance approfondie des lieux
 et des habitants qu’elle sera chargée de protéger et d’entendre.</mesure>
       <analyse tag="success" description="C'est bien !">
@@ -508,21 +533,27 @@ et des habitants qu’elle sera chargée de protéger et d’entendre.</mesure>
 
     <entree>
       <engagement>Nous donnerons aux policiers et aux gendarmes
-un nouveau pouvoir.</engagement>
+un nouveau pouvoir.</engagement> <!-- 5.3 -->
       <mesure>Sous le contrôle du juge, ils pourront interdire
 à une personne délinquante de fréquenter le quartier où elle a commis ses délits</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Méfiance">
+Dans le cadre d'un <a href="http://www.justice.gouv.fr/justice-penale-11330/les-decisions-judiciaires-pour-les-mineurs-12123/les-mesures-de-probation-et-les-peines-21093.html">contrôle judiciaire</a>, il est possible d'astreindre la personne mise en examen à plusieurs obligations dont celle de ne pas se rendre dans certains lieux.<br/>
+<br/>
+Afin que cette proposition ne soit pas inconstitutionnelle, le policier ne pourra pas prendre seul ce pouvoir d'injonction. En effet, la mise en oeuvre de ce nouveau pouvoir se fera nécessairement sous le contrôle du juge des libertés et de la détention (JLD) : c'est donc le juge qui décidera ou non d'appliquer cette astreinte aux personnes qui lui seront signalées par la police. <br/>
+<br/>
+La création d'un tel pouvoir nécessite un aménagement de la procédure pénale et cela implique donc une loi votée par le Parlement. Cette mesure demeure imprécise, puisque son objectif premier est d'accélérer la mise en oeuvre des astreintes prévues par l'injonction policière, mais cette même injonction doit être réalisée sous le contrôle du juge, ce qui suppose une procédure rigoureuse qui nuirait à l'immédiateté souhaitée initialement.
+      </analyse>
     </entree>
 
     <entree>
-      <engagement>Nous ne tolèrerons plus les incivilités.</engagement>
+      <engagement>Nous ne tolèrerons plus les incivilités.</engagement> <!-- 5.4 -->
       <mesure>Le harcèlement des femmes, les insultes, la dégradation du mobilier urbain,
 les crachats... Ces incivilités seront punies d’amendes immédiates et dissuasives.</mesure>
       <analyse tag="danger" description="C'est déjà le cas"></analyse>
     </entree>
 
     <entree>
-      <engagement>Toute peine prononcée sera exécutée.</engagement>
+      <engagement>Toute peine prononcée sera exécutée.</engagement> <!-- 5.5 -->
       <mesure></mesure>
       <analyse tag="warning" description="Dangereux">Cette mesure semble innocente, mais si on l'interprète au pied de la lettre, elle revient à supprimer les <a href="http://www.vie-publique.fr/decouverte-institutions/justice/fonctionnement/administration-penitentiaire/peines-emprisonnement-peuvent-elles-etre-amenagees.html">aménagements de peine</a>, qui donnent de la latitude à la Justice pour suivre et évaluer les décisions de sanction optimales pour chaque individu. <a href="https://criminocorpus.revues.org/2489">Des études montrent</a> que ceci est de fait assez efficace : il y a moins de récidive chez les personnes ayant bénéficié d'aménagement de peine, prouvant sinon leur effet positif, du moins leur bien-fondé.</analyse>
       <aec>
@@ -531,7 +562,7 @@ les crachats... Ces incivilités seront punies d’amendes immédiates et dissua
     </entree>
 
     <entree>
-      <engagement>Nous construirons 15 000 nouvelles places de prison.</engagement>
+      <engagement>Nous construirons 15 000 nouvelles places de prison.</engagement> <!-- 5.6 -->
       <mesure></mesure>
       <analyse tag="danger" description="C'est une fausse bonne idée">
         Certes, les prisons françaises sont actuellement en sous-capacité d'environ 10.000 places. Cependant, créer 15.000 places supplémentaires est une fausse bonne idée pour trois raisons principales :
@@ -548,7 +579,7 @@ les crachats... Ces incivilités seront punies d’amendes immédiates et dissua
 
     <entree>
       <engagement>Nous confirmerons la cyberdéfense
-et la cybersécurité comme priorités de notre sécurité nationale.</engagement>
+et la cybersécurité comme priorités de notre sécurité nationale.</engagement> <!-- 5.7 -->
       <mesure></mesure>
       <analyse tag="warning" description="Méfiance">
 Ces domaines sont déjà au coeur de notre politique de défense et de sécurité, comme le montre le <a href="https://www.ssi.gouv.fr/uploads/IMG/pdf/Communique_de_presse_livre_blanc_2013.pdf">livret blanc sur la défense et la sécurité nationale adoptée en 2013 </a>, et le développement de ce secteur <a href="http://www.lemagit.fr/actualites/2240191416/Defense-nationale-Nicolas-Sarkozy-generalissime-de-linfoguerre">remonte au moins à 2008</a>. D’après <a href="http://www.itu.int/en/ITU-D/Cybersecurity/Pages/GCI_heatmap.aspx">cette carte de l’Union internationale des télécommunications</a> (une agence de l’ONU), en matière de cybersécurité nous étions derrière les USA, les pays dans lesquels est implanté <a href="https://fr.wikipedia.org/wiki/Echelon">le réseau d’écoutes américaines « Echelon »</a> et d’autres pays, mais devant la Russie. Mais depuis, la loi de programmation militaire 2014-2019 renforçait ce domaine, ainsi qu’une <a href="http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.ssi.gouv.fr%2Factualite%2Fla-strategie-nationale-pour-la-securite-du-numerique-une-reponse-aux-nouveaux-enjeux-des-usages-numeriques%2F">loi adoptée en 2015</a>. Au niveau européen, une <a href="http://www.economiematin.fr/news-cyber-securite-legislation-union-europeenne">directive en matière de cybersécurité a été adoptée en 2014</a>.<br />
@@ -560,7 +591,7 @@ La question des alliances internationales est essentielle dans ce domaine.  Comm
     </entree>
 
     <entree>
-      <engagement>Nous augmenterons les moyens de nos armées.</engagement>
+      <engagement>Nous augmenterons les moyens de nos armées.</engagement> <!-- 5.8 -->
       <mesure>Nous mobiliserons 2% du PIB qui serviront à renouveler les avions ravitailleurs,
 à moderniser les blindés de l’armée de terre, ainsi que la flotte de surface de notre marine 
 nationale.</mesure>
@@ -575,16 +606,22 @@ nationale.</mesure>
     <entree>
       <engagement>Nous créerons un état-major permanent des
 opérations de sécurité intérieure, de renseignement
-et de lutte contre le terrorisme.</engagement>
+et de lutte contre le terrorisme.</engagement> <!-- 5.9 -->
       <mesure>Directement rattaché au président de la République, il associera les services et états-
 majors des ministères de l’Intérieur et de la Défense, avec la participation des ministères 
 des transports, de la santé et de l’industrie.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Méfiance">
+La confusion est dans l’organigramme. Un état-major (et son chef) qui serait rattaché directement et en permanence au président de la République, signifierait qu'il passe outre les fonctions du 1er ministre. Il serait amené à associer (coordonner ?) les ministères de la Défense et de l’Intérieur et accessoirement d’autres ministères comme l’Industrie, alors que ces ministres sont sous l’autorité du 1er ministre. Cela pose donc un vrai problème en matière de respect des prérogatives attribuées au président et au 1er ministre par la constitution, sur un sujet aussi régalien que celui-ci. Ensuite, cette mesure pose beaucoup d’autres questions : "En Marche" suggère-t-il de mélanger les genres entre police nationale, corps de gendarmerie et armée ?<br/>
+<br/>
+Sur un thème très voisin, "En Marche" propose aussi de « créer une cellule spéciale du renseignement anti-Daech, permanente, de 50 à 100 agents, associant les principaux services de renseignement, placée auprès du Président de la République ». Mais comme le souligne le criminologue Alain Bauer, et comme le reconnait Patrick Calvar, le patron de la DGSI, <a href="https://www.franceinter.fr/societe/secrets-d-info">le problème n'est pas tant le manque de renseignements que le manque de personnels compétents pour le traitement et l'analyse de ces renseignements</a>, en particulier de personnels spécialisés dans d'autres domaines, comme l’économie, la finance, la psychologie ou les langues.<br/>
+<br/>
+Enfin, cette cellule placée auprès du président de la République passerait-elle outre l'Etat-major, qui passerait lui-même outre le 1er ministre ? Tout cela est confus.
+      </analyse>
     </entree>
 
     <entree>
       <engagement>Nous agirons avec nos partenaires européens pour 
-créer une force de 5000 garde-frontières européens.</engagement>
+créer une force de 5000 garde-frontières européens.</engagement> <!-- 5.10 -->
       <mesure>Ils seront chargés de surveiller et protéger les frontières extérieures de l’Union 
 européenne.</mesure>
       <analyse tag="warning" description="C'est insuffisant">
@@ -599,7 +636,7 @@ européenne.</mesure>
 
   <categorie nom="Les mêmes chances pour tous nos enfants">
     <entree>
-      <engagement>Nous donnerons la priorité à l’école primaire</engagement>
+      <engagement>Nous donnerons la priorité à l’école primaire</engagement> <!-- 6.1 -->
       <mesure>pour que tous les élèves sachent lire, écrire et compter en arrivant en 6e.</mesure>
       <analyse tag="info" description="C'est bien, mais comment ?">
         Regardons dans le détail : 
@@ -618,7 +655,7 @@ E. Macron propose enfin de renforcer l’individualisation des apprentissages en
 
     <entree>
       <engagement> Nous interdirons l’usage des téléphones portables 
-dans l’enceinte des écoles primaires et des collèges.</engagement>
+dans l’enceinte des écoles primaires et des collèges.</engagement> <!-- 6.2 -->
       <mesure></mesure>
       <analyse tag="warning" description="Ça existe déjà"><a href="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071191&amp;idArticle=LEGIARTI000022494861">Une loi interdit déjà l'usage du téléphone portable par les élèves dans les écoles maternelles et primaires ainsi que les collèges</a>. Le problème réside donc dans l'incapacité des équipes éducatives à faire appliquer cette loi, et à la tâche de surveillance accordée aux enseignants alors que ce n'est pas leur métier.</analyse>
       <aec>
@@ -633,7 +670,7 @@ métier autour de ses missions éducatives</aec>
 
     <entree>
       <engagement> Nous donnerons plus d’autonomie aux équipes
-éducatives. </engagement>
+éducatives. </engagement> <!-- 6.3 -->
       <mesure>Elles seront suivies et évaluées. La formation des enseignants sera
 adaptée à ce nouveau cadre.</mesure>
       <analyse tag="warning" description="Méfiance">
@@ -648,7 +685,7 @@ adaptée à ce nouveau cadre.</mesure>
 
     <entree>
       <engagement> Nous limiterons à 12 élèves par enseignant la taille 
-des 12 000 classes de CP et de CE1 en zone prioritaire.</engagement>
+des 12 000 classes de CP et de CE1 en zone prioritaire.</engagement> <!-- 6.4 -->
       <mesure>Ces enseignants recevront une prime annuelle de 3000 euros nets. Et ils seront plus
 expérimentés 
 : d’ici 2022, ceux affectés en zones prioritaires auront au moins 3 ans
@@ -664,7 +701,7 @@ d’ancienneté.</mesure>
     <entree>
       <engagement> Nous rendrons possible le rétablissement de parcours 
 bi-langues au collège, 
-</engagement>
+</engagement> <!-- 6.5 -->
       <mesure>de parcours européens et d’un véritable enseignement
 du grec et du latin.</mesure>
       <analyse tag="success" description="C'est bien !">C'est très bien : l'apprentissage des langues nécessite une pratique dans la durée.</analyse>
@@ -676,7 +713,7 @@ du grec et du latin.</mesure>
 
     <entree>
       <engagement> Nous proposerons à tous un accompagnement 
-après la classe.</engagement>
+après la classe.</engagement> <!-- 6.6 -->
       <mesure>Au collège, nous rétablirons les études dirigées après la classe grâce à des bénévoles
 (étudiants et retraités).</mesure>
       <analyse tag="warning" description="C'est de l'arnaque">
@@ -697,7 +734,7 @@ Ce sont des travailleurs rémunérés, qui de plus, sont très souvent dans des 
     </entree>
 
     <entree>
-      <engagement>Nous moderniserons le baccalauréat.</engagement>
+      <engagement>Nous moderniserons le baccalauréat.</engagement> <!-- 6.7 -->
       <mesure>Il y aura désormais 4 matières obligatoires à l’examen final. Les autres seront validées
 par un contrôle continu.</mesure>
       <analyse tag="warning" description="C'est dangereux">
@@ -709,7 +746,7 @@ par un contrôle continu.</mesure>
     </entree>
 
     <entree>
-      <engagement>Nous renforcerons l’autonomie des universités</engagement>
+      <engagement>Nous renforcerons l’autonomie des universités</engagement> <!-- 6.8 -->
       <mesure>Elles pourront recruter leurs enseignants et définir leurs formations. Nous ouvrirons
 80 000 places dans les filières professionnalisantes.</mesure>
       <analyse tag="danger" description="C'est déjà un échec">
@@ -737,7 +774,7 @@ Pour les « 80 000 places dans les filières professionnalisantes », c'est à d
 
     <entree>
       <engagement>Nous demanderons à chaque lycée professionnel 
-et université de publier ses résultats</engagement>
+et université de publier ses résultats</engagement> <!-- 6.9 -->
       <mesure> (débouchés, salaires, etc.) sur les 3 dernières années.</mesure>
       <analyse tag="info" description="Attention...">
         La publication des résultats engendre une mise en concurrence entre les établissements ou universités comme aux USA. Le risque que cela provoque des "niches universitaires" pour prendre le cas des facultés est évident, c'est à dire des universités qui excellent dans certaines filières et en délaissent d'autres, et en particulier des filières peu professionnalisantes. L'Université serait donc détournée de sa mission académique.<br />
@@ -745,14 +782,14 @@ et université de publier ses résultats</engagement>
     </entree>
 
     <entree>
-      <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement>
+      <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement> <!-- 6.10 -->
       <mesure></mesure>
       <analyse tag="warning" description=""></analyse>
     </entree>
 
     <entree>
       <engagement>Nous ouvrirons les bibliothèques en soirée
-et le week-end.</engagement>
+et le week-end.</engagement> <!-- 6.11 -->
       <mesure></mesure>
       <analyse tag="warning" description="Méfiance">
         Premièrement, l'efficacité de cette mesure n'est pas garantie, puisque les bibliothèques qui bénéficieraient le plus de plus longues ouvertures ne sont pas celles qui sont déjà ouvertes du lundi au samedi avec de larges amplitudes horaires.<br />
@@ -769,7 +806,7 @@ larges ouvertures.</aec>
     </entree>
 
     <entree>
-      <engagement> Nous créerons un « Pass Culture ». </engagement>
+      <engagement> Nous créerons un « Pass Culture ». </engagement> <!-- 6.12 -->
       <mesure>Il permettra à chaque
 Français de 18 ans d’effectuer 500 euros de dépenses culturelles (cinéma, théâtre, livres...). 
 Nous ne retirerons pas un euro au budget du ministère de la Culture. </mesure>
@@ -789,7 +826,7 @@ L’investissement public en matière de culture sera porté à 1 % du PIB, soit
 
   <categorie nom="Fiers d'être français : exigence et bienveillance">
     <entree>
-      <engagement>Nous appliquerons strictement le principe de laïcité.</engagement>
+      <engagement>Nous appliquerons strictement le principe de laïcité.</engagement> <!-- 7.1 -->
       <mesure>Nous organiserons pour les ministres du culte une formation universitaire à la laïcité, aux 
 valeurs de la République et à la langue française. Nous développerons la connaissance des 
 différentes religions à l’école en prévoyant un enseignement spécifique sur le fait religieux.</mesure>
@@ -812,7 +849,7 @@ Enfin, on ne peut pas dire qu' « En Marche » « appliquera strictement le prin
 
     <entree>
       <engagement>Nous n’étendrons pas l’interdiction du voile
-à l’université.</engagement>
+à l’université.</engagement> <!-- 7.2 -->
       <mesure></mesure>
       <analyse tag="info" description="Pourquoi pas...">
         C'est déjà le cas, mais cela semble une bonne chose. Sinon, par cohérence, il faudrait interdire tout signe religieux aussi visible comme les croix, par exemple. Et par ailleurs, on peut être en désaccord avec une pratique et pour autant la tolérer et l'accepter. 
@@ -824,7 +861,7 @@ Enfin, on ne peut pas dire qu' « En Marche » « appliquera strictement le prin
 
     <entree>
       <engagement>Nous démantèlerons les associations qui, sous couvert
-de religion, s’attaquent à la République.</engagement>
+de religion, s’attaquent à la République.</engagement> <!-- 7.3 -->
       <mesure> Nous fermerons 
 définitivement les lieux de culte dans lesquels certaines prêchent l’apologie du terrorisme.</mesure>
       <analyse tag="warning" description="Des dispositions existent déjà">
@@ -848,7 +885,7 @@ Il est aussi question de conditionner « le soutien des communes à la construct
     <entree>
       <engagement>Nous ferons de la maîtrise de la langue française
 le principal critère de l’obtention de la nationalité
-française.</engagement>
+française.</engagement> <!-- 7.4 -->
       <mesure>Nous renforcerons l’apprentissage de notre langue pour les candidats à la naturalisation. 
 Quelle meilleure preuve de la volonté de quelqu’un de s’intégrer et de devenir français 
 ?</mesure>
@@ -865,18 +902,24 @@ Quant aux mineurs, ils sont inscrits dans des établissements scolaires, et il e
     </entree>
 
     <entree>
-      <engagement>Nous examinerons les demandes d’asile en moins
-de 6 mois, recours compris.</engagement>
+      <engagement>Nous examinerons les demandes d’asile en moins de 6 mois, recours compris.</engagement> <!-- 7.5 -->
       <mesure>C’est nécessaire pour accueillir dignement les réfugiés qui ont droit à la protection
 de la France. Les autres seront reconduits sans délai vers leur pays afin qu’ils ne deviennent 
 pas des immigrés clandestins.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="C'est peu probable">
+Actuellement, les demandeurs d'asile déposent une demande en préfecture, qui statue sur leurs conditions de séjour en France. Ensuite c'est l'office français de protection des réfugiés et apatrides (<a href="https://fr.wikipedia.org/wiki/Office_fran%C3%A7ais_de_protection_des_r%C3%A9fugi%C3%A9s_et_apatrides">OFPRA</a>) qui étudie les motifs de la demande. En cas de refus, la grande majorité déposent un recours auprès de la cour nationale du droit d'asile (<a href="https://fr.wikipedia.org/wiki/Cour_nationale_du_droit_d%27asile">CNDA</a>), un tribunal administratif. En 2016, <a href="http://www.psmigrants.org/site/ofpra-bilan-provisoire-de-lasile-en-2016/">le délai moyen d’instruction par l'OFPRA a été de 5 mois</a>). « En Marche » veut réduire ce délai à 8 semaines, ce qui semble peu crédible, alors qu'E. Macron promet de <a href="http://www.lagazettedescommunes.com/492750/ce-que-propose-emmanuel-macron-pour-les-fonctionnaires-et-les-collectivites/">supprimer 120 000 fonctionnaires, et que les priorités annoncées sont ailleurs (sécurité, hôpitaux et enseignants de CP-CE1)</a>. L'idée proposée de mettre dans chaque centre d'accueil une délégation de l'OFPRA est bonne, mais ne devrait pas réduire de beaucoup ce délais.<br/>
+<br/>
+Par ailleurs, le principal problème se situe en amont avec le manque de moyens des préfectures. Alors que <a href="http://www.lemonde.fr/immigration-et-diversite/article/2016/09/09/forte-hausse-des-demandes-d-asile_4995135_1654200.html">les demandes d'asile augmentent</a>, <a href="http://www.lemonde.fr/immigration-et-diversite/article/2016/06/08/asile-les-modestes-records-de-la-france_4942871_1654200.html">le manque de personnel bloque le processus de traitement des dossiers, en particulier à Paris</a>). La aussi, la réduction du nombre de fonctionnaires risque de ne pas arranger les choses. <br/>
+Concernant la CNDA, actuellement, le délai de traitement des recours est de <a href="https://www.senat.fr/commission/fin/pjlf2017/np/np06/np061.html">6 mois (6 semaines en procédure accélérée)</a>, ajoutés aux 5 mois de l'OFPRA. L'idée de permettre que cette cour « puisse statuer dans les centres d’accueil » parait bonne. Mais <a href="https://www.senat.fr/commission/fin/pjlf2017/np/np06/np061.html">si les délais de traitement par la CNDA ont baissé durant le dernier quinquennat, c'est en grande partie grâce à la hausse des effectifs de fonctionnaires et de magistrats</a> et « En Marche » ne prévoit aucune augmentation du nombre de magistrats.<br/>
+<br/>
+Réduire à 6 mois le total du délai d'examen semble donc peu réaliste, d'autant que la tendance à l'augmentation du nombre de demandes d'asile devrait se poursuivre. La seule manière de le faire, en l'absence de recrutements, serait d'augmenter le nombre de procédures accélérées et d'écarter un plus grand nombre de demandes (la réforme de 2015 va en partie dans ce sens). Ce qui risque fort de réduire la défense des demandeurs d'asile, qui ont besoin de temps pour constituer les dossiers, demander de l'aide ou recourir à l'aide juridictionnelle. La volonté de reconduire « sans délai » les demandeurs qui ont vu leurs demandes refusées va dans le même sens, alors qu'actuellement ils ont un délai d'un mois pour effectuer un recours.
+      </analyse>
     </entree>
 
     <entree>
       <engagement>Nous créerons des emplois francs pour encourager 
 l’embauche des habitants des quartiers prioritaires de 
-la politique de la ville.</engagement>
+la politique de la ville.</engagement> <!-- 7.6 -->
       <mesure>Quel que soit le lieu où elle se situe, une entreprise qui recrutera en CDI un habitant
 de l’un de ces quartiers bénéficiera d’une prime de 15 000 euros sur 3 ans 
 : c’est comme
@@ -898,7 +941,7 @@ Cette politique s'inscrit dans le cadre plus général des concessions faites au
 
     <entree>
       <engagement>Nous ferons de la lutte contre la discrimination
-une priorité nationale.</engagement>
+une priorité nationale.</engagement> <!-- 7.7 -->
       <mesure>Nous développerons des opérations de contrôle aléatoires et imprévues à grande échelle, 
 en matière d’accès à l’emploi ou au logement. 
 Les partenaires sociaux seront
@@ -927,7 +970,7 @@ Enfin, et surtout, il est aussi important de lutter contre les causes des discri
     <entree>
       <engagement>Nous construirons une Europe qui développe
 nos emplois et notre économie
-</engagement>
+</engagement> <!-- 8.1 -->
       <mesure>Pour pouvoir investir beaucoup plus qu’aujourd’hui, nous voulons un budget de la zone 
 euro voté par un Parlement de la zone euro et exécuté par un ministre de l’Économie
 et des Finances de la zone euro</mesure>
@@ -948,7 +991,7 @@ et des Finances de la zone euro</mesure>
     <entree>
       <engagement>Nous lutterons contre les arrangements fiscaux
 entre États et entreprises
-multinationales.</engagement>
+multinationales.</engagement> <!-- 8.2 -->
       <mesure>Ils faussent la concurrence en Europe, comme celui entre Apple et l’Irlande
 qui a été sanctionné. La France se montrera exemplaire en ce domaine.</mesure>
       <analyse tag="warning" description="">
@@ -967,7 +1010,7 @@ Enfin, il apparaît aujourd’hui une question cruciale pour lutter contre l’�
 
     <entree>
       <engagement>Nous réserverons l’accès aux marchés publics
-européens aux entreprises</engagement>
+européens aux entreprises</engagement> <!-- 8.3 -->
       <mesure>qui localisent au moins la moitié
 de leur production en Europe dans le cadre d’un 
 Buy European Act
@@ -978,7 +1021,7 @@ Buy European Act
     <entree>
       <engagement>Nous généraliserons Erasmus et l’étendrons
 aux apprentis.
-</engagement>
+</engagement> <!-- 8.4 -->
       <mesure>200 000 étudiants et apprentis français partiront chaque
 année dans un pays de l’Union européenne.</mesure>
       <analyse tag="warning" description="C'est déjà le cas">
@@ -999,7 +1042,7 @@ Enfin cette mesure ne répond pas au problème des ressources données aux étud
     <entree>
       <engagement>Nous construirons une Europe qui 
 nous
- protège.</engagement>
+ protège.</engagement> <!-- 8.5 -->
       <mesure>Nous proposerons avec l’Allemagne une Europe de la défense associant les pays volontaires, en créant un Fonds européen de défense qui financera des équipements militaires 
 communs (comme les drones européens) et un Quartier Général européen permanent</mesure>
       <analyse tag="danger" description="C'est /très/ dangereux">
@@ -1018,7 +1061,7 @@ communs (comme les drones européens) et un Quartier Général européen permane
 
     <entree>
       <engagement>Nous construirons une Europe qui protège 
-nos industries stratégiques.</engagement>
+nos industries stratégiques.</engagement> <!-- 8.6 -->
       <mesure>Nous voulons un mécanisme de contrôle
 des investissements étrangers en Europe afin de préserver nos secteurs stratégiques.</mesure>
       <analyse tag="warning" description="Méfiance">
@@ -1036,7 +1079,7 @@ des investissements étrangers en Europe afin de préserver nos secteurs straté
 
     <entree>
       <engagement>Dans la discussion du Brexit, nous défendrons
-l’intégrité du marché unique européen.</engagement>
+l’intégrité du marché unique européen.</engagement> <!-- 8.7 -->
       <mesure>Toutes les entreprises
 qui y accèdent doivent être soumises aux mêmes disciplines.</mesure>
       <analyse tag="info" description="C'est bien, mais...">
@@ -1048,21 +1091,26 @@ D’autant plus qu’ E.Macron déclarait aussi que « si les Britanniques ne ve
 
     <entree>
       <engagement>Nous créerons un marché unique du numérique
-en Europe.</engagement>
+en Europe.</engagement> <!-- 8.8 -->
       <mesure>Un fonds de capital-risque permettra de financer le développement
 des start-ups européennes.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Méfiance">Comme pour d'autres mesures, <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">cet engagement est aussi celui de la commission européenne</a>, qui a publié en mai 2015 sa <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">stratégie à l'horizon 2020 pour un marché unique du numérique</a>. La presse en général n'en parle que pour souligner les aspects positifs de cette stratégie (<a href="https://www.lesechos.fr/21/09/2016/LesEchos/22281-044-ECH_pour-un-marche-unique-du-numerique.htm">suppression des tarifs de « roaming », connexion de tous les foyers européens au très haut débit, couverture 5G ...</a>).<br />
+<br />
+Mais cette volonté vise avant tout à « <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">faire tomber les barrières réglementaires</a> », <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">à développer les exportations entre les pays membres, et à amener « de meilleurs services à des prix plus avantageux »</a>. Elle cherche notamment à <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">« promouvoir des services de livraison transfrontalière », en harmonisant les différentes réglementations, comme sur la TVA</a>. On peut s'inquiéter de cette volonté d'exacerbation de la concurrence entre les entreprises, d' « harmonisation » qui se fera sans aucun doute par le bas, et de déréglementation en matière fiscale, mais aussi sociale ou environnementale. <br />
+<br />
+L'autre grand danger de ce projet concerne la « <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">lutte contre les atteintes aux droits de propriété intellectuelle</a> », avec surtout une « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">obligation de filtrage automatisé</a> » des contenus, comme sur les plateformes de partage de vidéos. Outre l'utilisation de technologies de filtrage automatisées « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">idiotes et binaires</a> », cela rejoint le <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">problème de la généralisation des accords public-privés, pour réguler internet par de puissants acteurs économiques</a>, en leur confiant certaines prérogatives de police ou de justice. La commission européenne à d'ailleurs lancé en juillet 2016 un <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">nouveau partenariat dece type en matière de cybersécurité</a>, alors que la protection des données personnelles est <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">déja largement mise à mal dans l'UE actuelle</a>, qui a <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">récemment remis en cause</a> le principe de « <a href="https://www.laquadrature.net/fr/elements-pour-la-reforme-du-droit-dauteur-et-des-politiques-culturelles-liees">neutralité du net</a> ». <br />
+</analyse>
     </entree>
 
     <entree>
       <engagement>Nous créerons un marché unique de l’énergie
-en Europe.</engagement>
+en Europe.</engagement> <!-- 8.9 -->
       <mesure>Nous fixerons un prix plancher du carbone dans les pays de l’Union.</mesure>
       <analyse tag="warning" description=""></analyse>
     </entree>
 
     <entree>
-      <engagement>Nous donnerons la parole au peuple.</engagement>
+      <engagement>Nous donnerons la parole au peuple.</engagement> <!-- 8.10 -->
       <mesure>Nous proposerons des conventions citoyennes dans toute l’Europe dès la fin de l’année 
 2017 pour redonner un sens au projet européen. Ces conventions aboutiront à un projet 
 qui sera ensuite adopté par tous les pays qui le souhaitent. Aucun État membre n’aura 
@@ -1081,7 +1129,7 @@ Quels pouvoirs auraient ces conventions ? Pourquoi l'Union Européenne (UE) et l
   <categorie nom="Faire plus pour ceux qui ont moins">
     <entree>
       <engagement>Nous augmenterons le minimum vieillesse
-de 100 euros par mois.</engagement>
+de 100 euros par mois.</engagement> <!-- 9.1 -->
       <mesure></mesure>
       <analyse tag="warning" description="C'est insuffisant">
         En France, le seuil de pauvreté est de <a href="https://www.insee.fr/fr/statistiques/fichier/2492211/FPORSOC16l2_F4.2_pauvrete.pdf">1 008 €</a> ( 60% du revenu médian). Toute personne en dessous de ce niveau de vie est donc considérée comme pauvre.
@@ -1094,16 +1142,24 @@ Avec 100 € supplémentaires, ces personnes resteraient donc sous le seuil de p
     </entree>
 
     <entree>
-      <engagement>Nous créerons un versement social unique.</engagement>
+      <engagement>Nous créerons un versement social unique.</engagement> <!-- 9.2 -->
       <mesure>Toutes les allocations sociales (APL, RSA...) seront versées le même jour du mois, un 
 trimestre maximum après la constatation des revenus (contre jusqu’à 2 ans aujourd’hui)</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="info" description="C'est bien, mais...">Pour la date de versement, c'est déjà le cas : <a href="https://www.toutsurmesfinances.com/argent/a/calendrier-de-paiement-et-dates-de-versements-de-la-caf">Les allocations de la Caisse d'Allocation Familiale (CAF) sont versées le 5 du mois</a>.<br/>
+<br/>
+Pour le RSA, ce sont déjà les revenus du trimestre précédent qui sont pris en compte pour déterminer son montant et sa nature ( RSA « socle » ou RSA « activité »). La prise en compte des revenus remontant jusqu'à 2 ans (maximum) avant la demande concerne les allocations logements. Par exemple, si on dépose une demande en 2017, on vous demande la déclaration d'impôts sur les revenus de 2015, qui a été faite en 2016. La raison est que <a href="http://blog.caf-bourgogne.fr/rubriques/etre-parents/janvier-2014-les-prestations-aides-et-allocations-versees-par-les-caf-vont-elles-augmenter">la CAF a besoin de connaître les revenus qu'on déclare aux impôts</a>. Mais la situation actuelle du demandeur est aussi prise en compte, à travers sa situation professionnelle et son patrimoine. Par exemple, pour déterminer le montant de leurs allocations logement, les revenus des bénéficiaires du RSA ou de l'ASS ne sont pas pris en compte, ceux des demandeurs d'emploi indemnisés ont un abattement de 30 % … Néanmoins, la prise en compte des revenus remontant à un trimestre maximum nous parait être une bonne chose. La seule contrepartie serait que les allocataires fassent une déclaration de revenu supplémentaire auprès de la CAF.<br/>
+<br/>
+Par contre, il y a un problème dont ne parle pas le programme d' « En Marche » : Le délai de carence. <a href="https://www.location-etudiant.fr/actualites/Paiement-APL-Tout-savoir-sur-les-dates-et-les-versements-212.php">L’allocation logement n’est versée que le premier jour du mois qui suit l’entrée dans le logement</a>. Pour un bail signé à partir du 1er mars, les droits à l’allocation logement seront ouverts à partir du mois d’avril, pour lequel l’allocation sera payée le 5 mai.<br/>
+<br/>
+</analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Revaloriser les aides personnelles au logement et supprimer le mois de carence avant la perception des premières APLpour rattraper le gel du point d’indice</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/11/Programa-Índice.pdf">Nous créerons pour toutes les personnes majeures vivant sous le seuil de pauvreté, une garantie dignité de 1 000 € par mois pour une personne seule (…) Cette garantie sera ouverte aux jeunes dès 18 ans, qui n’ont actuellement pas le droit au RSA. Elle sera attribuée et versée automatiquement par l’administration fiscale pour éviter le risque que des démarches administratives inutiles empêchent des gens de la demander alors qu’ils y ont droit.</aec>
+      </aec>
     </entree>
 
     <entree>
-      <engagement>Nous créerons un «
- accélérateur
- » d’associations.</engagement>
+      <engagement>Nous créerons un « accélérateur » d’associations.</engagement> <!-- 9.3 -->
       <mesure>Elles font un travail formidable, mais il est difficile pour elles de toucher tous leurs publics. 
 Cette nouvelle structure sera chargée de déployer sur l’ensemble du territoire et en moins 
 de 5 ans les associations les plus utiles à notre société.</mesure>
@@ -1121,7 +1177,7 @@ Et quel sera le budget de cette nouvelle structure ? Quelles associations seront
     <entree>
       <engagement>Nous mettrons en place la prise en charge à 100%
 des lunettes et des prothèses auditives et dentaires
-d’ici 2022,</engagement>
+d’ici 2022,</engagement> <!-- 9.4 -->
       <mesure>en lien avec les mutuelles et l’ensemble des professionnels de santé</mesure>
       <analyse tag="danger" description="C'est une arnaque">
 Bien sûr, c'est une mesure qu'il va falloir prendre. Cependant, il faut regarder avec attention la façon dont elle va l'être.<br />
@@ -1141,7 +1197,7 @@ Concernant le principe du <a href="https://fr.wikipedia.org/wiki/Tiers_payant">t
 
     <entree>
       <engagement>Nous consacrerons 5 milliards d’euros de notre Plan 
-d’investissement à la santé,</engagement>
+d’investissement à la santé,</engagement> <!-- 9.5 -->
       <mesure> notamment à la transformation de notre 
 médecine de ville et de nos hôpitaux.</mesure>
       <analyse tag="warning" description="C'est très insuffisant">
@@ -1160,7 +1216,7 @@ A tout cela, s'ajoutent des nouvelles dépenses nécessaires concernant les pers
     </entree>
 
     <entree>
-      <engagement>Nous créerons un service sanitaire.</engagement>
+      <engagement>Nous créerons un service sanitaire.</engagement> <!-- 9.6 -->
       <mesure>40 000 étudiants en santé 
 consacreront 3 mois à des actions de prévention dans les écoles et les entreprises.</mesure>
       <analyse tag="warning" description="C'est flou et insuffisant">
@@ -1183,7 +1239,7 @@ Dans ce domaine, la loi El Khomri <a href="#c2m4">soutenue par « En Marche »</
 
     <entree>
       <engagement>Nous renforcerons le droit à l’oubli pour les personnes 
-ayant été malades.</engagement>
+ayant été malades.</engagement> <!-- 9.7 -->
       <mesure>Au moment de souscrire un emprunt ou un contrat
 d’assurance, les malades de cancers et de l’hépatite C n’auront plus à le mentionner
 dès 5 ans après leur rémission (contre 10 ans aujourd’hui). Nous l’étendrons aussi
@@ -1192,7 +1248,7 @@ dès 5 ans après leur rémission (contre 10 ans aujourd’hui). Nous l’étend
     </entree>
 
     <entree>
-      <engagement>Nous doublerons le nombre de maisons de santé.</engagement>
+      <engagement>Nous doublerons le nombre de maisons de santé.</engagement> <!-- 9.8 -->
       <mesure>Pour lutter contre les déserts médicaux, ces maisons regrouperont des médecins, des 
 infirmières, des orthophonistes, des kinésithérapeutes, des professionnels du sport...</mesure>
       <analyse tag="warning" description=""></analyse>
@@ -1201,7 +1257,7 @@ infirmières, des orthophonistes, des kinésithérapeutes, des professionnels du
     <entree>
       <engagement>Nous donnerons accès à un(e) auxiliaire de vie
 scolaire à tous les enfants qui en ont besoin pour avoir 
-une scolarité comme les autres.</engagement>
+une scolarité comme les autres.</engagement> <!-- 9.9 -->
       <mesure>Ces AVS auront un emploi stable
 et un salaire décent.</mesure>
       <analyse tag="info" description="Oui, mais c'est flou">
@@ -1223,7 +1279,7 @@ A cela s'ajoute [des équipements insuffisants concernant l'<a href="http://blog
 
     <entree>
       <engagement>Nous augmenterons de 100 euros par mois
-l’Allocation Adulte Handicapé (AAH).</engagement>
+l’Allocation Adulte Handicapé (AAH).</engagement> <!-- 9.10 -->
       <mesure></mesure>
       <analyse tag="warning" description="C'est insuffisant">Actuellement à <a href="http://droit-finances.commentcamarche.net/faq/4843-aah-2017-montant-et-plafonds-de-ressources">808 euros par mois</a>, le montant <i>maximum</i> de l'AAH, même augmenté de 100 euros, resterait sous le <a href="http://www.cbanque.com/actu/59625/1008-euros-par-mois-le-seuil-de-pauvrete-en-france">seuil de pauvreté</a>.</analyse>
     </entree>
@@ -1234,7 +1290,7 @@ l’Allocation Adulte Handicapé (AAH).</engagement>
 
   <categorie nom="Rendre la vie des français plus facile">
     <entree>
-      <engagement>Nous créerons un droit à l’erreur pour tous.</engagement>
+      <engagement>Nous créerons un droit à l’erreur pour tous.</engagement> <!-- 10.1 -->
       <mesure>Le cœur de la mission de l’administration ne sera plus la sanction mais le conseil
 et l’accompagnement, sauf en matière pénale, ou lorsque la sécurité est engagée.
 Par exemple, aujourd’hui, un employeur qui oublie de déclarer à l’URSSAF la prime
@@ -1250,7 +1306,7 @@ Enfin, où est la cohérence, quand dans le même programme, le point <a href="#
 
     <entree>
       <engagement>Nous passerons à la vitesse supérieure en ce qui 
-concerne la numérisation de l’administration.</engagement>
+concerne la numérisation de l’administration.</engagement> <!-- 10.2 -->
       <mesure>Tous les renouvellements de documents officiels (carte d’identité, passeport, carte
 grise, etc.) devront pouvoir se faire en ligne, sans nécessité de se déplacer. Les horaires
 d’ouverture des services publics seront par ailleurs élargis aux soirées et au samedi
@@ -1261,7 +1317,7 @@ pour s’adapter aux nouveaux modes de vie des Français.</mesure>
     <entree>
       <engagement>Nous donnerons aux préfets la capacité d’adapter 
 l’organisation des services de l’État aux besoins
-de chaque région et département.</engagement>
+de chaque région et département.</engagement> <!-- 10.3 -->
       <mesure></mesure>
       <analyse tag="warning" description=""></analyse>
     </entree>
@@ -1269,7 +1325,7 @@ de chaque région et département.</engagement>
     <entree>
       <engagement>Nous ne rajouterons aucune norme nationale
 aux normes européennes dans les secteurs agricole,
-maritime et de la pêche.</engagement>
+maritime et de la pêche.</engagement> <!-- 10.4 -->
       <mesure></mesure>
       <analyse tag="warning" description="C'est une arnaque">Premièrement, c'est une non-mesure, on peut donc se demander pourquoi celle-ci figure dans le programme. Cependant, il est intéressant de noter que celle-ci contredit une volonté affichée - sans pour autant être étayée de proposition concrètes - de diminuer, par exemple, <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/environnement-et-transition-ecologique">l'usage de pesticides</a> (<a href="#c3m4">proposition 3.4</a>). Emmanuel Macron souhaiterait donc lutter contre l'usage de pesticides au niveau européen... Mais il est clair qu'il n'y a pas de volonté européenne pour cela, comme le prouve le vote du CETA par le parlement européen, qui est une <a href="http://www.amisdelaterre.org/Le-CETA-c-est-quoi-on-en-est-ou-Notre-FAQ-pour-tout-comprendre.html#answer5">régression fondamentale sur les questions sanitaires liées à l'agriculture et notamment les pesticides</a>, et que <a href="http://www.lemonde.fr/les-decodeurs/article/2017/02/13/emmanuel-macron-seul-candidat-a-la-presidentielle-ouvertement-favorable-au-ceta_5078997_4355770.html">soutient M. Macron.</a></analyse>
       <aec>
@@ -1286,7 +1342,7 @@ tribunal, CAF, etc.)
  seront tenus d’afficher leurs résultats
 en termes de qualité de service 
 (ex  : temps d’attente, taux
-de satisfaction, etc.)</engagement>
+de satisfaction, etc.)</engagement> <!-- 10.5 -->
       <mesure></mesure>
       <analyse tag="danger" description="C'est inefficace et dangereux">Tout le monde veut faire du bon travail. La politique du chiffre, l'accroissement des pressions et des contraintes pour obtenir des résultats, sont donc inefficaces : si les gens pouvaient faire mieux, ils le feraient déjà volontiers. Pire, cela provoque du mal-être, de la souffrance, et entraîne augmente les accidents et <a href="http://www.lemonde.fr/sante/article/2017/02/06/suicide-d-un-infirmier-a-l-hopital-georges-pompidou-a-paris_5075328_1651302.html">suicides</a> sur le lieu de travail. Il y a un problème de moyens humains et matériels, et c'est ce problème qu'il est urgent d'adresser.</analyse>
     </entree>
@@ -1294,16 +1350,20 @@ de satisfaction, etc.)</engagement>
     <entree>
       <engagement>Nous établirons dans chaque département
 un tribunal de première instance qui sera le guichet 
-unique permettant un accès facilité au juge.</engagement>
+unique permettant un accès facilité au juge.</engagement> <!-- 10.6 -->
       <mesure>Nous ne fermerons aucun site.</mesure>
       <analyse tag="warning" description="">
         Permettre une justice plus proche des gens paraît aller dans le bon sens. Mais la suite de cette mesure que l’on peut observer dans le programme complet : “Ce tribunal traitera l’ensemble des matières dans des pôles dédiés : pénal, social, affaires familiales, commercial, civil…. Les justiciables n’auront plus à chercher leur juge.” laisse clairement entendre une multiplication des responsabilités et des connaissances nécessaires pour les juges, qui sont déjà surchargés.<br />
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/le-livret-justice/">Les juridictions sont en sous-effectif constant et souffrent d’une détérioration sans précédent de leurs locaux : les tribunaux croulent sous les dossiers entassés dans les couloirs et leurs équipements informatiques sont obsolètes. Les lieux de détention sont à ce point délabrés qu’ils sont envahis par les rats ou les punaises de lits – le scandale récent de la prison de Fresnes en est l’un des tristes exemples.</aec>
+        <aec>https://laec.fr/s11m2</aec>
+      </aec>
     </entree>
 
     <entree>
       <engagement>Nous raccourcirons les délais de jugement pour
-les litiges inférieurs à 4000 euros.</engagement>
+les litiges inférieurs à 4000 euros.</engagement> <!-- 10.7 -->
       <mesure>La procédure les concernant
 sera entièrement dématérialisée et la décision sera rendue en ligne.</mesure>
       <analyse tag="warning" description="C'est insuffisant">Cette mesure part d’une bonne intention, 
@@ -1323,7 +1383,7 @@ greffiers et personnels administratifs</aec>
   <categorie nom="Une démocratie rénovée">
     <entree>
       <engagement>Nous proposerons une grande loi de moralisation
-de la vie publique qui comprendra...</engagement>
+de la vie publique qui comprendra...</engagement> <!-- 11.1 -->
       <mesure>
         <ul>
         <li>L’interdiction pour les parlementaires d’exercer des activités
@@ -1362,7 +1422,7 @@ national et européen une fois par an devant le Congrès</li>
 
     <entree>
       <engagement>Nous améliorerons le renouvellement et le pluralisme
-de notre vie politique.</engagement>
+de notre vie politique.</engagement> <!-- 11.2 -->
       <mesure>
 <ul>
 <li>Nous réduirons d’environ un tiers le nombre de députés
@@ -1397,7 +1457,7 @@ du gouvernement, en s’appuyant sur les travaux de la Cour des comptes.</li>
     </entree>
 
     <entree>
-     <engagement>Nous développerons la participation des citoyens.</engagement>
+     <engagement>Nous développerons la participation des citoyens.</engagement> <!-- 11.3 -->
       <mesure>
 <ul>
 <li>
@@ -1431,7 +1491,7 @@ de l’argent public.
     <entree>
       <engagement> Nous exonérerons de la taxe d’habitation tous
 les Français des classes moyennes et populaires
-(soit 80% des ménages).</engagement>
+(soit 80% des ménages).</engagement> <!-- 12.1 -->
       <mesure>C’est un impôt injuste 
 : on paye souvent beaucoup plus quand on vit dans une commune
 populaire que dans une commune riche. Dès 2020, 4 Français sur 5 ne paieront plus la taxe
@@ -1455,7 +1515,7 @@ d’habitation, et l’État remboursera entièrement auprès des communes leur 
 
     <entree>
       <engagement> Nous couvrirons en très haut débit ou en fibre
-l’ensemble du territoire.</engagement>
+l’ensemble du territoire.</engagement> <!-- 12.2 -->
       <mesure>Ce sera fait d’ici la fin du prochain quinquennat, pour ne laisser aucun territoire à la traîne 
 de la transition numérique. Les opérateurs téléphoniques doubleront la couverture mobile 
 en zone rurale pour réduire les zones sans réseau, et l’État prendra ses responsabilités 
@@ -1469,7 +1529,7 @@ partout où cela est nécessaire.</mesure>
     </entree>
 
     <entree>
-      <engagement>Nous réduirons le millefeuille administratif.</engagement>
+      <engagement>Nous réduirons le millefeuille administratif.</engagement> <!-- 12.3 -->
       <mesure>Nous supprimerons au moins un quart des départements, là où ils peuvent être
 rapprochés de l’une de nos grandes métropoles</mesure>
       <analyse tag="warning" description="C'est une mauvaise idée">
@@ -1483,7 +1543,7 @@ Ce genre de "centralisation" ou de regroupement provoque trois effets pervers : 
 
     <entree>
       <engagement> Nous accélérerons la construction de logements
-là où c’est nécessaire.</engagement>
+là où c’est nécessaire.</engagement> <!-- 12.4 -->
       <mesure>Nous mettrons en place des procédures accélérées dans les zones où le logement coûte 
 trop cher. Cela permettra de construire plus vite des logements et de faire baisser les prix 
 de l’immobilier.</mesure>
@@ -1505,7 +1565,7 @@ Bref, cela ne va sans doute pas arranger la situation <a href="https://avenirenc
 
     <entree>
       <engagement> Nous réformerons radicalement notre politique
-des transports.</engagement>
+des transports.</engagement> <!-- 12.5 -->
       <mesure>Car l’enjeu n’est plus de construire partout des autoroutes, des aéroports et des lignes
 de TGV. C’est, grâce à notre Plan d’investissement, de moderniser les réseaux existants
 et de développer de nouveaux services pour que tous les territoires soient raccordés 
@@ -1522,7 +1582,7 @@ efficacement aux lieux de travail, d’éducation, de culture ou de soins.</mesu
 
     <entree>
       <engagement> Nous lancerons un Plan de Transition Agricole
-de 5 milliards d’euros.</engagement>
+de 5 milliards d’euros.</engagement> <!-- 12.6 -->
       <mesure>Il soutiendra tous les projets de montée en gamme des exploitations, d’adaptation 
 aux normes environnementales et de bien-être animal.</mesure>
       <analyse tag="warning" description="C'est insuffisant">
@@ -1545,7 +1605,7 @@ Surtout « En Marche » ne remet pas du tout en cause la PAC (<a href="#c1m6">vo
 
     <entree>
       <engagement> Nous développerons la continuité territoriale
-au profit des Outre-mer.</engagement>
+au profit des Outre-mer.</engagement> <!-- 12.7 -->
       <mesure>D’ici la fin du quinquennat, nous proposerons chaque année aux ultra-marins au moins
 200 000 billets d’avion à prix aidé en particulier pour les étudiants et les entrepreneurs 
 pour leur mobilité entre les Outre-mer et l’Hexagone, et dans leur environnement
