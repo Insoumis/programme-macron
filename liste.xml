@@ -388,7 +388,13 @@ scolaires et les restaurants d’entreprise devront
       <mesure>Les administrations chargées d’autoriser des activités (l’ouverture d’un hôtel, ou l’obtention d’une licence de chauffeur privé, ...) devront mettre à disposition leurs données.
 Face aux géants étrangers, des nouvelles start-ups pourront ainsi s’adresser par exemple
 à tous les hôteliers pour leur offrir de nouveaux services.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="c'est dangereux">
+« En Marche » souhaite donc que les données récoltées par ces administrations soient mises à la disposition de « nouvelles start-ups ». Autrement dit, qu'elles soient vendues à ces start-ups. Sous quelles modalités ? Quel contrôle et quel objectif ? Nous n'en savons rien. Les start-ups étrangères pourraient-elles acheter de cette manière des données personnelles collectées par les administrations françaises ? Cette hypothèse semble dangereuse...<br/>
+<br/>
+Surtout, cette mesure pose un gros problème en matière de respect de la vie privée et de protection des données personnelles. La <a href="http://www.ls-avocats.com/article-presse/53-donnee-perso">commercialisation de certaines données dites « sensibles » est interdite</a>, comme les données médicales. Et le reste des données personnelles, avec quelques exceptions, doit faire l'objet d'une <a href="https://www.service-public.fr/professionnels-entreprises/vosdroits/F24270">déclaration préalable auprès de la Commission Nationale Informatique et Liberté (CNIL)</a>, qui doit donner son autorisation pour certains fichiers.<br/>
+<br/>
+Il s'agit en fait d'ouvrir les données des administrations aux entreprises privées, alors que la <a href="http://www.lemonde.fr/pixels/article/2015/09/26/la-loi-numerique-cible-les-donnees-personnelles_4772884_4408996.html">loi numérique adoptée en 2015, encouragée par E. Macron</a>, avait déjà prévu l'ouverture de ces données au public. Ceci, alors que <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">la protection des données personnelles est déjà fortement remise en cause dans l' europe actuelle</a>...
+      </analyse>
     </entree>
 
   </categorie>
