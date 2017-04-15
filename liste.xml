@@ -59,6 +59,13 @@ La mesure d'"En Marche" prévoit d'augmenter la prime de 50%. Dans notre exemple
         <aec>https://laec.fr/s30m2</aec>
         <aec>https://laec.fr/s72m1</aec>
         <aec>https://laec.fr/s33m6</aec>
+        <aec href="https://impots.jlm2017.fr/">Baisse des impôts pour les revenus de moins de 4000 euros</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Revaloriser les aides personnelles au logement et supprimer le mois de carence avant la perception des premières APL</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Encadrer véritablement les loyers à la baisse</aec>
+        <aec hre="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Plafonner les loyers dans le secteur HLM pour ne pas dépasser 20 % du revenu des ménages</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Gratuité réelle de l’éducation publique y compris des cantines, du transport (transports collectifs urbains gratuits pour les moins de 18 ans) et des activités périscolaires</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Gratuité des formations universitaires, et les frais scolaires des universités dès la rentrée 2017</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Tarification progressive sur l’eau en pénalisant les mésusages et gaspillages</aec>
       </aec>
 
     </entree>
@@ -116,11 +123,7 @@ Enfin, on peut craindre que ces formations soient détournées pour devenir un c
       <engagement>  Nous serons aux côtés des agriculteurs pour qu’ils 
 vivent de leur travail, plutôt que des aides publiques.</engagement> <!-- 1.6 -->
       <mesure>5 milliards d’euros de notre Plan d’investissement seront consacrés à la modernisation de 
-leurs exploitations. Et 
-nous les aiderons à être payés au prix juste 
-en soutenant 
-les organisations de producteurs dans leurs négociations avec les industriels. Nous nous 
-battrons pour faire évoluer dans ce sens le droit européen de la concurrence.</mesure>
+leurs exploitations. Et nous les aiderons à être payés au prix juste en soutenant les organisations de producteurs dans leurs négociations avec les industriels. Nous nous battrons pour faire évoluer dans ce sens le droit européen de la concurrence.</mesure>
       <analyse tag="warning" description="C'est insuffisant">
 Ce montant de 5 milliards semble assez léger en comparaison des besoins des exploitations, en particulier dans le domaine écologique (<a href="#c12m6">voir 12.6</a>).<br />
 
@@ -155,6 +158,8 @@ des formations.</mesure>
       <aec>https://laec.fr/s74m3</aec>
       <aec>https://laec.fr/s27m1</aec>
       <aec>https://laec.fr/s27m2</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-JLM-30-EDUCATION.pdf">Ouvrir un lycée professionnel maritime dans chaque département littoral</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-JLM-30-EDUCATION.pdf">Supprimer les aides à l’apprentissage de manière à développer la formation professionnelle sous statut scolaire</aec>
     </aec>
   </categorie>
 
@@ -175,6 +180,13 @@ Tout d'abord, la suppression du RSI et la réintégration des bénéficiaires da
 Cette mesure est dans la continuité de sa politique pour les indépendants, lesquels sont moins protégés contre les aléas de la vie, personnels et professionnels. La facilitation du passage en microentreprise risque de faire grimper le nombre d'indépendants en situation de salariat déguisé, tout en complexifiant le recrutement du fait de la nature du régime de microentreprise. La concurrence déloyale qu'il prétend donc effacer **restera** donc bien présente et risque de se faire au détriment des micro-entrepreneurs qui pourraient devenir encore plus dépendants des autres entreprises (ce qu'on observe déjà avec le RSI). A nouveau, cela risque de diminuer toujours plus les recettes de l'Etat.<br/>
 La mesure détaillée sur le programme complet indique une volonté de "transformer le CICE en allègement permanent de cotisations sociales de 6 points", ce qui revient à une baisse des cotisations patronales, forcément au détriment des cotisations des salariés. Une mesure finalement très coûteuse pour l'Etat.
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s26m5</aec>
+        <aec>https://laec.fr/s21m3</aec>
+        <aec>https://laec.fr/s21m6</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-Uberisation_vdef.pdf">Renverser la présomption d’indépendance au profit d’une présomption de salariat. (...) Tout·e travailleur·euse réalisant sa prestation de travail dans une situation de dépendance économique (par exemple avec un client unique, ou sous le contrôle d’une plate-forme numérique) doit être présumé·e salarié·e, et ainsi jouir des droits qui s’y rattachent</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Baisse de l'Impôt sur les sociétés à 25%</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -325,6 +337,14 @@ minoritaire par l’État, il servira à financer l’industrie du futur.</mesur
         Cette mesure ne sera pas financée par les dividendes versés à l'État (<a href="http://www.latribune.fr/economie/france/l-etat-et-sa-politique-de-dividendes-faites-ce-que-je-dis-pas-ce-que-je-fais-479589.html">sans doute trop faibles</a>), mais par <a href="http://fr.reuters.com/article/frEuroRpt/idFRL5N1GF27J">la cession de ses parts</a>. Or, même actionnaire minoritaire, l'État est capable de peser dans le contrôle des entreprises, comme ce fut le cas lors de <a href="http://www.lemonde.fr/economie/article/2015/04/08/droit-de-vote-double-qu-est-ce-que-c-est-pourquoi-c-est-conteste_4611453_3234.html">la mise en place du vote double chez Renault</a>. Ainsi, conserver ses parts permet en outre à l'État d'éviter des dérives spéculatives.<br />
         Enfin, la cession d'actions pour financer de l'investissement peut être jugée douteuse, lorsque même des rendements faibles peuvent être intéressants quand <a href="www.europe1.fr/economie/la-bce-laisse-son-principal-taux-directeur-inchange-a-0-2922101">les taux d'emprunt sont si bas</a>.
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s16m4</aec>
+        <aec>https://laec.fr/s18m1</aec>
+        <aec>https://laec.fr/s18m2</aec>
+        <aec>https://laec.fr/s18m4</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Le Crédit d’impôt recherche (CIR) sera supprimé (...). L’aide publique, s’appuyant notamment sur le pôle public bancaire, sera dirigée exclusivement sur les vrais acteurs de la R&D, et en priorité les PME qui consacrent aujourd'hui énormément de temps et d’argent à la recherche de financements</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Mettre en commun connaissances et brevets qui, grâce aux outils de la planification, deviendront un patrimoine productif collectif</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -372,6 +392,15 @@ Son programme n'évoque pas du tout non plus les problèmes de la bureaucratie e
 <br/>
 La réalité, c’est qu’une telle ambition quand elle n’est pas chiffrée est une déclaration d’intention, sans plus. Il serait plus intéressant à tous les niveaux de capitaliser sur nos compétences en France et se mettre réellement en action pour montrer l'exemple aux autres qu'avec un plan crédible et sérieusement chiffré, on y arrive.<br/>
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s18m1<aec>
+          </aec>https://laec.fr/s18m2</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Porter l’effort de recherche et développement (R&#x26;D) à 3 % du PIB, avec 1,5 % du PIB pour le secteur public en 2022 (doublement du budget de l’Enseignement Superieur et de la Recherche) en cinq ans</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Recrutement d'au moins 5 000 chercheur·euse·s, enseignant·e·s-chercheur·euse·s et personnels techniques en trois ans dans l'Enseignement Supérieur et la Recherche</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression de l'ANR et des structures liées aux Investissements d’Avenir, pour affecter les fonds au CNRS et aux autres EPST (INRA, INSERM, INRIA...)..</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Remise en cause du processus d'autonomie des universités: Abrogation des lois Pécresse, Fioraso et Sauvadet.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression du crédit d’impôt recherche (CIR)</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -403,6 +432,14 @@ Surtout, cette mesure pose un gros problème en matière de respect de la vie pr
 <br/>
 Il s'agit en fait d'ouvrir les données des administrations aux entreprises privées, alors que la <a href="http://www.lemonde.fr/pixels/article/2015/09/26/la-loi-numerique-cible-les-donnees-personnelles_4772884_4408996.html">loi numérique adoptée en 2015, encouragée par E. Macron</a>, avait déjà prévu l'ouverture de ces données au public. Ceci, alors que <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">la protection des données personnelles est déjà fortement remise en cause dans l' europe actuelle</a>...
       </analyse>
+      <aec>
+      <aec>https://laec.fr/s83m1</aec>
+<aec>https://laec.fr/s83m4</aec>
+<aec>https://laec.fr/s83m4</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Evaluation de l’efficacité des solutions techniques utilisées par les services de renseignement par une commission d’enquête parlementaire, et abrogation des mesures inefficaces, disproportionnées ou contre-productives</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Remise en question des pratiques et dispositifs de surveillance de masse sur Internet et les réseaux téléphoniques, inefficaces et liberticides</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Amélioration de la transparence des plateformes pour lutter contre le trafic des données personnelles</aec>
+      </aec>
     </entree>
 
   </categorie>
@@ -551,6 +588,13 @@ Afin que cette proposition ne soit pas inconstitutionnelle, le policier ne pourr
 <br/>
 La création d'un tel pouvoir nécessite un aménagement de la procédure pénale et cela implique donc une loi votée par le Parlement. Cette mesure demeure imprécise, puisque son objectif premier est d'accélérer la mise en oeuvre des astreintes prévues par l'injonction policière, mais cette même injonction doit être réalisée sous le contrôle du juge, ce qui suppose une procédure rigoureuse qui nuirait à l'immédiateté souhaitée initialement.
       </analyse>
+      <aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Renforcement des politiques de prévention en évitant les phénomènes de mises en danger qu’ils soient sociaux, économiques, scolaires ou urbains</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Recrutement dans la police et la gendarmerie de 5 000 agents administratifs, 3000 agents, doublement des effectifs de la police technique et scientifique (2 000 embauches), formation et titularisation d'adjoints de sécurité</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Renforcement du renseignement territorial et humain, remise en cause de la fusion de la DST et des RG</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-justice_web.pdf">Augmentation du budget de la justice en cinq ans (+ 2,5 milliards d’euros en 2017) afin de parvenir en 2022 au niveau des principaux pays de l’Union européenne (UE)</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Légalisation contrôlée et encadrée du cannabis pour désengorger les activités policières</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -603,6 +647,16 @@ Il faut aussi rappeler que le domaine de la cybersécurité s’accompagne aussi
 
 La question des alliances internationales est essentielle dans ce domaine.  Comme le montrent des révélations de 2015, le <a href="http://tempsreel.nouvelobs.com/monde/20150430.OBS8235/espionnage-de-la-france-par-l-allemagne-ce-que-l-on-sait.html">danger peut aussi venir de nos partenaires européens, en particulier les allemands</a>, qui sont très proches des services de renseignement américains. L’autre problème est l’orientation atlantiste de notre diplomatie, en particulier à travers notre appartenance à l’OTAN, qui s’est dotée d’une <a href="http://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/defense-et-securite/cybersecurite/">politique de cyberdéfense depuis 2011</a> et qui a <a href="http://www.lefigaro.fr/flash-eco/2017/03/27/97002-20170327FILWWW00076-l-otan-alloue-3-milliards-aux-satellites-et-a-la-cybersecurite.php?cmtpage=0">récemment investi dans ce domaine</a>. L’Europe de la défense et l’OTAN, deux domaines dans lesquels le programme d’« En Marche » préconise un « renforcement parallèle », qui serait une « garantie d’efficacité » mais aussi un « gage de notre indépendance ». <br />
 </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-num2_vdef.pdf">Formation des personnels aux enjeux de cyber-sécurité et augmentation des moyens de l’Agence nationale de la sécurité des systèmes d’information (Anssi)</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-num2_vdef.pdf">Augmentation des moyens de cyberdéfense du pays</aec>
+          <aec>https://laec.fr/s54m2</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Remise en question des pratiques et dispositifs de surveillance de masse sur Internet et les réseaux téléphoniques</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-num2_vdef.pdf">Mise en place de sanctions automatiques contre les États et entreprises qui surveillent nos élus, citoyens et industries</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Protection des données personnelles de nos citoyens lorsqu'elles sont hébergées à l'étranger</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Aide au chiffrement des données et des correspondances</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Amélioration de la transparence des plateformes pour lutter contre le trafic des données personnelles</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -632,6 +686,13 @@ Sur un thème très voisin, "En Marche" propose aussi de « créer une cellule s
 <br/>
 Enfin, cette cellule placée auprès du président de la République passerait-elle outre l'Etat-major, qui passerait lui-même outre le 1er ministre ? Tout cela est confus.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">.[Renforcement et diversification du renseignement territorial et humain, remise en cause de la fusion de la DST et des RG, recrutement d'analystes et de traducteurs</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Sortie de l’état d’urgence à l’initiative du Parlement et le refus de l’État d’urgence permanent par l’abrogation des dispositions de la loi Urvoas du 3 juin 2016</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Arrêt progressif des opérations « Sentinelle » (type Vigipirate) et le passage à une surveillance ciblée des lieux publics par les effectifs renforcés de la police, la gendarmerie, la garde nationale et non l’armée</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Focalisation du renseignement sur les menaces sécuritaires et économiques hexagonales, et non sur la surveillance des mouvements sociaux</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Restauration de l’indépendance nationale en matière de renseignement, via la fin de la tutelle de fait exercée par les agences anglo-saxonnes, et la défense de l’échange d’information dans les discussions pour constituer une coalition universelle contre Daesh</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -794,6 +855,14 @@ et université de publier ses résultats</engagement> <!-- 6.9 -->
       <analyse tag="info" description="Attention...">
         La publication des résultats engendre une mise en concurrence entre les établissements ou universités comme aux USA. Le risque que cela provoque des "niches universitaires" pour prendre le cas des facultés est évident, c'est à dire des universités qui excellent dans certaines filières et en délaissent d'autres, et en particulier des filières peu professionnalisantes. L'Université serait donc détournée de sa mission académique.<br />
       </analyse>
+      <aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">.[Arrêt du processus d'autonomie des universités : Abrogation des lois Pécresse, Fioraso et Sauvadet</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression du Haut Conseil à l’évaluation (HCERES). Les modalités de l’évaluation des unités seront discutées par concertation entre les différent·e·s acteur·trice·s</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression de l’ANR et des structures liées aux Investissements d’Avenir</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Dissolution des ComUE et démantèlement progressif des Initiatives d’excellence</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Construction de lycées professionnels dotés d’équipements de qualité afin d’augmenter les capacités d’accueil, de garantir un maillage fin de lycées polytechniques sur l’ensemble du territoire et de véritables choix d’orientation aux élèves</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Ouverture d'un lycée professionnel maritime dans chaque département littoral et intégrer des lycées agricoles au ministère de l’EN</aec>
+      </aec>
     </entree>
     <entree>
       <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement> <!-- 6.10 -->
@@ -801,6 +870,10 @@ et université de publier ses résultats</engagement> <!-- 6.9 -->
       <analyse tag="warning" description="">
 Le programme propose la construction de 80&#xA0;000 logements pour les jeunes, 60&#xA0;000 pour les étudiants et 20&#xA0;000 pour les jeunes actifs. Quels types de logements, sociaux, publics, privés&#xA0;? En se basant sur un coût moyen par logement de 180&#xA0;000&#xA0;euros (ce qui est le montant prévu par le programme de la France Insoumise), d'après notre calcul, cette mesure coûterait 10,8 milliards. Nous n’avons pas vu, sauf erreur, un quelconque chiffrage sur ce projet et rien non plus dans les 50 milliards d'investissements prévus.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Le plan d’investissement de début de mandat dégagera 2 Mds € pour rénover les universités et construire des logements étudiants</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">La construction de résidences universitaires occupera une grande place avec pour objectif 15 000 mises en chantier de logements sociaux étudiants par an (contre 6 600 par an entre 2012 et 2016)</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -915,6 +988,15 @@ On peut donc s'étonner de la promesse de donner un « droit à une formation li
 
 Quant aux mineurs, ils sont inscrits dans des établissements scolaires, et il existe des classes pour non francophones <!--(dits « [allophones ](https://fr.wikipedia.org/wiki/Allophone_(sociolinguistique))» )--> destinées aux élèves nouvellement arrivés. Néanmoins, ces classes (dites « UPE2A ») <a href="http://www.sudeducation.org/Pour-une-reelle-prise-en-charge.html">manquent de moyens</a>, et « En Marche » ne prévoit pas de les soutenir.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Lancement un programme ambitieux de maîtrise de la langue française écrite et parlée, intégrant la transmission des principes républicains et l’information sur l’ensemble des droits sociaux</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Augmentation du nombre de classes et les moyens alloués pour les enfants nouvellement arrivés en France</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Renforcement des dispositions de la loi Toubon, notamment en matière (…) d’enseignement en français</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Développement et diversification des moyens de diffusion et de connaissance de la langue française sur tous les supports de communication disponibles : sites Internet dédiés, réseaux sociaux, plateformes collaboratives universitaires</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Développement des Centres internationaux d’études françaises (CIEF) afin d’étendre l’usage du français dans l’enseignement supérieur pour les étudiant·e·s des pays membres de l’OIF</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Renforcement du réseau des instituts et alliances français dans les pays non francophones et planifier des échanges d’étudiant·e·s et de lycéen·ne·s</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Renforcement des établissements d’enseignement français à l’étranger, ainsi que pour le Centre international d’études pédagogiques (CIEP) de Sèvres</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -930,6 +1012,16 @@ Concernant la CNDA, actuellement, le délai de traitement des recours est de <a 
 <br/>
 Réduire à 6 mois le total du délai d'examen semble donc peu réaliste, d'autant que la tendance à l'augmentation du nombre de demandes d'asile devrait se poursuivre. La seule manière de le faire, en l'absence de recrutements, serait d'augmenter le nombre de procédures accélérées et d'écarter un plus grand nombre de demandes (la réforme de 2015 va en partie dans ce sens). Ce qui risque fort de réduire la défense des demandeurs d'asile, qui ont besoin de temps pour constituer les dossiers, demander de l'aide ou recourir à l'aide juridictionnelle. La volonté de reconduire « sans délai » les demandeurs qui ont vu leurs demandes refusées va dans le même sens, alors qu'actuellement ils ont un délai d'un mois pour effectuer un recours.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Rétablir l’unicité de la loi sur le territoire en soumettant l’octroi des titres de séjour à des critères objectifs ne souffrant aucune différence d’interprétation d’une Préfecture à l’autre, en finir avec l’arbitraire préfectoral et les lenteurs administratives</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Rattacher l’Office français de protection des réfugiés et apatrides (Ofpra) au ministère des Affaires étrangères (et non au ministère de l’Intérieur) afin de rétablir un droit d’asile déconnecté des politiques migratoires et d’augmenter son budget de fonctionnement</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Mise en oeuvre d'un accueil digne des migrants avec une répartition sur l’ensemble du territoire européen en mettant fin aux hot spots</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Augmenter le nombre de places en Centre d’accueil pour demandeurs d’asile (Cada)</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Construction des centres d’accueil aux normes internationales sur le modèle de celui de Grande-Synthe, pour proposer aux migrants des conditions dignes</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Rompre avec les directives européennes et abroger les lois successives ayant eu pour objectif de restreindre le droit d’asile en France</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Autoriser les demandeurs d’asile à travailler pendant la période d’attente d’examen de leur dossier</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Construire un programme pour l’aide au retour des réfugiés qui le souhaitent lorsque la situation de leur pays de départ le permet</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1103,6 +1195,16 @@ qui y accèdent doivent être soumises aux mêmes disciplines.</mesure>
 En parallèle, il ne se cache pas de vouloir attirer en France les investisseurs de la <a href="https://fr.wikipedia.org/wiki/Cit%C3%A9_de_Londres#Un_centre_.C3.A9conomique_et_financier%20de%20Londres">« city »</a>, une des principales places financières mondiales. Mais il faut rappeler que la « city » est aussi considérée comme le<a href="http://www.lemonde.fr/evasion-fiscale/article/2013/04/09/premier-paradis-fiscal-au-monde-la-city-beneficie-d-un-solide-reseau-extraterritorial_3156385_4862750.html"> premier paradis fiscal au monde</a>. Pour attirer les investisseurs, E.Macron envisage-t-il de créer un paradis fiscal en plein cœur de la France ? Lors d’un récent voyage à Londres, il s’est en tout cas <a href="http://www.france24.com/fr/20170222-brexit-macron-may-Londres-sortie-hard-dure-union-europenne">permis de fustiger le « système fiscal » français</a>. Face à la menace de retirer le passeport financier à ses entreprises,<a href="http://www.lemonde.fr/europe/article/2017/01/16/brexit-le-chantage-de-londres_5063258_3214.html"> le Royaume-Uni menaçait à son tour de déréglementer encore plus sa fiscalité</a> (!). Au final, le risque serait d’amener une course au dumping fiscal entre les places financières françaises et anglaises, qui plomberait les finances publiques de la France, tout en accentuant sa soumission à la finance…<br />
 D’autant plus qu’ E.Macron déclarait aussi que « si les Britanniques ne veulent plus contribuer et souhaitent juste un traité commercial (…) il faudra formaliser une relation comme celle que l’on a avec le Canada ». Cette relation avec le Canada se fait maintenant à travers le traité de libre-échange <a href="http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/02/15/le-ceta-un-accord-decrie-par-la-plupart-des-candidats-a-la-presidence_1548434"> CETA, qu’ E.Macron soutient</a>, qui comporte de grands dangers en matière de déréglementation fiscale, sociale et <a href="http://www.foodwatch.org/fr/s-informer/topics/traites-ceta-et-tafta/actustraitetransatlantique/tafta-et-ceta-leurope-prete-a-brader-le-principe-de-precaution/">écologique</a>, surtout à travers la mise en place de <a href="http://www.monde-diplomatique.fr/2016/02/BARLOW/54744">tribunaux d’arbitrages</a>, qui permettent à des entreprises d’attaquer des Etats qui auraient adopté des dispositions nuisant à leurs intérêts.
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s50</aec>
+        <aec href="https://laec.fr/chapitre/4/sortir-des-traites-europeens">Sortir des traités européens</aec>
+        <aec>https://laec.fr/s49m1</aec>
+        <aec>https://laec.fr/s51m7</aec>
+        <aec>https://laec.fr/s49m4</aec>
+        <aec>https://laec.fr/s37m3</aec>
+        <aec>https://laec.fr/s37m4</aec>
+        <aec>https://laec.fr/s37m5</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1116,6 +1218,13 @@ Mais cette volonté vise avant tout à « <a href="https://ec.europa.eu/commiss
 <br />
 L'autre grand danger de ce projet concerne la « <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">lutte contre les atteintes aux droits de propriété intellectuelle</a> », avec surtout une « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">obligation de filtrage automatisé</a> » des contenus, comme sur les plateformes de partage de vidéos. Outre l'utilisation de technologies de filtrage automatisées « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">idiotes et binaires</a> », cela rejoint le <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">problème de la généralisation des accords public-privés, pour réguler internet par de puissants acteurs économiques</a>, en leur confiant certaines prérogatives de police ou de justice. La commission européenne a d'ailleurs lancé en juillet 2016 un <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">nouveau partenariat de ce type en matière de cybersécurité</a>, alors que la protection des données personnelles est <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">déja largement mise à mal dans l'UE actuelle</a>, qui a <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">récemment remis en cause</a> le principe de « <a href="https://www.laquadrature.net/fr/elements-pour-la-reforme-du-droit-dauteur-et-des-politiques-culturelles-liees">neutralité du net</a> ». <br />
 </analyse>
+      <aec>
+        <aec>https://laec.fr/s51m7</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Inscription du droit d’accès à Internet dans la Constitution</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Défendre la neutralité du net aux niveaux national, européen et international</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Plan d'investissement des infrastructures pour atteindre un objectif d'accès au Très haut débit sur tout le territoire sous 5 ans et une couverture totale 4G sous 10 ans</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Remise en question des pratiques et dispositifs de surveillance de masse sur Internet et les réseaux téléphoniques, inefficaces et liberticides</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1314,7 +1423,9 @@ l’Allocation Adulte Handicapé (AAH).</engagement> <!-- 9.10 -->
       <analyse tag="warning" description="C'est insuffisant">Actuellement à <a href="http://droit-finances.commentcamarche.net/faq/4843-aah-2017-montant-et-plafonds-de-ressources">808 euros par mois</a>, le montant <i>maximum</i> de l'AAH, même augmenté de 100 euros, resterait sous le <a href="http://www.cbanque.com/actu/59625/1008-euros-par-mois-le-seuil-de-pauvrete-en-france">seuil de pauvreté</a>.</analyse>
     </entree>
     <aec>
-      <aec>https://laec.fr/section/68/pas-d-obstacle-aux-personnes-en-situation-de-handicap</aec>
+      <aec>https://laec.fr/s68m3</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-handicap_v0404.pdf">Revaloriser le taux des pensions d’invalidité dans les mêmes proportions et selon les mêmes modalités</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-handicap_v0404.pdf">Favoriser l’emploi des travailleur·se·s handicapé·e·s aux compétences reconnues</aec>
     </aec>
   </categorie>
 
