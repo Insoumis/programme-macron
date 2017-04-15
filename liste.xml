@@ -795,11 +795,12 @@ et université de publier ses résultats</engagement> <!-- 6.9 -->
         La publication des résultats engendre une mise en concurrence entre les établissements ou universités comme aux USA. Le risque que cela provoque des "niches universitaires" pour prendre le cas des facultés est évident, c'est à dire des universités qui excellent dans certaines filières et en délaissent d'autres, et en particulier des filières peu professionnalisantes. L'Université serait donc détournée de sa mission académique.<br />
       </analyse>
     </entree>
-
     <entree>
       <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement> <!-- 6.10 -->
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="">
+Le programme propose la construction de 80&#xA0;000 logements pour les jeunes, 60&#xA0;000 pour les étudiants et 20&#xA0;000 pour les jeunes actifs. Quels types de logements, sociaux, publics, privés&#xA0;? En se basant sur un coût moyen par logement de 180&#xA0;000&#xA0;euros (ce qui est le montant prévu par le programme de la France Insoumise), d'après notre calcul, cette mesure coûterait 10,8 milliards. Nous n’avons pas vu, sauf erreur, un quelconque chiffrage sur ce projet et rien non plus dans les 50 milliards d'investissements prévus.
+      </analyse>
     </entree>
 
     <entree>
