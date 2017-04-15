@@ -557,7 +557,14 @@ La création d'un tel pouvoir nécessite un aménagement de la procédure pénal
       <engagement>Nous ne tolèrerons plus les incivilités.</engagement> <!-- 5.4 -->
       <mesure>Le harcèlement des femmes, les insultes, la dégradation du mobilier urbain,
 les crachats... Ces incivilités seront punies d’amendes immédiates et dissuasives.</mesure>
-      <analyse tag="danger" description="C'est déjà le cas"></analyse>
+      <analyse tag="warning" description="Méfiance">
+Cette mesure s'inscrit dans la doctrine sécuritaire de la <a href="https://fr.wikipedia.org/wiki/Tol%C3%A9rance_z%C3%A9ro">"tolérance zéro"</a> car elle vise à raccourcir au maximum le délai entre le délit et la sanction, en donnant une réponse systématique à tous les faits pénaux, aussi mineurs soient-ils, comme les crachats.<br/>
+<br/>
+Concernant les crachats, <a href="https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=9A1B29F0AB552155AD3A82F1299CEEE0.tpdjo16v_3?idArticle=LEGIARTI000006880311&cidTexte=LEGITEXT000006074984&dateTexte=20081211">qui sont déjà interdits par la loi</a>, certaines municipalités ont déjà pris des <a href="http://www.20minutes.fr/politique/1446551-20140920-beziers-robert-menard-prend-arrete-anti-crachats">"arrêtés anti-crachats", comme la ville de Béziers et son maire, Robert Ménard</a>, proche du FN. <a href="https://www.service-public.fr/particuliers/vosdroits/F32077">Les insultes peuvent aussi déjà être punies par des contraventions</a>, quand elles sont d'ordre privées.<br/>
+<br/>
+Quant au harcèlement des femmes, hormis des cas évidents, il semble souvent important d'effectuer une enquête judiciaire. On peut dire la même chose concernant la dégradation de mobilier urbain.<br/>
+Si cette mesure permettra de réduire la charge de travail des tribunaux judiciaires, elle augmentera celle des tribunaux administratifs.
+      </analyse>
     </entree>
 
     <entree>
