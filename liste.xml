@@ -151,7 +151,7 @@ et en alternance. Nous ferons converger les contrats existants et impliquerons p
 les branches professionnelles dans la définition des programmes et l’organisation
 des formations.</mesure>
       <analyse tag="warning" description="C'est inquiétant">Le rôle de l'école est d'instruire, d'éveiller et de cultiver les élèves qui sont nos futurs citoyens. Elle n'a pas uniquement vocation à former des travailleurs selon les standards de l'entreprise. Il ne faudrait surtout pas que la voie de l'apprentissage devienne la voie normale. Avec un taux de rupture de contrat élevé (autour de 30%), la précarité de ce type de contrat reste élevée et la situation complexe dans laquelle se trouve ces étudiants-travailleurs est bien souvent lourde à porter avec deux parties qui demandent des comptes et du temps. On peut également noter que la professionnalisation ne s'effectue pas seulement via l'apprentissage déjà aujourd'hui.</analyse>
-    </entree>
+
     <aec>
       <aec>https://laec.fr/s74m1</aec>
       <aec>https://laec.fr/s74m2</aec>
@@ -161,6 +161,7 @@ des formations.</mesure>
       <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-JLM-30-EDUCATION.pdf">Ouvrir un lycée professionnel maritime dans chaque département littoral</aec>
       <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-JLM-30-EDUCATION.pdf">Supprimer les aides à l’apprentissage de manière à développer la formation professionnelle sous statut scolaire</aec>
     </aec>
+      </entree>
   </categorie>
 
 
