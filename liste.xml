@@ -59,6 +59,13 @@ La mesure d'"En Marche" prévoit d'augmenter la prime de 50%. Dans notre exemple
         <aec>https://laec.fr/s30m2</aec>
         <aec>https://laec.fr/s72m1</aec>
         <aec>https://laec.fr/s33m6</aec>
+        <aec href="https://impots.jlm2017.fr/">Baisse des impôts pour les revenus de moins de 4000 euros</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Revaloriser les aides personnelles au logement et supprimer le mois de carence avant la perception des premières APL</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Encadrer véritablement les loyers à la baisse</aec>
+        <aec hre="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Plafonner les loyers dans le secteur HLM pour ne pas dépasser 20 % du revenu des ménages</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Gratuité réelle de l’éducation publique y compris des cantines, du transport (transports collectifs urbains gratuits pour les moins de 18 ans) et des activités périscolaires</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Gratuité des formations universitaires, et les frais scolaires des universités dès la rentrée 2017</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Tarification progressive sur l’eau en pénalisant les mésusages et gaspillages</aec>
       </aec>
 
     </entree>
@@ -116,11 +123,7 @@ Enfin, on peut craindre que ces formations soient détournées pour devenir un c
       <engagement>  Nous serons aux côtés des agriculteurs pour qu’ils 
 vivent de leur travail, plutôt que des aides publiques.</engagement> <!-- 1.6 -->
       <mesure>5 milliards d’euros de notre Plan d’investissement seront consacrés à la modernisation de 
-leurs exploitations. Et 
-nous les aiderons à être payés au prix juste 
-en soutenant 
-les organisations de producteurs dans leurs négociations avec les industriels. Nous nous 
-battrons pour faire évoluer dans ce sens le droit européen de la concurrence.</mesure>
+leurs exploitations. Et nous les aiderons à être payés au prix juste en soutenant les organisations de producteurs dans leurs négociations avec les industriels. Nous nous battrons pour faire évoluer dans ce sens le droit européen de la concurrence.</mesure>
       <analyse tag="warning" description="C'est insuffisant">
 Ce montant de 5 milliards semble assez léger en comparaison des besoins des exploitations, en particulier dans le domaine écologique (<a href="#c12m6">voir 12.6</a>).<br />
 
@@ -148,14 +151,17 @@ et en alternance. Nous ferons converger les contrats existants et impliquerons p
 les branches professionnelles dans la définition des programmes et l’organisation
 des formations.</mesure>
       <analyse tag="warning" description="C'est inquiétant">Le rôle de l'école est d'instruire, d'éveiller et de cultiver les élèves qui sont nos futurs citoyens. Elle n'a pas uniquement vocation à former des travailleurs selon les standards de l'entreprise. Il ne faudrait surtout pas que la voie de l'apprentissage devienne la voie normale. Avec un taux de rupture de contrat élevé (autour de 30%), la précarité de ce type de contrat reste élevée et la situation complexe dans laquelle se trouve ces étudiants-travailleurs est bien souvent lourde à porter avec deux parties qui demandent des comptes et du temps. On peut également noter que la professionnalisation ne s'effectue pas seulement via l'apprentissage déjà aujourd'hui.</analyse>
-    </entree>
+
     <aec>
       <aec>https://laec.fr/s74m1</aec>
       <aec>https://laec.fr/s74m2</aec>
       <aec>https://laec.fr/s74m3</aec>
       <aec>https://laec.fr/s27m1</aec>
       <aec>https://laec.fr/s27m2</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-JLM-30-EDUCATION.pdf">Ouvrir un lycée professionnel maritime dans chaque département littoral</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-JLM-30-EDUCATION.pdf">Supprimer les aides à l’apprentissage de manière à développer la formation professionnelle sous statut scolaire</aec>
     </aec>
+      </entree>
   </categorie>
 
 
@@ -175,6 +181,13 @@ Tout d'abord, la suppression du RSI et la réintégration des bénéficiaires da
 Cette mesure est dans la continuité de sa politique pour les indépendants, lesquels sont moins protégés contre les aléas de la vie, personnels et professionnels. La facilitation du passage en microentreprise risque de faire grimper le nombre d'indépendants en situation de salariat déguisé, tout en complexifiant le recrutement du fait de la nature du régime de microentreprise. La concurrence déloyale qu'il prétend donc effacer **restera** donc bien présente et risque de se faire au détriment des micro-entrepreneurs qui pourraient devenir encore plus dépendants des autres entreprises (ce qu'on observe déjà avec le RSI). A nouveau, cela risque de diminuer toujours plus les recettes de l'Etat.<br/>
 La mesure détaillée sur le programme complet indique une volonté de "transformer le CICE en allègement permanent de cotisations sociales de 6 points", ce qui revient à une baisse des cotisations patronales, forcément au détriment des cotisations des salariés. Une mesure finalement très coûteuse pour l'Etat.
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s26m5</aec>
+        <aec>https://laec.fr/s21m3</aec>
+        <aec>https://laec.fr/s21m6</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-Uberisation_vdef.pdf">Renverser la présomption d’indépendance au profit d’une présomption de salariat. (...) Tout·e travailleur·euse réalisant sa prestation de travail dans une situation de dépendance économique (par exemple avec un client unique, ou sous le contrôle d’une plate-forme numérique) doit être présumé·e salarié·e, et ainsi jouir des droits qui s’y rattachent</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Baisse de l'Impôt sur les sociétés à 25%</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -202,7 +215,12 @@ les employeurs.</engagement> <!-- 2.3 -->
       <mesure>Nous créerons un bonus-malus sur l’assurance-chômage. Les employeurs qui
 entretiennent la précarité en recourant exagérément aux contrats courts paieront
 plus de charges, ceux qui créent des emplois stables en paieront moins.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="méfiance">
+"En Marche" souhaite pénaliser les entreprises qui ont recours à des contrats précaires en augmentant le montant de leur cotisations chômage dans le but de les inciter à limiter cette pratique. A l'inverse, les contrats stables seront récompensés par des baisses de cotisation.
+On peut tout d'abord s’interroger sur les détails de cette mesure : qu'est-ce qu'un contrat précaire selon "En Marche" ? Dans quelle proportion les cotisations seront réduites et/ou augmentées ?
+Mais plus encore, on peut se demander l'efficacité de cette proposition, qui fonctionne par l'incitation financière alors qu'"En Marche" propose de baisser un grand nombre des charges qui pèsent sur les entreprises (<a href="https://en-marche.fr/emmanuel-macron/le-programme/travail-emploi">réduction des cotisations sociales par exemple</a>). Ces dernières auront donc le loisir d'absorber le surplus des cotisations liées à leurs salariés en situation de précarité.
+Enfin il nous semble qu'il y a une incohérence: "En marche" <a href="http://analysons-macron.fr/#c2m5>">souhaite d'un côté élargir le bénéfice des allocations chômages à de nouvelles professions</a>, ce qui mènerait à une hausse des dépenses dans ce domaine. Mais de l'autre, si la mesure dont nous parlons ici atteint son objectif affiché, il y aurait donc plus de contrats stables, et donc plus d'allégements de cotisations. Ce qui pose un problème budgétaire, d'autant plus que le programme d'"En Marche" propose beaucoup d'autres allègements de charges.
+      </analyse>
       <aec>
         <aec>https://laec.fr/s25m1</aec>
         <aec>https://laec.fr/s25m2</aec>
@@ -219,19 +237,11 @@ salaire minimum...) resteront dans la loi. Mais, par exemple, les horaires effec
 ou l’organisation du travail seront négociés au plus près du terrain. Ils seront définis 
 par accord majoritaire ou par référendum d’entreprise sur la base d’un accord.</mesure>
       <analyse tag="danger" description="C'est une très mauvaise idée">
-En clair, « En Marche » se prononce pour le maintien de la loi El Khomri, dite « loi travail », et de son principe central de l'inversion de la hiérarchie des normes. Cet engagement n'apporte donc aucun changement.<br />
-
-« La primauté sera donnée aux accords d'entreprises sur les accords de branche », indique clairement le complément du programme, alors que c'était l'inverse qui était en vigueur avant l'adoption de cette loi, c'est à dire que la loi et les accords de branche primaient sur les accords d'entreprises. Dans la « loi travail », la primauté est accordée d'abord aux accords d'entreprises sur les accords de branches, et aux accords de branches (et d'entreprises) sur la loi. C'est donc une remise en cause de pans entiers de la loi. <br />
-
-En particulier ce sera le cas pour le taux de majoration des heures supplémentaires (<a href="http://www.francetvinfo.fr/economie/emploi/carriere/vie-professionnelle/droit-du-travail/duree-du-travail-heures-sup-licenciements-economiques-ce-que-la-loi-travail-va-changer-pour-vous_1533715.html ">les accords peuvent faire baisser la hausse de la rémunération de ces heures de 25 à 10%</a>). <br />
-
-Cette loi a aussi étendu la possibilité ouverte à l’employeur·euse de négocier un accord d’entreprise imposant l’augmentation du temps de travail sans contrepartie salariale (jusqu'à 46h par semaine), ou la réduction du salaire pour un temps de travail équivalent sans que l’entreprise soit en difficulté économique, cela au nom du « maintien de l'emploi ».
-
-<br />Par ailleurs, cette loi facilite les licenciements boursiers ou économiques, qui se sont multipliés depuis plus de 15 ans.
-
-Autrement dit, les accords d'entreprises ou de branche pourront déroger à la loi, et l'énoncé de cette mesure est particulièrement trompeur.
-
-En réalité, c'est une véritable remise en cause du principe des 35 heures, qui aura pour effet d'accentuer le dumping social entre les entreprises françaises, c'est à dire la course à l'abaissement des droits sociaux des salariés dans les entreprises, notamment sur les salaires.
+En clair, «&#xA0;En Marche&#xA0;» se prononce pour le maintien de la loi El Khomri, dite «&#xA0;loi travail&#xA0;», et de son principe central de l'inversion de la hiérarchie des normes. «&#xA0;La primauté sera donnée aux accords d'entreprises sur les accords de branche&#xA0;», indique le complément du programme. Dans la «&#xA0;loi travail&#xA0;», la primauté est donnée d'abord aux accords d'entreprises sur les accords de branches, et aux accords de branches (et d'entreprises) sur la loi. C'est donc une remise en cause de pans entiers de la loi. Les accords d'entreprises ou de branche pourront déroger à la loi, et l'énoncé de cette mesure est particulièrement trompeur.<br/>
+<br/>
+Surtout, E. Macron a déjà indiqué qu'il voulait une <a href="http://www.20minutes.fr/politique/1940719-20161012-loi-travail-macron-veut-version-beaucoup-plus-radicale">version «beaucoup plus radicale» de cette loi</a>. Alors qu'il déclarait en novembre dernier qu'il <a href="http://www.lemonde.fr/le-club-de-l-economie/article/2016/11/25/emmanuel-macron-en-france-on-confond-liberal-et-conservateur_5037874_4795074.html">ne croyait «&#xA0;pas une seule seconde aux cent jours et à la réforme par ordonnances&#xA0;»</a>, il annonce maintenant qu'il souhaite <a href="http://www.lefigaro.fr/elections/presidentielles/2017/04/10/35003-20170410ARTFIG00288-macron-preconise-les-ordonnances-alors-qu-il-y-etait-oppose-cinq-mois-plus-tot.php">recourir aux ordonnances pour réformer le code du travail</a> au pas de charge. C'est à dire passer outre l'avis du parlement, comme dans la procédure du 49-3. Il faut rappeler que pour adopter la <a href="http://www.lemonde.fr/politique/article/2015/07/09/valls-annonce-un-nouveau-recours-au-49-3-pour-faire-adopter-definitivement-la-loi-macron_4677263_823448.html">loi Macron en 2015, le gouvernement à utilisé le 49-3 à 3 reprises</a>...<br/>
+<br/>
+Il faut rappeler aussi que cette «&#xA0;loi travail&#xA0;» a aussi étendu la possibilité ouverte à l’employeur de négocier un accord d’entreprise imposant l’augmentation du temps de travail sans contrepartie salariale (jusqu'à 46h par semaine), ou la réduction du salaire pour un temps de travail équivalent. Par ailleurs, elle facilite les licenciements boursiers ou économiques, qui se sont multipliés depuis plus de 15 ans. Elle permet aussi de baisser le taux de majoration des heures supplémentaires (de 25 à 10%). En réalité, c'est une véritable remise en cause du principe des 35 heures, qui va accentuer la course à l'abaissement des droits sociaux des salariés dans les entreprises, notamment sur les salaires. Enfin, <a href="https://www.youtube.com/watch?v=VuymUdVHheE">d'après leur projection, deux chercheurs ont conclu que d'ici 4 ans, cette loi fera exploser la précarité et augmenter considérablement le chômage</a>.
       </analyse>
       <aec>
         <aec>https://laec.fr/section/24/abroger-la-loi-el-khomri</aec>
@@ -328,6 +338,14 @@ minoritaire par l’État, il servira à financer l’industrie du futur.</mesur
         Cette mesure ne sera pas financée par les dividendes versés à l'État (<a href="http://www.latribune.fr/economie/france/l-etat-et-sa-politique-de-dividendes-faites-ce-que-je-dis-pas-ce-que-je-fais-479589.html">sans doute trop faibles</a>), mais par <a href="http://fr.reuters.com/article/frEuroRpt/idFRL5N1GF27J">la cession de ses parts</a>. Or, même actionnaire minoritaire, l'État est capable de peser dans le contrôle des entreprises, comme ce fut le cas lors de <a href="http://www.lemonde.fr/economie/article/2015/04/08/droit-de-vote-double-qu-est-ce-que-c-est-pourquoi-c-est-conteste_4611453_3234.html">la mise en place du vote double chez Renault</a>. Ainsi, conserver ses parts permet en outre à l'État d'éviter des dérives spéculatives.<br />
         Enfin, la cession d'actions pour financer de l'investissement peut être jugée douteuse, lorsque même des rendements faibles peuvent être intéressants quand <a href="www.europe1.fr/economie/la-bce-laisse-son-principal-taux-directeur-inchange-a-0-2922101">les taux d'emprunt sont si bas</a>.
       </analyse>
+      <aec>
+        <aec>https://laec.fr/s16m4</aec>
+        <aec>https://laec.fr/s18m1</aec>
+        <aec>https://laec.fr/s18m2</aec>
+        <aec>https://laec.fr/s18m4</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Le Crédit d’impôt recherche (CIR) sera supprimé (...). L’aide publique, s’appuyant notamment sur le pôle public bancaire, sera dirigée exclusivement sur les vrais acteurs de la R&#x26;D, et en priorité les PME qui consacrent aujourd'hui énormément de temps et d’argent à la recherche de financements</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Mettre en commun connaissances et brevets qui, grâce aux outils de la planification, deviendront un patrimoine productif collectif</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -340,10 +358,19 @@ les perturbateurs endocriniens et les pesticides.</engagement> <!-- 3.4 -->
 
 Aussi, E.Macron semble enclin à restreindre le principe de précaution. Face à WWF France, il a déclaré qu’ « <a href="http://www.rtl.fr/actu/politique/notre-dame-des-landes-diesel-les-propositions-d-emmanuel-macron-sur-l-ecologie-7787165108">il faut sortir de cette idée comme quoi cela empêche l’innovation</a> ». Il faut aussi se rappeler qu’il était rapporteur général adjoint de la <a href="http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/084000041.pdf">commission Attali</a>, convoquée par N.Sarkozy en 2007, qui considérait ce principe de précaution comme un « obstacle à la croissance », et qui préconisait de l’abroger.<br />
 
-L’adoption des traités de libre-échange avec le Canada et les USA, CETA et TAFTA, que <a href="http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/02/15/le-ceta-un-accord-decrie-par-la-plupart-des-candidats-a-la-presidence_1548434">E.Macron soutient</a>, <a href="http://www.foodwatch.org/fr/s-informer/topics/traites-ceta-et-tafta/actustraitetransatlantique/tafta-et-ceta-leurope-prete-a-brader-le-principe-de-precaution/">remettent aussi clairement en cause le principe de précaution</a>. Aussi, la mise en place de tribunaux d’arbitrage liée à ces traités <a href="http://www.monde-diplomatique.fr/2016/02/BARLOW/54744">permettrait aussi aux entreprises d’attaquer les Etats qui auraient adopté des réglementations nuisant à leurs intérêts</a>.<br />
+L’adoption des traités de libre-échange, notamment le CETA <a href="http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/02/15/le-ceta-un-accord-decrie-par-la-plupart-des-candidats-a-la-presidence_1548434">que E. Macron soutient</a>, <a href="http://www.foodwatch.org/fr/s-informer/topics/traites-ceta-et-tafta/actustraitetransatlantique/tafta-et-ceta-leurope-prete-a-brader-le-principe-de-precaution/">remettent aussi clairement en cause le principe de précaution</a>. Aussi, la mise en place de <a href="http://www.monde-diplomatique.fr/2016/02/BARLOW/54744">tribunaux d’arbitrages</a>, liée à ces traités permet, avec le CETA, au Canada d'attaquer un Etat de l'UE si la législation de celui-ci ne lui convient pas, et ce pouvoir pourrait être étendu aux entreprises dans le cadre du TAFTA (ou TTIP).<br />
 
 Enfin, l’élimination des pesticides de l’agriculture implique aussi de sortir de <a href="http://analysons-macron.fr/#c12m6">l’agriculture productiviste, que « En Marche » soutient clairement</a>. L’idée exposée dans les détails du programme de réunir un « Grenelle de l’alimentation », débouchant sur « un calendrier prévoyant l’élimination progressive des pesticides », ressemble aussi étrangement au <a href="http://www.sudouest.fr/2016/10/14/interdiction-des-pesticides-ou-en-est-la-loi-en-france-2531448-706.php">« Grenelle de l’environnement » réunit par N.Sarkozy en 2008, qui prévoyait de « diviser par deux l’usage des pesticides d’ici à 2018 »</a>. Mais <a href="http://www.humanite.fr/pesticides-larbre-qui-du-mal-cacher-la-foret-631661"> depuis, l’utilisation de ceux-ci a augmenté</a>.<br />
       </analyse>
+      <aec>
+      <aec>https://laec.fr/s45m2</aec>
+<aec>https://laec.fr/s45m3</aec>
+<aec>https://laec.fr/s67m2</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-planif_vdef-1.pdf">Plan national visant à accompagner l’ensemble des agriculteurs et agricultrices dans la transition écologique de l’agriculture</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Intégration pour tout projet ou proposition de loi, d’un volet santé dans l’étude d’impact préalable</aec>
+<aec>https://laec.fr/s67m2</aec>
+<aec>https://laec.fr/s49m4</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -363,7 +390,27 @@ A ce rythme, tous les logements ne seront rénovés qu'en 2192 ! Il faudra donc 
       <engagement> Nous ferons de la France le leader mondial 
 de la recherche sur la transition environnementale.</engagement> <!-- 3.6 -->
       <mesure>Les spécialistes étrangers bénéficieront de formalités d’accueil accélérées.</mesure>
-      <analyse tag="warning"></analyse>
+      <analyse tag="warning" description="Insuffisant et dangereux">
+Nous avons vu qu'"En Marche" souhaite consacrer 15 milliards à la transition énergétique.<br/>
+<br/>
+Rappelons à ce propos qu'il souhaite fermer <a href="https://fr.wikipedia.org/wiki/Liste_des_centrales_thermiques_%C3%A0_flamme_en_France#Centrales_.C3.A0_charbon">les 4 centrales à charbon encore en activité</a> sur les 5 ans et limiter la part du nucléaire de 75% à 50% d'ici 2025.Il s'agit donc de convertir 3 térawatt de capacité en en énergie renouvelables rien que pour les centrales à charbon. Or Nous savons qu'il faut consacrer plus de 30 milliards par an en moyenne pour faire une transition efficace (selon différents scénarii comme <a href="https://www.negawatt.org/IMG/pdf/synthese_scenario-negawatt_2017-2050.pdf">Negawatt</a>) ou <a href="http://afterres2050.solagro.org/wp-content/uploads/2015/11/Solagro_afterres2050-v2-web.pdf">Afterres</a>). On voit donc à quel point le projet d'"En Marche" n'est pas crédible avec 15 milliards sur 5 ans, ce qui représenterait un investissement de 24 milliards d'ici 2025.<br/>
+<br/>
+Ensuite, nous n’avons pas vu, sauf erreur, de chiffrage du montant qui serait consacré à ce point précis. Par contre, nous lisons qu’il facilitera l’arrivée de spécialistes étrangers sur la question. <a href="http://www.rtl.fr/actu/politique/vid-eo-l-appel-in-english-d-emmanuel-macron-a-l-entrepreneuriat-et-a-la-recherche-7787197617">E. Macron semble penser particulièrement aux Etats-Unis</a>, ce qui risque d'être du favoritisme au détriment des citoyens en réel besoin d’accueil. S'il s'adresse à des pays émergents, ça serait une sorte de discrimination élitiste qui appauvrirait ces pays de leur meilleures ressources intellectuelles, alors que nous avons déjà en France les compétences nécessaires, et qu'il faudrait les développer et les encourager.<br/>
+Le programme d'« En marche » propose aussi de renforcer l'autonomie des universités, alors que <a href="http://analysons-macron.fr/#c6m8">ce processus déjà à l'oeuvre depuis plus d'une décennie est loin d'être positif pour la recherche</a>. Le <a href="http://blog.educpros.fr/guillaume-miquelard-et-paul-francois/2015/11/10/evolution-des-effectifs-a-luniversite-personnels-et-etudiants/">nombre d'ouverture de poste est en forte baisse</a>, et <a href="https://avenirencommun.fr/livret-de-lenseignement-de-recherche/">à peine 30% des laboratoires publics sont financés</a>. A travers les frais d'inscription, <a href="http://analysons-macron.fr/#c6m8">ce sont surtout les étudiants qui compensent le désengagement de l'Etat</a>, tandis que les promesses d'augmentation du budget de la recherche d'« En marche » sont très vagues.<br/>
+<br/>
+Son programme n'évoque pas du tout non plus les problèmes de la bureaucratie et de la mise en concurrence (à travers l'Agence Nationale de la Recherche notamment) dans la recherche, et l'inefficacité de la niche fiscale du Crédit Impôt Recherche (CIR), qui nuisent aussi fortement à ce domaine.<br/>
+<br/>
+La réalité, c’est qu’une telle ambition quand elle n’est pas chiffrée est une déclaration d’intention, sans plus. Il serait plus intéressant à tous les niveaux de capitaliser sur nos compétences en France et se mettre réellement en action pour montrer l'exemple aux autres qu'avec un plan crédible et sérieusement chiffré, on y arrive.<br/>
+      </analyse>
+      <aec>
+        <aec>https://laec.fr/s18m1<aec>
+          </aec>https://laec.fr/s18m2</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Porter l’effort de recherche et développement (R&#x26;D) à 3 % du PIB, avec 1,5 % du PIB pour le secteur public en 2022 (doublement du budget de l’Enseignement Superieur et de la Recherche) en cinq ans</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Recrutement d'au moins 5 000 chercheur·euse·s, enseignant·e·s-chercheur·euse·s et personnels techniques en trois ans dans l'Enseignement Supérieur et la Recherche</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression de l'ANR et des structures liées aux Investissements d’Avenir, pour affecter les fonds au CNRS et aux autres EPST (INRA, INSERM, INRIA...)..</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Remise en cause du processus d'autonomie des universités: Abrogation des lois Pécresse, Fioraso et Sauvadet.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression du crédit d’impôt recherche (CIR)</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -395,6 +442,14 @@ Surtout, cette mesure pose un gros problème en matière de respect de la vie pr
 <br/>
 Il s'agit en fait d'ouvrir les données des administrations aux entreprises privées, alors que la <a href="http://www.lemonde.fr/pixels/article/2015/09/26/la-loi-numerique-cible-les-donnees-personnelles_4772884_4408996.html">loi numérique adoptée en 2015, encouragée par E. Macron</a>, avait déjà prévu l'ouverture de ces données au public. Ceci, alors que <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">la protection des données personnelles est déjà fortement remise en cause dans l' europe actuelle</a>...
       </analyse>
+      <aec>
+      <aec>https://laec.fr/s83m1</aec>
+<aec>https://laec.fr/s83m4</aec>
+<aec>https://laec.fr/s83m4</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Evaluation de l’efficacité des solutions techniques utilisées par les services de renseignement par une commission d’enquête parlementaire, et abrogation des mesures inefficaces, disproportionnées ou contre-productives</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Remise en question des pratiques et dispositifs de surveillance de masse sur Internet et les réseaux téléphoniques, inefficaces et liberticides</aec>
+<aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Amélioration de la transparence des plateformes pour lutter contre le trafic des données personnelles</aec>
+      </aec>
     </entree>
 
   </categorie>
@@ -539,17 +594,31 @@ un nouveau pouvoir.</engagement> <!-- 5.3 -->
       <analyse tag="warning" description="Méfiance">
 Dans le cadre d'un <a href="http://www.justice.gouv.fr/justice-penale-11330/les-decisions-judiciaires-pour-les-mineurs-12123/les-mesures-de-probation-et-les-peines-21093.html">contrôle judiciaire</a>, il est possible d'astreindre la personne mise en examen à plusieurs obligations dont celle de ne pas se rendre dans certains lieux.<br/>
 <br/>
-Afin que cette proposition ne soit pas inconstitutionnelle, le policier ne pourra pas prendre seul ce pouvoir d'injonction. En effet, la mise en oeuvre de ce nouveau pouvoir se fera nécessairement sous le contrôle du juge des libertés et de la détention (JLD) : c'est donc le juge qui décidera ou non d'appliquer cette astreinte aux personnes qui lui seront signalées par la police. <br/>
+Afin que cette proposition ne soit pas inconstitutionnelle, le policier ne pourra pas prendre seul ce pouvoir d'injonction. En effet, la mise en oeuvre de ce nouveau pouvoir se fera nécessairement sous le contrôle du juge des libertés et de la détention (JLD) : c'est donc le juge qui décidera ou non d'appliquer cette astreinte aux personnes qui lui seront signalées par la police.<br/>
 <br/>
 La création d'un tel pouvoir nécessite un aménagement de la procédure pénale et cela implique donc une loi votée par le Parlement. Cette mesure demeure imprécise, puisque son objectif premier est d'accélérer la mise en oeuvre des astreintes prévues par l'injonction policière, mais cette même injonction doit être réalisée sous le contrôle du juge, ce qui suppose une procédure rigoureuse qui nuirait à l'immédiateté souhaitée initialement.
       </analyse>
+      <aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Renforcement des politiques de prévention en évitant les phénomènes de mises en danger qu’ils soient sociaux, économiques, scolaires ou urbains</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Recrutement dans la police et la gendarmerie de 5 000 agents administratifs, 3000 agents, doublement des effectifs de la police technique et scientifique (2 000 embauches), formation et titularisation d'adjoints de sécurité</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Renforcement du renseignement territorial et humain, remise en cause de la fusion de la DST et des RG</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-justice_web.pdf">Augmentation du budget de la justice en cinq ans (+ 2,5 milliards d’euros en 2017) afin de parvenir en 2022 au niveau des principaux pays de l’Union européenne (UE)</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Légalisation contrôlée et encadrée du cannabis pour désengorger les activités policières</aec>
+      </aec>
     </entree>
 
     <entree>
       <engagement>Nous ne tolèrerons plus les incivilités.</engagement> <!-- 5.4 -->
       <mesure>Le harcèlement des femmes, les insultes, la dégradation du mobilier urbain,
 les crachats... Ces incivilités seront punies d’amendes immédiates et dissuasives.</mesure>
-      <analyse tag="danger" description="C'est déjà le cas"></analyse>
+      <analyse tag="warning" description="Méfiance">
+Cette mesure s'inscrit dans la doctrine sécuritaire de la <a href="https://fr.wikipedia.org/wiki/Tol%C3%A9rance_z%C3%A9ro">"tolérance zéro"</a> car elle vise à raccourcir au maximum le délai entre le délit et la sanction, en donnant une réponse systématique à tous les faits pénaux, aussi mineurs soient-ils, comme les crachats.<br/>
+<br/>
+Concernant les crachats, <a href="https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=9A1B29F0AB552155AD3A82F1299CEEE0.tpdjo16v_3?idArticle=LEGIARTI000006880311&#x26;cidTexte=LEGITEXT000006074984&#x26;dateTexte=20081211">qui sont déjà interdits par la loi</a>, certaines municipalités ont déjà pris des <a href="http://www.20minutes.fr/politique/1446551-20140920-beziers-robert-menard-prend-arrete-anti-crachats">"arrêtés anti-crachats", comme la ville de Béziers et son maire, Robert Ménard</a>, proche du FN. <a href="https://www.service-public.fr/particuliers/vosdroits/F32077">Les insultes peuvent aussi déjà être punies par des contraventions</a>, quand elles sont d'ordre privées.<br/>
+<br/>
+Quant au harcèlement des femmes, hormis des cas évidents, il semble souvent important d'effectuer une enquête judiciaire. On peut dire la même chose concernant la dégradation de mobilier urbain.<br/>
+Si cette mesure permettra de réduire la charge de travail des tribunaux judiciaires, elle augmentera celle des tribunaux administratifs.
+      </analyse>
     </entree>
 
     <entree>
@@ -588,6 +657,16 @@ Il faut aussi rappeler que le domaine de la cybersécurité s’accompagne aussi
 
 La question des alliances internationales est essentielle dans ce domaine.  Comme le montrent des révélations de 2015, le <a href="http://tempsreel.nouvelobs.com/monde/20150430.OBS8235/espionnage-de-la-france-par-l-allemagne-ce-que-l-on-sait.html">danger peut aussi venir de nos partenaires européens, en particulier les allemands</a>, qui sont très proches des services de renseignement américains. L’autre problème est l’orientation atlantiste de notre diplomatie, en particulier à travers notre appartenance à l’OTAN, qui s’est dotée d’une <a href="http://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/defense-et-securite/cybersecurite/">politique de cyberdéfense depuis 2011</a> et qui a <a href="http://www.lefigaro.fr/flash-eco/2017/03/27/97002-20170327FILWWW00076-l-otan-alloue-3-milliards-aux-satellites-et-a-la-cybersecurite.php?cmtpage=0">récemment investi dans ce domaine</a>. L’Europe de la défense et l’OTAN, deux domaines dans lesquels le programme d’« En Marche » préconise un « renforcement parallèle », qui serait une « garantie d’efficacité » mais aussi un « gage de notre indépendance ». <br />
 </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-num2_vdef.pdf">Formation des personnels aux enjeux de cyber-sécurité et augmentation des moyens de l’Agence nationale de la sécurité des systèmes d’information (Anssi)</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-num2_vdef.pdf">Augmentation des moyens de cyberdéfense du pays</aec>
+          <aec>https://laec.fr/s54m2</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Remise en question des pratiques et dispositifs de surveillance de masse sur Internet et les réseaux téléphoniques</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-num2_vdef.pdf">Mise en place de sanctions automatiques contre les États et entreprises qui surveillent nos élus, citoyens et industries</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Protection des données personnelles de nos citoyens lorsqu'elles sont hébergées à l'étranger</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Aide au chiffrement des données et des correspondances</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Amélioration de la transparence des plateformes pour lutter contre le trafic des données personnelles</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -617,6 +696,13 @@ Sur un thème très voisin, "En Marche" propose aussi de « créer une cellule s
 <br/>
 Enfin, cette cellule placée auprès du président de la République passerait-elle outre l'Etat-major, qui passerait lui-même outre le 1er ministre ? Tout cela est confus.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Renforcement et diversification du renseignement territorial et humain, remise en cause de la fusion de la DST et des RG, recrutement d'analystes et de traducteurs</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Sortie de l’état d’urgence à l’initiative du Parlement et le refus de l’État d’urgence permanent par l’abrogation des dispositions de la loi Urvoas du 3 juin 2016</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Arrêt progressif des opérations « Sentinelle » (type Vigipirate) et le passage à une surveillance ciblée des lieux publics par les effectifs renforcés de la police, la gendarmerie, la garde nationale et non l’armée</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Focalisation du renseignement sur les menaces sécuritaires et économiques hexagonales, et non sur la surveillance des mouvements sociaux</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Restauration de l’indépendance nationale en matière de renseignement, via la fin de la tutelle de fait exercée par les agences anglo-saxonnes, et la défense de l’échange d’information dans les discussions pour constituer une coalition universelle contre Daesh</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -750,7 +836,7 @@ par un contrôle continu.</mesure>
       <mesure>Elles pourront recruter leurs enseignants et définir leurs formations. Nous ouvrirons
 80 000 places dans les filières professionnalisantes.</mesure>
       <analyse tag="danger" description="C'est déjà un échec">
-        L'autonomie des universités est un processus à l'œuvre depuis une dizaine d'année en France, qui découle du processus de Bologne entamé en 1988 par l'Union Européenne.
+        L'autonomie des universités est un processus à l'œuvre depuis une dizaine d'année en France, qui découle du processus de Bologne entamé en 1998 par l'Union Européenne.
 Elle a commencé avec la <a href="https://fr.wikipedia.org/wiki/Loi_relative_aux_libert%C3%A9s_et_responsabilit%C3%A9s_des_universit%C3%A9s">LRU</a>, dite loi d'autonomie des universités, imposée par Valerie Pécresse en 2007.<br />
 
 Ce processus vise comme son nom l'indique à rendre les universités plus autonomes. En particulier au niveau de ses financements. Plutôt que de dépendre des financements de l'Etat, l'autonomie cherche à les ouvrir à des financements locaux, et surtout privés. C'est en fait un début de privatisation des universités, que « En Marche » cherche à « renforcer ».
@@ -761,7 +847,7 @@ Elle s'accompagne d'un recul de la démocratie au sein des établissements, en p
 
 Dans l'Enseignement Supérieur et la Recherche, les recrutements ont plongé et presque la moitié des salariés sont précaires, tandis qu'à peine 30% des laboratoires publics sont financés, <a href="http://www.collectif-papera.org/spip.php?article1454">ce que la loi Sauvadet de 2012 n'a pas du tout résolu</a>.<br />
 
-Finalement, ce sont surtout les étudiants qui compensent le désengagement de l'Etat, les universités ont vu leurs frais d'inscription fortement augmenter au cours de la dernière décennie, et une flambée de ces frais est déjà programmée: <a href="http://www.sudouest.fr/2015/07/01/bientot-une-forte-hausse-des-frais-d-inscription-a-l-universite-1980933-705.php">Un rapport récent de l'IGF</a> recommandait une multiplication par 5 de leur montant. Ce désengagement amène aussi souvent des <a href="http://www.liberation.fr/societe/2013/12/22/autonomie-ces-universites-a-la-rue-a-cause-de-la-loi-lru_968473">difficultés financières d'universités</a>.<br />
+Finalement, ce sont surtout les étudiants qui compensent le désengagement de l'Etat et les universités ont vu leurs frais d'inscription fortement augmenter au cours de la dernière décennie alors qu'une flambée de ces frais est déjà programmée: <a href="http://www.sudouest.fr/2015/07/01/bientot-une-forte-hausse-des-frais-d-inscription-a-l-universite-1980933-705.php">Un rapport récent de l'IGF</a> recommandait une multiplication par 5 de leur montant. Ce désengagement amène aussi souvent des <a href="http://www.liberation.fr/societe/2013/12/22/autonomie-ces-universites-a-la-rue-a-cause-de-la-loi-lru_968473">difficultés financières d'universités</a>.<br />
 
 
 Pour les « 80 000 places dans les filières professionnalisantes », c'est à dire principalement les licences et masters professionnels, avec le désengagement de l'Etat et la baisse des budgets des universités, on voit mal comment ce serait possible, sauf en poursuivant la logique de privatisation des universités, en augmentant leur ouverture aux financements privés, ou en augmentant encore les frais d'inscription.
@@ -779,12 +865,25 @@ et université de publier ses résultats</engagement> <!-- 6.9 -->
       <analyse tag="info" description="Attention...">
         La publication des résultats engendre une mise en concurrence entre les établissements ou universités comme aux USA. Le risque que cela provoque des "niches universitaires" pour prendre le cas des facultés est évident, c'est à dire des universités qui excellent dans certaines filières et en délaissent d'autres, et en particulier des filières peu professionnalisantes. L'Université serait donc détournée de sa mission académique.<br />
       </analyse>
+      <aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">.[Arrêt du processus d'autonomie des universités : Abrogation des lois Pécresse, Fioraso et Sauvadet</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression du Haut Conseil à l’évaluation (HCERES). Les modalités de l’évaluation des unités seront discutées par concertation entre les différent·e·s acteur·trice·s</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Suppression de l’ANR et des structures liées aux Investissements d’Avenir</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Dissolution des ComUE et démantèlement progressif des Initiatives d’excellence</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Construction de lycées professionnels dotés d’équipements de qualité afin d’augmenter les capacités d’accueil, de garantir un maillage fin de lycées polytechniques sur l’ensemble du territoire et de véritables choix d’orientation aux élèves</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Ouverture d'un lycée professionnel maritime dans chaque département littoral et intégrer des lycées agricoles au ministère de l’EN</aec>
+      </aec>
     </entree>
-
     <entree>
       <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement> <!-- 6.10 -->
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="">
+Le programme propose la construction de 80&#xA0;000 logements pour les jeunes, 60&#xA0;000 pour les étudiants et 20&#xA0;000 pour les jeunes actifs. Quels types de logements, sociaux, publics, privés&#xA0;? En se basant sur un coût moyen par logement de 180&#xA0;000&#xA0;euros (ce qui est le montant prévu par le programme de la France Insoumise), d'après notre calcul, cette mesure coûterait 10,8 milliards. Nous n’avons pas vu, sauf erreur, un quelconque chiffrage sur ce projet et rien non plus dans les 50 milliards d'investissements prévus.
+      </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Le plan d’investissement de début de mandat dégagera 2 Mds € pour rénover les universités et construire des logements étudiants</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">La construction de résidences universitaires occupera une grande place avec pour objectif 15 000 mises en chantier de logements sociaux étudiants par an (contre 6 600 par an entre 2012 et 2016)</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -899,6 +998,15 @@ On peut donc s'étonner de la promesse de donner un « droit à une formation li
 
 Quant aux mineurs, ils sont inscrits dans des établissements scolaires, et il existe des classes pour non francophones <!--(dits « [allophones ](https://fr.wikipedia.org/wiki/Allophone_(sociolinguistique))» )--> destinées aux élèves nouvellement arrivés. Néanmoins, ces classes (dites « UPE2A ») <a href="http://www.sudeducation.org/Pour-une-reelle-prise-en-charge.html">manquent de moyens</a>, et « En Marche » ne prévoit pas de les soutenir.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Lancement un programme ambitieux de maîtrise de la langue française écrite et parlée, intégrant la transmission des principes républicains et l’information sur l’ensemble des droits sociaux</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Augmentation du nombre de classes et les moyens alloués pour les enfants nouvellement arrivés en France</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Renforcement des dispositions de la loi Toubon, notamment en matière (…) d’enseignement en français</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Développement et diversification des moyens de diffusion et de connaissance de la langue française sur tous les supports de communication disponibles : sites Internet dédiés, réseaux sociaux, plateformes collaboratives universitaires</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Développement des Centres internationaux d’études françaises (CIEF) afin d’étendre l’usage du français dans l’enseignement supérieur pour les étudiant·e·s des pays membres de l’OIF</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Renforcement du réseau des instituts et alliances français dans les pays non francophones et planifier des échanges d’étudiant·e·s et de lycéen·ne·s</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-francophonie_vdef.pdf">Renforcement des établissements d’enseignement français à l’étranger, ainsi que pour le Centre international d’études pédagogiques (CIEP) de Sèvres</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -914,6 +1022,16 @@ Concernant la CNDA, actuellement, le délai de traitement des recours est de <a 
 <br/>
 Réduire à 6 mois le total du délai d'examen semble donc peu réaliste, d'autant que la tendance à l'augmentation du nombre de demandes d'asile devrait se poursuivre. La seule manière de le faire, en l'absence de recrutements, serait d'augmenter le nombre de procédures accélérées et d'écarter un plus grand nombre de demandes (la réforme de 2015 va en partie dans ce sens). Ce qui risque fort de réduire la défense des demandeurs d'asile, qui ont besoin de temps pour constituer les dossiers, demander de l'aide ou recourir à l'aide juridictionnelle. La volonté de reconduire « sans délai » les demandeurs qui ont vu leurs demandes refusées va dans le même sens, alors qu'actuellement ils ont un délai d'un mois pour effectuer un recours.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Rétablir l’unicité de la loi sur le territoire en soumettant l’octroi des titres de séjour à des critères objectifs ne souffrant aucune différence d’interprétation d’une Préfecture à l’autre, en finir avec l’arbitraire préfectoral et les lenteurs administratives</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Rattacher l’Office français de protection des réfugiés et apatrides (Ofpra) au ministère des Affaires étrangères (et non au ministère de l’Intérieur) afin de rétablir un droit d’asile déconnecté des politiques migratoires et d’augmenter son budget de fonctionnement</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Mise en oeuvre d'un accueil digne des migrants avec une répartition sur l’ensemble du territoire européen en mettant fin aux hot spots</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Augmenter le nombre de places en Centre d’accueil pour demandeurs d’asile (Cada)</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Construction des centres d’accueil aux normes internationales sur le modèle de celui de Grande-Synthe, pour proposer aux migrants des conditions dignes</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Rompre avec les directives européennes et abroger les lois successives ayant eu pour objectif de restreindre le droit d’asile en France</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Autoriser les demandeurs d’asile à travailler pendant la période d’attente d’examen de leur dossier</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-migrations_vdef.pdf">Construire un programme pour l’aide au retour des réfugiés qui le souhaitent lorsque la situation de leur pays de départ le permet</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -997,7 +1115,7 @@ qui a été sanctionné. La France se montrera exemplaire en ce domaine.</mesure
       <analyse tag="warning" description="">
         Cette déclaration d’intention du programme d’Emmanuel Macron s’inscrit dans la politique européenne de lutte contre la fraude fiscale, démarrée après <a href="http://www.liberation.fr/futurs/2014/11/05/luxleaks-les-avantages-fiscaux-du-luxembourg-denonces_1137297">les révélations du « Luxleaks » en 2014</a>. Au cœur du scandale ? Des accords fiscaux avec les Etats qui permettent aux multinationales d’échapper en partie ou totalement à l’impôt dans les pays européens où elles sont installées. Résultat ? La fraude fiscale en France coûte chaque année entre <a href="http://www.capital.fr/a-la-une/interviews/la-fraude-fiscale-fait-perdre-a-la-france-entre-60-et-100-milliards-d-euros-par-an-1135842">60 et 100 milliards d’euros</a> à l’Etat, <a href="http://www.lefigaro.fr/flash-eco/2017/01/17/97002-20170117FILWWW00081-france-deficit-budgetaire-en-baisse-a-689-milliards-d-euros-en-2016.php">l’équivalent de son déficit budgétaire.</a><br />
 Si de façade la transparence est désormais de mise, dans les faits, <a href="http://ccfd-terresolidaire.org/infos/partage-des-richesses/paradisfiscaux/lutte-contre-l-evasion-5714">les rescrits fiscaux ont été multipliés par trois entre 2013 et 2016</a>. Face à l’augmentation de ces pratiques fiscales agressives, Emmanuel Macron ne précise pas du tout comment il compte mener cette lutte.<br />
-Par ailleurs, E. Macron s’étant prononcé <a href="http://www.lemonde.fr/les-decodeurs/article/2017/02/13/emmanuel-macron-seul-candidat-a-la-presidentielle-ouvertement-favorable-au-ceta_5078997_4355770.html">en faveur du traité de libre-échange CETA</a>, il se pose un problème de taille : les <a href="http://www.monde-diplomatique.fr/2016/02/BARLOW/54744">tribunaux d’arbitrage</a>. Ceux-ci protègent les sociétés étrangères contre toute décision publique (loi, règlement, norme) qui pourrait nuire à leurs investissements. Concernant l’évasion fiscale, une entreprise pourra désormais transférer son capital librement sans qu’un État, à l’inverse, puisse lui demander de partir. De manière générale, cela signifie la fin du contrôle des capitaux, même en cas de crise. Dans un tel contexte, toute politique publique de lutte contre l’évasion fiscale sera vouée à l’échec. La loi des multinationales et des investisseurs se placerait au-dessus des Etats, au détriment des droits sociaux et environnementaux.<br />
+Concernant l’évasion fiscale, une entreprise pourra désormais transférer son capital librement sans qu’un État, à l’inverse, puisse lui demander de partir. De manière générale, cela signifie la fin du contrôle des capitaux, même en cas de crise. Dans un tel contexte, toute politique publique de lutte contre l’évasion fiscale sera vouée à l’échec. La loi des multinationales et des investisseurs se placerait au-dessus des Etats, au détriment des droits sociaux et environnementaux.<br />
 Enfin, il apparaît aujourd’hui une question cruciale pour lutter contre l’évasion fiscale : <a href="https://www.lesechos.fr/06/10/2015/lesechos.fr/021383742289_impots---la-concurrence-fiscale-europeenne-couterait-15-milliards-a-la-france.htm">l’harmonisation fiscale entre les pays de l’Euro</a>. Tant que les membres continueront de mener entre eux une guerre fiscale et fratricide, aucune politique de lutte contre l’exil fiscal ne sera efficace.
       </analyse>
       <aec>
@@ -1011,11 +1129,18 @@ Enfin, il apparaît aujourd’hui une question cruciale pour lutter contre l’�
     <entree>
       <engagement>Nous réserverons l’accès aux marchés publics
 européens aux entreprises</engagement> <!-- 8.3 -->
-      <mesure>qui localisent au moins la moitié
-de leur production en Europe dans le cadre d’un 
-Buy European Act
-.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <mesure>qui localisent au moins la moitié de leur production en Europe dans le cadre d’un Buy European Act.</mesure>
+      <analyse tag="warning" description="C'est peu probable">
+Actuellement, les marchés publics de l'Union Européenne sont très ouverts : <a href="http://www.slate.fr/economie/87259/commerce-exterieur-union-europeenne-protectionnisme">En 2014 l’UE ouvrait 90% de ses besoins à des fournisseurs non européens (contre 32% pour les USA, 28% pour le Japon, 16% pour le Canada...)</a>. L'idée proposée par «&#xA0;En Marche&#xA0;» est très ancienne puisqu'en 1993 déjà, E. Guigou l'évoquait, comme S. Royal en 2007. En 2012, <a href="http://www.lexpress.fr/actualite/politique/buy-european-act-faut-il-copier-les-etats-unis_1376283.html">N. Sarkozy la proposait, sans succès</a>.<br/>
+<br/>
+L'ouverture excessive des marchés publics européens remonte aux années 1990 avec une <a href="http://confrontations.org/la-revue/ttip-la-bataille-de-lacces-aux-marches-publics">très mauvaise négociation</a> de l’<a href="https://fr.wikipedia.org/wiki/Accord_sur_les_march%C3%A9s_publics">Accord sur les Marchés Publics (AMP)</a> avec l'OMC, accord qu'il faudrait remettre en cause. <a href="http://www.slate.fr/economie/87259/commerce-exterieur-union-europeenne-protectionnisme">La loi de réciprocité dans l'accès aux marchés publics adoptée au niveau européen en 2014</a>, et l'adoption du traité de libre-échange avec le Canada (CETA), <a href="http://www.lemonde.fr/les-decodeurs/article/2017/02/13/emmanuel-macron-seul-candidat-a-la-presidentielle-ouvertement-favorable-au-ceta_5078997_4355770.html">que E. Macron soutien</a>, ne visent finalement qu'à amener plus d'ouverture et donc de dérégulation, y compris en matière d'attribution de marchés publics. Le problème vient de l'aversion de l'UE envers toute forme de protectionnisme, et il nous semble enfin qu'il faudrait surtout insister sur le respect de critères écologiques, sociaux et fiscaux pour l'attribution des marchés publics aux entreprises. Un autre grand problème est qu'<a href="http://confrontations.org/la-revue/ttip-la-bataille-de-lacces-aux-marches-publics">au sein de l'UE il y a de grandes différences : Les pays les plus importants sont beaucoup moins ouverts que les autres</a>, et le programme d'«&#xA0;En Marche&#xA0;» ne parle pas du tout d'harmonisation des pays européens dans ce domaine.<br/>
+<br/>
+Un problème de fond est qu'avec les politiques d'austérité, les investissements publics, et donc les marchés publics se réduisent de plus en plus. Or l'investissement public, comme dans le secteur du bâtiment, nécessite peu d'importations. Alors que le programme d'«&#xA0;En Marche&#xA0;» propose «&#xA0;un instrument de contrôle des investissements étrangers en Europe pour préserver nos intérêts et secteurs stratégiques&#xA0;», il faut quand même rappeler qu'en 2015, E. Macron a participé à la <a href="http://www.humanite.fr/le-coup-de-force-de-macron-pour-privatiser-les-aeroports-571715">vente de l'aéroport de Toulouse-Blagnac à un consortium chinois</a>, et qu'en 2016, alors qu'il était ministre de l'économie, <a href="http://www.latribune.fr/economie/france/la-privatisation-des-aeroports-de-nice-et-lyon-est-bouclee-612223.html">l'Etat privatisait les aéroports de Lyon et Nice</a>. Le candidat d'«&#xA0;En Marche&#xA0;» a aussi <a href="https://www.youtube.com/watch?v=dOnGH9v-oIA">autorisé la vente sans condition de la branche énergie d'Alstom</a> (dans laquelle l'Etat était actionnaire minoritaire) à l'entreprise américaine General Electric, alors que A. Montebourg avait bloqué la vente de cette industrie stratégique.
+      </analyse>
+      <aec>
+        <aec href="https://laec.fr/section/51/plan-a-proposer-une-refondation-democratique-sociale-et-ecologique-des-traites-europeens-par-la-renegociation">Plan A : Proposer une refondation démocratique sociale et écologique des traités européens par la renégociation</aec>
+        <aec href="https://laec.fr/section/52/appliquer-un-plan-b-en-cas-d-echec-des-negociations">Plan B : Appliquer une plan B en cas d'écec des négociations</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1068,7 +1193,7 @@ des investissements étrangers en Europe afin de préserver nos secteurs straté
         Un tel travail nous parait nécessaire, cependant il nous parait en totale contradiction avec les positions concrètes d'Emmanuel Macron. Prenons deux exemples :
         <ul>
           <li>Son ministère a fait preuve de <a href="http://www.en-marche.fr/emmanuel-macron/le-programme/industrie">complaisance ou au moins de grande négligence</a> lors de la cession d'Alstom à General Electric, avec des conséquences <a href="http://www.lefigaro.fr/flash-eco/2016/09/07/97002-20160907FILWWW00190-alstom-annonce-la-fermeture-du-site-de-belfort.php">sérieuses</a> sur l'avenir de ce fleuron de l'industrie française.</li>
-          <li>Il prétend "<a href="http://www.en-marche.fr/emmanuel-macron/le-programme/industrie">[défendre] le renforcement des procédures européennes anti-dumping afin de pouvoir agir plus rapidement et de manière plus dissuasive</a>", mais il est <a href="http://www.lemonde.fr/les-decodeurs/article/2017/02/13/emmanuel-macron-seul-candidat-a-la-presidentielle-ouvertement-favorable-au-ceta_5078997_4355770.html">favorable au CETA</a> qui est un accord de libre-échange avec le Canada, qui n'<a href="http://melenchon.fr/2017/02/22/ceta-le-peuple-francais-peut-et-doit-le-bloquer/">a pas ratifié plusieurs conventions</a> de l'<abbr title="Organisation Internationale du Travail">OIT</abbr>, constituant ainsi une situation de dumping social contre nos entreprises.</li>
+          <li>Il prétend "<a href="http://www.en-marche.fr/emmanuel-macron/le-programme/industrie">défendre le renforcement des procédures européennes anti-dumping afin de pouvoir agir plus rapidement et de manière plus dissuasive</a>", mais il est <a href="http://www.lemonde.fr/les-decodeurs/article/2017/02/13/emmanuel-macron-seul-candidat-a-la-presidentielle-ouvertement-favorable-au-ceta_5078997_4355770.html">favorable au CETA</a> qui est un accord de libre-échange avec le Canada, qui n'<a href="http://melenchon.fr/2017/02/22/ceta-le-peuple-francais-peut-et-doit-le-bloquer/">a pas ratifié plusieurs conventions</a> de l'<abbr title="Organisation Internationale du Travail">OIT</abbr>, constituant ainsi une situation de dumping social contre nos entreprises.</li>
         </ul>
       </analyse>
       <aec>
@@ -1085,8 +1210,18 @@ qui y accèdent doivent être soumises aux mêmes disciplines.</mesure>
       <analyse tag="info" description="C'est bien, mais...">
         Cet engagement semble tout à fait logique. D’après ses déclarations, E.Macron, qui pense que la tenue du référendum anglais a été une <a href="http://www.lefigaro.fr/politique/le-scan/2016/06/25/25001-20160625ARTFIG00177-apres-le-brexit-emmanuel-macron-propose-un-nouveau-projet-europeen.php">« erreur »</a>,  <a href="https://leftfootforward.org/2017/02/what-would-a-french-president-macron-mean-for-brexit/">envisage aussi de retirer aux entreprises du Royaume-Uni le « passeport financier »</a>, qui permet à une entreprise de vendre des produits financiers à travers toute l’Union européenne, ce qui semble aussi tout à fait logique.<br />
 En parallèle, il ne se cache pas de vouloir attirer en France les investisseurs de la <a href="https://fr.wikipedia.org/wiki/Cit%C3%A9_de_Londres#Un_centre_.C3.A9conomique_et_financier%20de%20Londres">« city »</a>, une des principales places financières mondiales. Mais il faut rappeler que la « city » est aussi considérée comme le<a href="http://www.lemonde.fr/evasion-fiscale/article/2013/04/09/premier-paradis-fiscal-au-monde-la-city-beneficie-d-un-solide-reseau-extraterritorial_3156385_4862750.html"> premier paradis fiscal au monde</a>. Pour attirer les investisseurs, E.Macron envisage-t-il de créer un paradis fiscal en plein cœur de la France ? Lors d’un récent voyage à Londres, il s’est en tout cas <a href="http://www.france24.com/fr/20170222-brexit-macron-may-Londres-sortie-hard-dure-union-europenne">permis de fustiger le « système fiscal » français</a>. Face à la menace de retirer le passeport financier à ses entreprises,<a href="http://www.lemonde.fr/europe/article/2017/01/16/brexit-le-chantage-de-londres_5063258_3214.html"> le Royaume-Uni menaçait à son tour de déréglementer encore plus sa fiscalité</a> (!). Au final, le risque serait d’amener une course au dumping fiscal entre les places financières françaises et anglaises, qui plomberait les finances publiques de la France, tout en accentuant sa soumission à la finance…<br />
-D’autant plus qu’ E.Macron déclarait aussi que « si les Britanniques ne veulent plus contribuer et souhaitent juste un traité commercial (…) il faudra formaliser une relation comme celle que l’on a avec le Canada ». Cette relation avec le Canada se fait maintenant à travers le traité de libre-échange <a href="http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/02/15/le-ceta-un-accord-decrie-par-la-plupart-des-candidats-a-la-presidence_1548434"> CETA, qu’ E.Macron soutient</a>, qui comporte de grands dangers en matière de déréglementation fiscale, sociale et <a href="http://www.foodwatch.org/fr/s-informer/topics/traites-ceta-et-tafta/actustraitetransatlantique/tafta-et-ceta-leurope-prete-a-brader-le-principe-de-precaution/">écologique</a>, surtout à travers la mise en place de <a href="http://www.monde-diplomatique.fr/2016/02/BARLOW/54744">tribunaux d’arbitrages</a>, qui permettent à des entreprises d’attaquer des Etats qui auraient adopté des dispositions nuisant à leurs intérêts.
+D’autant plus qu’ E.Macron déclarait aussi que « si les Britanniques ne veulent plus contribuer et souhaitent juste un traité commercial (…) il faudra formaliser une relation comme celle que l’on a avec le Canada ». Cette relation avec le Canada se fait maintenant à travers le traité de libre-échange <a href="http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/02/15/le-ceta-un-accord-decrie-par-la-plupart-des-candidats-a-la-presidence_1548434"> CETA, qu’ E.Macron soutient</a>, qui comporte de grands dangers en matière de déréglementation fiscale, sociale et <a href="http://www.foodwatch.org/fr/s-informer/topics/traites-ceta-et-tafta/actustraitetransatlantique/tafta-et-ceta-leurope-prete-a-brader-le-principe-de-precaution/">écologique</a>.
       </analyse>
+      <aec>
+        <aec href="https://laec.fr/s50">Organiser le processus de sortie du Royaume-Uni de l'Union européenne sans esprit de vengeance ou de punition</aec>
+        <aec href="https://laec.fr/chapitre/4/sortir-des-traites-europeens">Sortir des traités européens</aec>
+        <aec>https://laec.fr/s49m1</aec>
+        <aec>https://laec.fr/s51m7</aec>
+        <aec>https://laec.fr/s49m4</aec>
+        <aec>https://laec.fr/s37m3</aec>
+        <aec>https://laec.fr/s37m4</aec>
+        <aec>https://laec.fr/s37m5</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1098,15 +1233,26 @@ des start-ups européennes.</mesure>
 <br />
 Mais cette volonté vise avant tout à « <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">faire tomber les barrières réglementaires</a> », <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">à développer les exportations entre les pays membres, et à amener « de meilleurs services à des prix plus avantageux »</a>. Elle cherche notamment à <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">« promouvoir des services de livraison transfrontalière », en harmonisant les différentes réglementations, comme sur la TVA</a>. On peut s'inquiéter de cette volonté d'exacerbation de la concurrence entre les entreprises, d' « harmonisation » qui se fera sans aucun doute par le bas, et de déréglementation en matière fiscale, mais aussi sociale ou environnementale. <br />
 <br />
-L'autre grand danger de ce projet concerne la « <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">lutte contre les atteintes aux droits de propriété intellectuelle</a> », avec surtout une « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">obligation de filtrage automatisé</a> » des contenus, comme sur les plateformes de partage de vidéos. Outre l'utilisation de technologies de filtrage automatisées « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">idiotes et binaires</a> », cela rejoint le <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">problème de la généralisation des accords public-privés, pour réguler internet par de puissants acteurs économiques</a>, en leur confiant certaines prérogatives de police ou de justice. La commission européenne à d'ailleurs lancé en juillet 2016 un <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">nouveau partenariat dece type en matière de cybersécurité</a>, alors que la protection des données personnelles est <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">déja largement mise à mal dans l'UE actuelle</a>, qui a <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">récemment remis en cause</a> le principe de « <a href="https://www.laquadrature.net/fr/elements-pour-la-reforme-du-droit-dauteur-et-des-politiques-culturelles-liees">neutralité du net</a> ». <br />
+L'autre grand danger de ce projet concerne la « <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">lutte contre les atteintes aux droits de propriété intellectuelle</a> », avec surtout une « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">obligation de filtrage automatisé</a> » des contenus, comme sur les plateformes de partage de vidéos. Outre l'utilisation de technologies de filtrage automatisées « <a href="http://www.numerama.com/politique/194704-droit-dauteur-commission-presente-directive-tres-critiquee.html">idiotes et binaires</a> », cela rejoint le <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">problème de la généralisation des accords public-privés, pour réguler internet par de puissants acteurs économiques</a>, en leur confiant certaines prérogatives de police ou de justice. La commission européenne a d'ailleurs lancé en juillet 2016 un <a href="https://ec.europa.eu/commission/priorities/digital-single-market_fr">nouveau partenariat de ce type en matière de cybersécurité</a>, alors que la protection des données personnelles est <a href="https://www.wsws.org/fr/articles/2013/nov2013/nsax-n05.shtml">déja largement mise à mal dans l'UE actuelle</a>, qui a <a href="https://www.laquadrature.net/fr/la-commission-europeenne-doit-prendre-en-compte-les-droits-fondamentaux-dans-le-domaine-numerique">récemment remis en cause</a> le principe de « <a href="https://www.laquadrature.net/fr/elements-pour-la-reforme-du-droit-dauteur-et-des-politiques-culturelles-liees">neutralité du net</a> ». <br />
 </analyse>
+      <aec>
+        <aec>https://laec.fr/s51m7</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Inscription du droit d’accès à Internet dans la Constitution</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Défendre la neutralité du net aux niveaux national, européen et international</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Plan d'investissement des infrastructures pour atteindre un objectif d'accès au Très haut débit sur tout le territoire sous 5 ans et une couverture totale 4G sous 10 ans</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Remise en question des pratiques et dispositifs de surveillance de masse sur Internet et les réseaux téléphoniques, inefficaces et liberticides</aec>
+      </aec>
     </entree>
 
     <entree>
       <engagement>Nous créerons un marché unique de l’énergie
 en Europe.</engagement> <!-- 8.9 -->
       <mesure>Nous fixerons un prix plancher du carbone dans les pays de l’Union.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="danger" description="Très dangereux">
+Notons pour commencer que cette intention n'est pas détaillée dans le programme d'«&#xA0;En Marche&#xA0;» de sorte qu'il est impossible de comprendre l'intention réelle et ce qui se cache derrière. Rappelons une loi européenne, la <a href="http://www.poursavoir.fr/accueil.php">loi NOME, entrée en vigueur le 1er juillet 2011 et "fortement inspirée" par la Commission Européenne</a>. Cette loi oblige une entreprise (privée comme publique), dans le monde de la concurrence libre et non faussée, à céder une partie de ses atouts à des concurrents, nationaux ou européens, qui produisent peu ou pas du tout d’électricité. Cette loi est également l'expression de l'injonction qui nous est faite par la CE, de vendre / privatiser une partie de nos barrages hydroélectriques. C'est une étape supplémentaire vers la déstructuration complète du secteur électrique, sous le prétexte fallacieux de permettre la sacro-sainte concurrence, qui, dans le domaine de l'électricité, tout le monde le constate désormais, fait augmenter les prix. En effet, <a href="http://www.capital.fr/finances-perso/actualites/la-verite-sur-la-facture-edf-elle-a-augmente-de-plus-de-37-en-10-ans-1138729">ceux-ci ont augmenté</a> puisque quel que soit le prix de rachat, tous les acteurs entrés sur le marché cherchent à faire de la marge par tous les moyens possibles.<br/> 
+<br/>
+Comment pensez-vous que la France, dans un contexte pareil, puisse investir dans des infrastructures, alors que la plupart des recettes sont perçues par des sociétés et des investisseurs privés. Comment allons-nous assurer l'équilibre du réseau électrique dans de telles conditions&#xA0;? Puis il y a la clause de destination, qui consiste à définir un prix différent pour chaque pays d'exportation, alors que l'UE fait habituellement tout pour éliminer les distorsions de concurrence. Si un concurrent potentiel d'EDF vend sur le marché européen et tire bénéfice de l'écart, et si la commission de "régulation" lui imposait de revoir son prix, cette société privée pourrait se retourner contre elle et obtenir (via un tribunal d'arbitrage) gain de cause. Soyons clairs, cette loi, Macron aurait pu la voter.
+      </analyse>
     </entree>
 
     <entree>
@@ -1116,7 +1262,7 @@ en Europe.</engagement> <!-- 8.9 -->
 qui sera ensuite adopté par tous les pays qui le souhaitent. Aucun État membre n’aura 
 le pouvoir de bloquer cette nouvelle étape.</mesure>
       <analyse tag="warning" description="Méfiance">
-        Cette mesure n'existe pas dans le programme détaillé d' « En Marche », ou ne figure seulement que la « mise en place des comités de vigilance associant des représentants d’associations et d’ONG » pour la négociation et l'application des accords commerciaux... A-t-elle déjà été supprimée ?<br />
+        Cette mesure n'existe pas dans le programme détaillé d'«&#xA0;En Marche&#xA0;», ou ne figure seulement que la « mise en place des comités de vigilance associant des représentants d’associations et d’ONG » pour la négociation et l'application des accords commerciaux... A-t-elle déjà été supprimée ?<br />
 
 Quels pouvoirs auraient ces conventions ? Pourquoi l'Union Européenne (UE) et l'Allemagne accepteraient-elles ces conventions et leur « projet », alors que l'UE est de moins en moins démocratique, et que les pouvoirs sont monopolisés par la Commission Européenne ? Un système d'initiatives citoyennes européennes existe déjà, mais il est <a href="http://www.liberation.fr/debats/2017/02/05/en-2017-ecoutez-les-citoyennes-et-les-citoyens-europeens_1546072">largement méprisé par cette la Commission.</a>. Par ailleurs, encore une fois, le déficit démocratique en UE provient majoritairement des traités européens à valeur quasi-constitutionnelle et qui excluent du champ démocratique des choix de politique économique majeurs (voir <a href="#c8m1">8.1</a>).
       </analyse>
@@ -1240,18 +1386,37 @@ Dans ce domaine, la loi El Khomri <a href="#c2m4">soutenue par « En Marche »</
     <entree>
       <engagement>Nous renforcerons le droit à l’oubli pour les personnes 
 ayant été malades.</engagement> <!-- 9.7 -->
-      <mesure>Au moment de souscrire un emprunt ou un contrat
-d’assurance, les malades de cancers et de l’hépatite C n’auront plus à le mentionner
-dès 5 ans après leur rémission (contre 10 ans aujourd’hui). Nous l’étendrons aussi
-à de nouvelles maladies.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <mesure>Au moment de souscrire un emprunt ou un contrat d’assurance, les malades de cancers et de l’hépatite C n’auront plus à le mentionner dès 5 ans après leur rémission (contre 10 ans aujourd’hui). Nous l’étendrons aussi à de nouvelles maladies.</mesure>
+      <analyse tag="warning" description="C'est bien, mais...">
+Comme indiqué, cette mesure se limite aux personnes ayant été atteintes de cancers ou d'hépatite C, le droit à l’oubli étant ramené de 10 à 5 ans. L’intention future étant de l’étendre à d’autres maladies. Signalons également que <a href="http://www.lemonde.fr/sante/article/2015/04/10/le-droit-a-l-oubli-pour-les-malades-du-cancer-adopte_4614125_1651302.html">le 24 mars 2015 a été signé un accord entre l’Etat et les assureurs</a> concernant les cancers et le droit à l’oubli, qui s’applique différemment en fonction de la pathologie et… des assureurs.<br/>
+        <br/>
+Il faut signaler que ce droit à l'oubli est <a href="http://www.aeras-infos.fr/cms/sites/aeras/accueil/aeras-en-pratique/les-points-cles/le-droit-a-loubli.html">déjà de 5 ans pour les personnes ayant été atteintes de cancer avant leurs 18 ans</a>. Aussi, le champs des maladies entrant dans ce dispositif devrait être étendu car <a href="http://www.lemonde.fr/sante/article/2017/02/14/prets-le-droit-a-l-oubli-entre-en-vigueur-pour-les-anciens-malades-du-cancer_5079556_1651302.html">il ne concerne actuellement que les  personnes ayant été atteintes de cancers et de l’hépatite C</a>).<br/>
+        <br/>
+Enfin, il nous semble que le fait de faire payer plus cher leurs emprunts ou leurs assurances à des personnes malades ayant été malades est une discrimination qu'il faut combattre, en responsabilisant les banques et les assurances, et en sortant d'une logique de pure rentabilité pour aller vers moins de discrimination et plus d'humanité.
+      </analyse>
+      <aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-banques_vdef.pdf">Création d'un Pôle public bancaire, qui n’aura pas d’activités spéculatives et sera l’un des acteurs centraux de notre politique de crédit</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-banques_vdef.pdf">Nouvelle « Loi bancaire » qui redéfinira les missions publiques de toutes les banques. Elles seront obligées de prendre en charge une part des clientèles peu « rentables » qui ne seront de la sorte pas uniquement accueillies par le Pôle bancaire public</aec>
+      <aec>https://laec.fr/s6m2</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-antiracisme_vdef.pdf">Création d'un commissariat de l’égalité et de lutte contre les discriminations qui sera notamment doté d’un pouvoir de contrôle, d’alerte, de saisie et de sanction, d’un corps d’inspecteur·trice·s et d’antennes territoriales</aec>
+      </aec>
     </entree>
 
     <entree>
       <engagement>Nous doublerons le nombre de maisons de santé.</engagement> <!-- 9.8 -->
       <mesure>Pour lutter contre les déserts médicaux, ces maisons regrouperont des médecins, des 
 infirmières, des orthophonistes, des kinésithérapeutes, des professionnels du sport...</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Insuffisant">
+Citons ce <a href="http://www.alternatives-economiques.fr/sante-un-diagnostic-partage-remedes-differents/00078056">très bon article d'«&#xA0;Alternatives Economiques&#xA0;»</a> sur les programmes des candidats en matière de santé, au sujet des déserts médicaux&#xA0;: «&#xA0;Le problème n’est pas d’encourager le développement des maisons de santé&#xA0;: c’est déjà le cas aujourd’hui et la tendance continuera. La difficulté est plutôt de trouver une solution pour les territoires où aucun médecin ne veut s’installer, que ce soit en exercice libéral solitaire, en libéral en maison de santé ou en salarié d’un centre de santé municipal.&#xA0;»<br/>
+<br/>
+En effet, certains professionnels n'apprécient pas cette forme d'organisation, et <a href="http://www.jim.fr/medecin/actualites/pro_societe/e-docs/louees_par_tous_les_candidats_les_maisons_de_sante_ne_seraient_pas_la_solution_miracle__164484/document_actu_pro.phtml">les Maisons de Santé Pluridisciplinaires (MSP) ont souvent des problèmes de financement</a>, qui touchent aussi les professionnels qui y exercent. Les collectivités locales devraient aussi participer aux financements, mais le programme d'«&#xA0;En Marche&#xA0;» prévoit la <a href="http://analysons-macron.fr/#c12m1">suppression d'une de leurs principales source de revenu, la taxe d'habitation</a>. Aussi, <a href="http://www.jim.fr/medecin/actualites/pro_societe/e-docs/louees_par_tous_les_candidats_les_maisons_de_sante_ne_seraient_pas_la_solution_miracle__164484/document_actu_pro.phtml">les démarches administratives sont souvent très lourdes</a> pour arriver à créer ces MSP.<br/>
+<br/>
+Ce problème est aussi <a href="http://www.alternatives-economiques.fr/sante-un-diagnostic-partage-remedes-differents/00078056">lié à celui des dépassements d'honoraires</a>&#xA0;: Les médecins qui les pratiquent ne sont pas accessibles à tout le monde. Le programme d'«&#xA0;En marche&#xA0;» ne prévoit rien pour les limiter, et ne prévoit pas non plus de mesures nouvelles pour contraindre les médecins à exercer dans ces déserts médicaux. Le programme d'«&#xA0;En marche&#xA0;» prévoit de relever le numerus clausus, <a href="http://www.alternatives-economiques.fr/sante-un-diagnostic-partage-remedes-differents/00078056">ce qui ne résoudra rien à court terme</a>, et à plus long terme, cela n'incitera pas plus les médecins à exercer dans ces zones.
+      </analyse>
+      <aec>
+        <aec>https://laec.fr/s67m3</aec>
+        <aec>https://laec.fr/s67m4</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1266,7 +1431,7 @@ Il n'y aucun détail de plus concernant cette mesure très floue. Suite à la <a
 Mais le plus gros problème concernant ces travailleurs est leur grande précarité. Suite à la loi de 2016, il sont embauchés pour des CDD d'un an minimum (mais ils peuvent ne pas être reconduits après le 1er mois de période d'essai), qui ne se transforment en CDI que si ils sont reconduits six ans de suite. 
 Comme l'explique <a href="http://leplus.nouvelobs.com/contribution/1517828-auxiliaire-de-vie-scolaire-et-en-cdd-depuis-6-ans-je-suis-une-travailleuse-precaire.html">ce témoignage édifiant</a>, « la grande majorité des AVS » ne travaillent qu'à mi-temps.<br />
 
-La loi 2016 prévoyait qu'en 2021, « <a href="http://www.20minutes.fr/societe/1848519-20160519-contrats-aides-auxiliaires-vie-scolaire-avs-vont-etre-transformes-cdi">ce seront 50.000 professionnels (en équivalents temps-plein) qui seront disponibles</a> ». Avec actuellement environ 1 AESH à temps plein pour 6 élèves handicapés scolarisés, <a href="http://cache.media.education.gouv.fr/file/2013/10/5/2012-162_rapport_244105.pdf">même si tous les élèves handicapés n'ont pas besoin d'un accompagnement</a>, et que ceux qui en ont besoin n'en ont pas forcément besoin à plein temps, c'est le cas de la plupart d'entre eux, et les besoins restent élevés. On imagine alors mal « En Marche » les combler, étant donné la faiblesse des investissements prévus en matière d'éducation. Nous ne savons pas non plus ce que signifie un« emploi stable » pour eux.<br />
+La loi 2016 prévoyait qu'en 2021, « <a href="http://www.20minutes.fr/societe/1848519-20160519-contrats-aides-auxiliaires-vie-scolaire-avs-vont-etre-transformes-cdi">ce seront 50.000 professionnels (en équivalents temps-plein) qui seront disponibles</a> ». Avec actuellement environ 1 AESH à temps plein pour 6 élèves handicapés scolarisés, <a href="http://cache.media.education.gouv.fr/file/2013/10/5/2012-162_rapport_244105.pdf"> même si tous les élèves handicapés n'ont pas besoin d'un accompagnement</a>, et que ceux qui en ont besoin n'en ont pas forcément besoin à plein temps, les besoins restent élevés. On imagine alors mal « En Marche » les combler, étant donné la faiblesse des investissements prévus en matière d'éducation. Nous ne savons pas non plus ce que signifie un« emploi stable » pour eux.<br />
 
 De plus, les AESH ne bénéficient d'aucune formation spécifique, alors qu'ils font face à de nombreux types de maladies différentes qui nécessitent une connaissance préalable et un comportement adapté. <a href="http://blog.francetvinfo.fr/l-instit-humeurs/2016/05/21/handicap-a-lecole-lenvers-du-decor.html">Ceci est aussi vrai pour les enseignants</a>.<br />
 
@@ -1282,10 +1447,12 @@ A cela s'ajoute [des équipements insuffisants concernant l'<a href="http://blog
 l’Allocation Adulte Handicapé (AAH).</engagement> <!-- 9.10 -->
       <mesure></mesure>
       <analyse tag="warning" description="C'est insuffisant">Actuellement à <a href="http://droit-finances.commentcamarche.net/faq/4843-aah-2017-montant-et-plafonds-de-ressources">808 euros par mois</a>, le montant <i>maximum</i> de l'AAH, même augmenté de 100 euros, resterait sous le <a href="http://www.cbanque.com/actu/59625/1008-euros-par-mois-le-seuil-de-pauvrete-en-france">seuil de pauvreté</a>.</analyse>
+      <aec>
+        <aec>https://laec.fr/s68m3</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-handicap_v0404.pdf">Revaloriser le taux des pensions d’invalidité dans les mêmes proportions et selon les mêmes modalités</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-handicap_v0404.pdf">Favoriser l’emploi des travailleur·se·s handicapé·e·s aux compétences reconnues</aec>
+      </aec>
     </entree>
-    <aec>
-      <aec>https://laec.fr/section/68/pas-d-obstacle-aux-personnes-en-situation-de-handicap</aec>
-    </aec>
   </categorie>
 
   <categorie nom="Rendre la vie des français plus facile">
@@ -1301,7 +1468,12 @@ sous peine de perdre une partie de leurs allocations logement et de payer des p�
 Ils pourront demain faire valoir leur droit à l’erreur et ne plus payer de pénalités.</mesure>
       <analyse tag="warning" description="Méfiance">Dans quelles limites ce « droit à l'erreur » sera-t-il accepté ? Y' aura-t-il une limite maximale au montant de ces « erreurs » acceptées ?<br />
 Si le fait de tolérer des erreurs peu importantes paraît louable, il nous semble que le danger de cette mesure est de mettre sur le même plan des erreurs de natures et de gravités différentes. De plus, l'exemple de l'employeur peut faire penser que des fraudes fiscales pourraient être tolérées...
-Enfin, où est la cohérence, quand dans le même programme, le point <a href="#c4m5">4.5</a> nous dit que « la lutte contre la fraude aux prestations sociales sera amplifiée », et que ces fraudes seront durement sanctionnées ?</analyse>
+Enfin, où est la cohérence, quand dans le même programme, le point <a href="#c4m5">4.5</a> nous dit que « la lutte contre la fraude aux prestations sociales sera amplifiée », et que ces fraudes seront durement sanctionnées ?
+      </analyse>
+      <aec>
+        <aec>https://laec.fr/s37m5</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Augmentation les effectifs des services publics comme  Pôle emploi, les départements, les caisses d’allocation familiales ou les centres communaux d’action sociale pour un réel accompagnement des personnes </aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1311,7 +1483,16 @@ concerne la numérisation de l’administration.</engagement> <!-- 10.2 -->
 grise, etc.) devront pouvoir se faire en ligne, sans nécessité de se déplacer. Les horaires
 d’ouverture des services publics seront par ailleurs élargis aux soirées et au samedi
 pour s’adapter aux nouveaux modes de vie des Français.</mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="Méfiance">
+Evidemment, les démarches effectuées en ligne sont une bonne chose tant que la qualité du service ne diminue pas, car cela permet d'augmenter notre responsabilité écologique. Ensuite, à chaque présidentielle, le candidat de droite propose cette mesure d’ouverture plus large des services publics, qui n'est au final jamais mise en place. Mais cela coûte cher et n’est pas adapté au rythme de vie personnel des fonctionnaires, ce qui risque donc de provoquer de nombreuses grèves dans la fonction publique. De plus, certains services publics sont déjà ouverts les samedi et parfois les dimanche, comme les bibliothèques et les bibliothèques universitaires.<br/>
+<br/>
+Cette volonté de numériser l'administration pourrait aussi être un moyen d'affaiblir l'accueil du public en supprimant des postes, ce qui va dans le sens de la volonté d'«&#xA0;En Marche&#xA0;» de <a href="http://www.huffingtonpost.fr/2017/02/23/60-milliards-deconomies-120-000-fonctionnaires-en-moins-macron-programme-economique/">supprimer 120&#xA0;000 postes de fonctionnaires</a>. Ce qui créerait aussi un problème pour les personnes plus âgées qui ne maîtrisent pas forcément l'outil internet, ainsi que pour les personnes qui n'y ont pas accès.<br/>
+<br/>
+Enfin, on voit mal aussi comment il sera possible d'élargir les services publics aux soirs et aux week-ends, avec un nombre moins important de fonctionnaires ..."<br/>
+      </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Soutenir la dématérialisation des services publics, dans une démarche de design pour tou·te·s, tout en maintenant les services physiques de proximité</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1319,7 +1500,14 @@ pour s’adapter aux nouveaux modes de vie des Français.</mesure>
 l’organisation des services de l’État aux besoins
 de chaque région et département.</engagement> <!-- 10.3 -->
       <mesure></mesure>
-      <analyse tag="warning" description=""></analyse>
+      <analyse tag="warning" description="">
+On peut d’abord souligner que le programme propose explicitement de supprimer des départements, qui ne seront donc pas concernés. Ensuite, les préfets suivant les directives Étatiques, il nous semble que cette mesure mènera à une déstructuration des collectivités locales, comme le prévoit le programme long&#xA0;: «&#xA0;Nous donnerons accès aux services publics en développant les maisons de services publics qui regrouperont dans un même lieu (sous-préfectures notamment) tous les services essentiels à la vie quotidienne (poste, prestations sociales, accès à l’emploi...)&#xA0;».<br/>
+De plus, cette volonté de centraliser les services publics nous parait poser un vrai problème en terme de proximité des services publics. <a href="https://fr.wikipedia.org/wiki/Arrondissement_fran%C3%A7ais">Il n'y a en moyenne qu'entre 3 et 4 sous-préfectures par départements</a>. Cette réforme risquerait de poser un vrai problème d'éloignement des services publics pour les personnes vivant en périphérie des sous-préfectures<br/>
+Il nous semble aussi que cette réforme, ainsi que beaucoup d'autres mesures prévues par «&#xA0;En Marche&#xA0;», préparerait le terrain à l'<a href="https://fr.wikipedia.org/wiki/Accord_sur_le_commerce_des_services">Accord sur le Commerce des Services (ACS ou TISA)</a>, <a href="https://wikileaks.org/tisa-financial/press.html">actuellement en cours de négociation au niveau mondial</a> par 50 Etats, dont les pays de l'UE, qui aurait un <a href="http://www.humanite.fr/laccord-top-secret-qui-doit-depecer-les-services-publics-545491">effet dévastateur sur de nombreux services publics</a>...<br/>
+      </analyse>
+      <aec>
+        <aec href="https://laec.fr/section/49/prendre-les-mesures-immediates-et-unilaterales-de-sauvegarde-des-interets-de-la-nation-et-d-application-de-notre-projet">Notre programme n'est pas compatible avec les règles des traités européens qui imposent l'austérité budgetaire, le libre-échange et la destruction des services publics</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -1344,7 +1532,16 @@ en termes de qualité de service
 (ex  : temps d’attente, taux
 de satisfaction, etc.)</engagement> <!-- 10.5 -->
       <mesure></mesure>
-      <analyse tag="danger" description="C'est inefficace et dangereux">Tout le monde veut faire du bon travail. La politique du chiffre, l'accroissement des pressions et des contraintes pour obtenir des résultats, sont donc inefficaces : si les gens pouvaient faire mieux, ils le feraient déjà volontiers. Pire, cela provoque du mal-être, de la souffrance, et entraîne augmente les accidents et <a href="http://www.lemonde.fr/sante/article/2017/02/06/suicide-d-un-infirmier-a-l-hopital-georges-pompidou-a-paris_5075328_1651302.html">suicides</a> sur le lieu de travail. Il y a un problème de moyens humains et matériels, et c'est ce problème qu'il est urgent d'adresser.</analyse>
+      <analyse tag="danger" description="C'est inefficace et dangereux">
+        Tout le monde veut faire du bon travail. La politique du chiffre, l'accroissement des pressions et des contraintes pour obtenir des résultats, sont donc inefficaces : si les gens pouvaient faire mieux, ils le feraient déjà volontiers. Pire, cela provoque du mal-être, de la souffrance, et entraîne augmente les accidents et <a href="http://www.lemonde.fr/sante/article/2017/02/06/suicide-d-un-infirmier-a-l-hopital-georges-pompidou-a-paris_5075328_1651302.html">suicides</a> sur le lieu de travail. Il y a un problème de moyens humains et matériels, et c'est ce problème qu'il est urgent d'adresser.
+      </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Augmentation les effectifs des services publics comme  Pôle emploi, les départements, les caisses d’allocation familiales ou les centres communaux d’action sociale pour un réel accompagnement des personnes</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-emploi_vdef.pdf">Restauration de services publics de qualité, qui exige la recréation de plus de 400 000 emplois publics, en particulier d’enseignant·e·s, de personnels soignants et de garant·e·s de notre sûreté collective, mais aussi le recrutement d’employé·e·s public·que·s ou parapublic·que·s dans le secteur de la petite enfance et dans les maisons de retraite</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-ESR-web_vdef.pdf">Enseignement Supérieur: Suppression du Haut Conseil à l’évaluation (HCERES). Les modalités de l’évaluation des unités seront discutées par concertation entre les différent·e·s acteur·trice·s</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-JLM-30-EDUCATION.pdf">Ecoles : abrogation de la réforme de l’évaluation et pleine maîtrise de l’évaluation en interdisant toute immixtion hiérarchique</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Police et gendarmerie : Amélioration de l’accueil du public par la diminution du temps d’attente pour les dépôts de plainte</aec>
+      </aec>
     </entree>
 
     <entree>
