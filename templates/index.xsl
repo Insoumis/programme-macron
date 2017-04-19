@@ -352,6 +352,7 @@
                       </div>-->
 
                       <p>Des citoyens insoumis proposent une analyse détaillée des <strong>95 mesures</strong> du programme d'En Marche. <a href="pourquoi.html">En savoir plus...</a></p>
+                      <p><a href="/dossier.pdf/">Télécharger le document PDF imprimable</a>.</p>
 
                     <xsl:for-each select="/categories/categorie">
                         <xsl:variable name="chapitre" select="count(preceding-sibling::categorie)+1" />
