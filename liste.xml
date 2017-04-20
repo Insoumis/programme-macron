@@ -890,7 +890,7 @@ et université de publier ses résultats</engagement> <!-- 6.9 -->
     <entree>
       <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement> <!-- 6.10 -->
       <mesure></mesure>
-      <analyse tag="warning" description="">
+      <analyse tag="warning" description="C'est flou">
 Le programme propose la construction de 80&#xA0;000 logements pour les jeunes, 60&#xA0;000 pour les étudiants et 20&#xA0;000 pour les jeunes actifs. Quels types de logements, sociaux, publics, privés&#xA0;? En se basant sur un coût moyen par logement de 180&#xA0;000&#xA0;euros (ce qui est le montant prévu par le programme de la France Insoumise), d'après notre calcul, cette mesure coûterait 10,8 milliards. Nous n’avons pas vu, sauf erreur, un quelconque chiffrage sur ce projet et rien non plus dans les 50 milliards d'investissements prévus.
       </analyse>
       <aec>
@@ -1376,6 +1376,12 @@ A tout cela, s'ajoutent des nouvelles dépenses nécessaires concernant les pers
       </analyse>
       <aec>
         <aec href="https://avenirencommun.fr/le-livret-sante/">Dans le domaine de la santé, les investissements en matière de santé prévus par la France Insoumise s'élèvent à environ 25 milliards, soit 5 fois plus.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">La création d’un corps de médecins généralistes fonctionnaires rémuné-rés pendant leurs études, afin de pallier l'insuffisance de médecins dans cer-taines zones</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Le statut de service public sera réservé aux établissements publics, tandis que les établissements privés à but non lucratif pourront y être associés.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">La sortie du « tout T2A » (tarification à l’activité) et de la politique du chiffrequi met les établissements hospitaliers en situation de conflits d’intérêt avec la Sécurité sociale. La T2A sera réservée aux actes techniques, standardisés et programmés tandis que les spécialités ayant à traiter des maladies chro-niques seront financées par la dotation globale. Enfin, pour les soins palliatifs, il faut revenir au prix de journée.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Le recrutement 62 500 soignants et médecins à l’hôpital afin que les per-sonnels ne soient plus la variable d’ajustement budgétaire.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Le médico-social doit cesser d’être un vide et médical et social servant de variable d’ajustement à ces deux secteurs. Au contraire, la reconnaissance de la spécificité des pratiques professionnelles qui le constituent et le ren-forcement de sa dotation en moyens humains et financiers permettront à ce secteur de relever le défi des maladies chroniques et du vieillissement. Le financement du médico-social sera réalisé à la dotation globale et non à l’activité.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Lors de la fin de vie, la dignité des patients devra être respectée. Le droit à décider de sa propre fin, y compris avec assistance, sera reconnu liberté fondamentale et inscrit dans la ConstitutionNos propositions : une santé accessible, publique.</aec>  
       </aec>
     </entree>
 
