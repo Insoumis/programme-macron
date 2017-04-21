@@ -27,7 +27,7 @@
       <xsl:analyze-string select="." regex="https://laec.fr/section/([0-9]*)/.*">
         <xsl:matching-substring>
           <xsl:variable name="section" select="regex-group(1)" />
-          <li><a  target="_blank"href="{.}"><xsl:value-of select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/@title" /></a>
+          <li><a target="_blank" href="{.}"><xsl:value-of select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/@title" /></a>
             <ul>
               <xsl:for-each select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/measure">
                 <li><xsl:copy-of select="node()" /></li>
