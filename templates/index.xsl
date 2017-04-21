@@ -45,7 +45,7 @@
 
     <xsl:template match="//aec/aec[@href]" priority="2">
       <li>
-        <a target="_blank" href="{./@href}">« <xsl:value-of select="." /> »</a>
+        <a target="_blank" href="{./@href}"><xsl:value-of select="." /></a>
       </li>
     </xsl:template>
 
