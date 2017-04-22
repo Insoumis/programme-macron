@@ -12,7 +12,7 @@
           <xsl:variable name="section" select="regex-group(1)" />
           <xsl:variable name="mesure" select="regex-group(2)" />
           <li>
-            <a href="{.}"><xsl:copy-of select="document(concat('../tmp/laec_s', $section, 'm', $mesure, '.xml'))//measure/node()" /></a>
+            <a target="_blank" href="{.}"><xsl:copy-of select="document(concat('../tmp/laec_s', $section, 'm', $mesure, '.xml'))//measure/node()" /></a>
           </li>
         </xsl:matching-substring>
         <!--<xsl:non-matching-substring>
@@ -27,7 +27,7 @@
       <xsl:analyze-string select="." regex="https://laec.fr/section/([0-9]*)/.*">
         <xsl:matching-substring>
           <xsl:variable name="section" select="regex-group(1)" />
-          <li><a href="{.}"><xsl:value-of select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/@title" /></a>
+          <li><a target="_blank" href="{.}"><xsl:value-of select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/@title" /></a>
             <ul>
               <xsl:for-each select="document(concat('../tmp/laec_s', $section, 'm0.xml'))/measures/measure">
                 <li><xsl:copy-of select="node()" /></li>
@@ -45,13 +45,13 @@
 
     <xsl:template match="//aec/aec[@href]" priority="2">
       <li>
-        <a href="{./@href}">« <xsl:value-of select="." /> »</a>
+        <a target="_blank" href="{./@href}"><xsl:value-of select="." /></a>
       </li>
     </xsl:template>
 
     <xsl:template match="//aec/aec[not(@href)]" priority="1">
       <li>
-        <a href="{.}"><xsl:value-of select="." /></a>
+        <a target="_blank" href="{.}"><xsl:value-of select="." /></a>
       </li>
     </xsl:template>
 

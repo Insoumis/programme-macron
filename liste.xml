@@ -58,7 +58,7 @@ La mesure d'"En Marche" prévoit d'augmenter la prime de 50%. Dans notre exemple
         <aec>https://laec.fr/s30m1</aec>
         <aec>https://laec.fr/s30m2</aec>
         <aec>https://laec.fr/s72m1</aec>
-        <aec>https://laec.fr/s33m6</aec>
+        <aec href="https://laec.fr/section/33/eradiquer-la-pauvrete#mesure-6">Lutter contre le non-recours aux droits sociaux et civiques par la simplification des démarches et des critères, et le retrait de contreparties pour l'attribution du RSA, qui sera de nouveau financé par l'État. Mobiliser les volontaires nationaux pour inscrire ou réinscrire 100 % de la population majeure sur les listes électorales et vérifier ses droits sociaux</aec>
         <aec href="https://impots.jlm2017.fr/">Baisse des impôts pour les revenus de moins de 4000 euros</aec>
         <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Revaloriser les aides personnelles au logement et supprimer le mois de carence avant la perception des premières APL</aec>
         <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-logement_vdef.pdf">Encadrer véritablement les loyers à la baisse</aec>
@@ -275,7 +275,10 @@ et conventionnelles qu’elle doit respecter en fonction de sa situation. Les r�
 fournies en ligne seront valables face à l’administration.</mesure>
       <analyse tag="info" description="Pourquoi pas, mais...">Il faut améliorer l'aide juridique aux PME afin de mieux les protéger et de mieux protéger leurs employés.</analyse>
       <aec>
-        <aec>https://laec.fr/s23m5</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Un service public d’accompagnement des entrepreneurs indépendants et des petites entreprises sera créé, en ciblant en priorité les entreprises de moins de trois ans. Il sera composé d’experts accompagnateurs avec différents pôles de compétences : droit, gestion, ressources humaines, fiscalité, éco-responsabilité, innovation, etc. Il permettra aux entrepreneurs de lever les freins juridiques, commerciaux et administratifs de leurs projets et sera accessible gratuitement à toute personne souhaitant créer, reprendre, ou diriger une petite entreprise.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Soutenir la dématérialisation des services publics, dans une démarche de design pour tou·te·s, tout en maintenant les services physiques de proximité.</aec>
+        <aec href="https://laec.fr/section/21/mobiliser-l-argent-pour-financer-les-petites-et-moyennes-entreprises-et-la-creation-d-emploi#mesure-5">Attribuer une part de responsabilité aux donneurs d'ordre dans l'emploi de sous-traitants, afin de stabiliser le remplissage des carnets de commande, et soulager les sous-traitants de responsabilités auxquels ils ne sont parfois pas à même de répondre seuls.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-droit-travail_vdef.pdf">Suppression de la loi El Khomri: Les travailleur·euse·s des plates-formes seront présumé·e·s salarié·e·s, à l’inverse de ce que prévoit la loi El Khomri. Nous faciliterons la requalification du statut d’auto-entrepreneur·euse en contrat de travail salarié.</aec>
       </aec>
     </entree>
   </categorie>
@@ -323,8 +326,13 @@ Par ailleurs, l'ISF est d'ores et déjà bien affaibli, puisque par exemple des 
         </ul>
       </analyse>
       <aec>
-        <aec>https://laec.fr/s36m3</aec>
         <aec>https://laec.fr/s36m4</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Les entreprises qui réinvestissent en France paieront moins d'impôts, celles qui favorisent la rémunération de leurs actionnaires davantage. A court terme, le taux de l’impôt sur les sociétés sera porté à 25 %</aec>
+        <aec>https://laec.fr/s21m3</aec>
+        <aec>https://laec.fr/s21m1</aec>
+        <aec>https://laec.fr/s21m6</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">Le Crédit d’impôt recherche (CIR) sera supprimé et l’aide publique, s’appuyant notamment sur le pôle public bancaire, sera dirigée exclusivement sur les vrais acteurs de la R&#x26;D, et en priorité les PME qui consacrent aujourd'hui énormément de temps et d’argent à la recherche de financements.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-produire-en-France_vdef.pdf">La contribution additionnelle concernant les versements de dividendes et les rachats d’actions sera doublée, et ce, dans le but d’imposer davantage les entreprises qui privilégient les actionnaires à l’économie réelle. Cela permettra notamment aux PME et aux TPE d’assumer la hausse de masse salariale à la suite de l’augmentation du Smic et de pouvoir anticiper les effets de relance et de hausse des commandes.</aec>
       </aec>
     </entree>
 
@@ -617,6 +625,13 @@ Concernant les crachats, <a href="https://www.legifrance.gouv.fr/affichTexteArti
 Quant au harcèlement des femmes, hormis des cas évidents, il semble souvent important d'effectuer une enquête judiciaire. On peut dire la même chose concernant la dégradation de mobilier urbain.<br/>
 Si cette mesure permettra de réduire la charge de travail des tribunaux judiciaires, elle augmentera celle des tribunaux administratifs.
       </analyse>
+      <aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-justice_web.pdf">Adoption d'une loi de programmation pluriannuelle pour la justice fixant l’objectif d’une nette augmentation du budget en cinq ans (+ 2,5 milliards d’euros ajoutés aux 6,9 milliards du budget prévu en 2017) afin de parvenir en 2022 au niveau des principaux pays de l’Union européenne (UE) en matière de moyens consacrés à la justice</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-justice_web.pdf">Augmentation de moitié des effectifs des services judiciaires afin de parvenir au nombre approprié de magistrats par habitant, en recrutant 18 000 magistrats, greffiers et personnels administratifs</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Fin de la politique du chiffre et suppression des primes aux résultats, notamment de l’indemnité de responsabilité et de performance des commissaires (IRP) et des primes de résultats exceptionnels (PRE). Les montants seront redistribués via une hausse des salaires de façon progressive aux différentes catégories d’agents</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Renforcement des politiques de prévention en évitant les phénomènes de mises en danger qu’ils soient sociaux, économiques, scolaires ou urbains, pour bloquer à la racine les parcours délinquants. La prévention suppose de renforcer les formations des professionnels, leur nombre et leur déploiement sur l’ensemble du territoire</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/01/2-livret-securite.pdf">Refondation de la doctrine du maintien de l’ordre pour favoriser la désescalade et la prévention des actes violents. Nous devons démonter les engrenages de violence de deux camps qui s’affrontent.</aec>
+      </aec>
     </entree>
 
     <entree>
@@ -875,7 +890,7 @@ et université de publier ses résultats</engagement> <!-- 6.9 -->
     <entree>
       <engagement>Nous construirons 80 000 logements pour les jeunes.</engagement> <!-- 6.10 -->
       <mesure></mesure>
-      <analyse tag="warning" description="">
+      <analyse tag="warning" description="C'est flou">
 Le programme propose la construction de 80&#xA0;000 logements pour les jeunes, 60&#xA0;000 pour les étudiants et 20&#xA0;000 pour les jeunes actifs. Quels types de logements, sociaux, publics, privés&#xA0;? En se basant sur un coût moyen par logement de 180&#xA0;000&#xA0;euros (ce qui est le montant prévu par le programme de la France Insoumise), d'après notre calcul, cette mesure coûterait 10,8 milliards. Nous n’avons pas vu, sauf erreur, un quelconque chiffrage sur ce projet et rien non plus dans les 50 milliards d'investissements prévus.
       </analyse>
       <aec>
@@ -1314,7 +1329,12 @@ Le premier organisme « coordonne et évalue les politiques en faveur de la jeun
 
 Et quel sera le budget de cette nouvelle structure ? Quelles associations seront concernées ? Nous n'avons pas plus d'informations sur cette structure, qui nous semble très floue.</analyse>
     <aec>
-      <aec>https://laec.fr/section/14/la-jeunesse-au-service-de-l-interet-general-et-de-la-surete-de-la-nation</aec>
+      <!-- <aec>https://laec.fr/section/14/la-jeunesse-au-service-de-l-interet-general-et-de-la-surete-de-la-nation</aec> -->
+      <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-JLM-11-jeunesse.pdf">Mise en place d'un service citoyen obligatoire de neuf mois rémunéré au smic pour les hommes et les femmes de moins de 25 ans, qui seront affectés à des tâches d’intérêt général, notamment au secours à la population, à la protection et la réparation de l’environnement, et à l'appui à des associations labellisées d’intérêt général.</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">La collectivité proposera un « contrat coopératif » aux personnes en échec provisoire sur le marché du travail. La somme auparavant versée au titre de l’indemnisation chômage le sera désormais par l'Etat, et ces personnes pourront être orientées vers les besoins publics locaux ou les associations agrémentées, et disposeront d’un droit opposable à un contrat rémunéré au salaire minimum.</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/04/Livret-culture_vdef2.pdf">Mettre les associations au coeur de l’action culturelle sur tout le territoire dans l'espace public, et leur donner les moyens financiers adaptés afin de faire reculer les déserts culturels.</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/03/Livret-pauvrete_vdef.pdf">Les associations qui assurent un accueil immédiat et sans condition des personnes en difficulté, seront soutenues.</aec>
+      <aec href="https://avenirencommun.fr/app/uploads/2017/01/5-livret-numerique.pdf">Soutenir les associations de médiation numérique et revaloriser le statut des médiateurs.</aec>
     </aec>
     </entree>
 
@@ -1347,7 +1367,7 @@ médecine de ville et de nos hôpitaux.</mesure>
       <analyse tag="warning" description="C'est très insuffisant">
         5 milliards, c'est une somme très faible pour notre système de santé qui est au bord de l'implosion, comme le montre l'actualité en Guyane  <a href="http://www.francetvinfo.fr/sante/politique-de-sante/guyane-l-hopital-au-bord-de-l-asphyxie_2118747.html">où les hôpitaux sont en grande difficulté dans tous les domaines</a>, et où « il n’y a que 47 médecins généralistes pour 100.000 habitants, contre 106 en métropole », <a href="http://www.allodocteurs.fr/se-soigner/politique-sante/la-guyane-le-plus-grand-desert-medical-de-france_22013.html">27 médecins spécialistes contre 94 en métropole, 28 chirurgiens dentistes contre 57 en France métropolitaine</a>, etc.
 D'une manière générale, c'est plutôt en plusieurs dizaines de milliards que s'évaluent les besoins actuels, même si notre système de santé n'est pas confronté qu'à des problèmes budgétaires.
-L’espérance de vie en bonne santé diminue depuis 2006, les dépassements d'honoraires se multiplient, comme les <a href="https://fr.wikipedia.org/wiki/D%C3%A9sertification_m%C3%A9dicale_(France)">déserts médicaux, surtout dans zones rurales et les banlieues</a>, 
+L’espérance de vie en bonne santé diminue depuis 2006, les dépassements d'honoraires se multiplient, comme les <a href="https://fr.wikipedia.org/wiki/D%C3%A9sertification_m%C3%A9dicale_(France)">déserts médicaux, surtout dans les zones rurales et les banlieues</a>, 
  le nombre de médecins généralistes a diminué de 8,4 % entre
 2007 et 2016. Pendant ce temps, la privatisation du système de soins a progressé, et <a href="https://avenirencommun.fr/le-livret-sante/">en 2015, les firmes pharmaceutiques ont fait 47 milliards de bénéfices</a>...
 Des hôpitaux ferment, des lits sont supprimés... La Tarification à l'activité (« T2A ») mise en place en 2007, qui amène des objectifs de rentabilité et augmente encore le poids des tâches administratives, les baisses de budget, et la réduction de l'objectif national d'assurances maladie (<a href="http://www.liberation.fr/france/2016/11/06/l-hopital-malade-de-sa-logique-financiere_1526631">Ondam</a>), amènent une grave surcharge de travail des personnels, qui a conduit à de nombreuses grèves récentes. <a href="http://www.liberation.fr/france/2017/03/07/le-personnel-de-sante-en-greve-ce-mardi-pour-denoncer-ses-conditions-de-travail_1553821">Grève de l'ensemble des personnels hospitaliers</a>, des infirmiers, 
@@ -1356,6 +1376,12 @@ A tout cela, s'ajoutent des nouvelles dépenses nécessaires concernant les pers
       </analyse>
       <aec>
         <aec href="https://avenirencommun.fr/le-livret-sante/">Dans le domaine de la santé, les investissements en matière de santé prévus par la France Insoumise s'élèvent à environ 25 milliards, soit 5 fois plus.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">La création d’un corps de médecins généralistes fonctionnaires rémuné-rés pendant leurs études, afin de pallier l'insuffisance de médecins dans cer-taines zones</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Le statut de service public sera réservé aux établissements publics, tandis que les établissements privés à but non lucratif pourront y être associés.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">La sortie du « tout T2A » (tarification à l’activité) et de la politique du chiffrequi met les établissements hospitaliers en situation de conflits d’intérêt avec la Sécurité sociale. La T2A sera réservée aux actes techniques, standardisés et programmés tandis que les spécialités ayant à traiter des maladies chro-niques seront financées par la dotation globale. Enfin, pour les soins palliatifs, il faut revenir au prix de journée.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Le recrutement 62 500 soignants et médecins à l’hôpital afin que les per-sonnels ne soient plus la variable d’ajustement budgétaire.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Le médico-social doit cesser d’être un vide et médical et social servant de variable d’ajustement à ces deux secteurs. Au contraire, la reconnaissance de la spécificité des pratiques professionnelles qui le constituent et le ren-forcement de sa dotation en moyens humains et financiers permettront à ce secteur de relever le défi des maladies chroniques et du vieillissement. Le financement du médico-social sera réalisé à la dotation globale et non à l’activité.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2016/12/Livret-22-sante_vdef2.pdf">Lors de la fin de vie, la dignité des patients devra être respectée. Le droit à décider de sa propre fin, y compris avec assistance, sera reconnu liberté fondamentale et inscrit dans la ConstitutionNos propositions : une santé accessible, publique.</aec>  
       </aec>
     </entree>
 
@@ -1500,11 +1526,17 @@ de chaque région et département.</engagement> <!-- 10.3 -->
       <mesure></mesure>
       <analyse tag="danger" description="Contradictoire">
 On peut d’abord souligner que le programme propose explicitement de supprimer des départements, qui ne seront donc pas concernés. Ensuite, les préfets suivent les directives Étatiques, il nous semble que cette mesure mènera à une déstructuration des collectivités locales, comme le prévoit le programme long&#xA0;: «&#xA0;Nous donnerons accès aux services publics en développant les maisons de services publics qui regrouperont dans un même lieu (sous-préfectures notamment) tous les services essentiels à la vie quotidienne (poste, prestations sociales, accès à l’emploi...)&#xA0;».<br/>
-De plus, cette volonté de centraliser les services publics nous parait poser un vrai problème en terme de proximité des services publics. <a href="https://fr.wikipedia.org/wiki/Arrondissement_fran%C3%A7ais">Il n'y a en moyenne qu'entre 3 et 4 sous-préfectures par départements</a>. Cette réforme risquerait de poser un vrai problème d'éloignement des services publics pour les personnes vivant en périphérie des sous-préfectures<br/>
-Il nous semble aussi que cette réforme, ainsi que beaucoup d'autres mesures prévues par «&#xA0;En Marche&#xA0;», préparerait le terrain à l'<a href="https://fr.wikipedia.org/wiki/Accord_sur_le_commerce_des_services">Accord sur le Commerce des Services (ACS ou TISA)</a>, <a href="https://wikileaks.org/tisa-financial/press.html">actuellement en cours de négociation au niveau mondial</a> par 50 Etats, dont les pays de l'UE, qui aurait un <a href="http://www.humanite.fr/laccord-top-secret-qui-doit-depecer-les-services-publics-545491">effet dévastateur sur de nombreux services publics</a>...<br/>
+De plus, cette volonté de centraliser les services publics nous parait poser un vrai problème en terme de proximité des services publics. <a href="https://fr.wikipedia.org/wiki/Arrondissement_fran%C3%A7ais">Il n'y a en moyenne qu'entre 3 et 4 sous-préfectures par départements</a>. Cette réforme risquerait de poser un vrai problème d'éloignement des services publics pour les personnes vivant en périphérie des sous-préfectures.<br/>
+Il nous semble aussi que cette réforme, ainsi que beaucoup d'autres mesures prévues par «&#xA0;En Marche&#xA0;», préparerait le terrain à l'<a href="https://fr.wikipedia.org/wiki/Accord_sur_le_commerce_des_services">Accord sur le Commerce des Services (ACS ou TISA)</a>, <a href="https://wikileaks.org/tisa-financial/press.html">actuellement en cours de négociation au niveau mondial</a> par 50 Etats, dont les pays de l'UE, qui aurait un <a href="http://www.humanite.fr/laccord-top-secret-qui-doit-depecer-les-services-publics-545491">effet dévastateur sur de nombreux services publics.</a>...<br/>
       </analyse>
       <aec>
-        <aec href="https://laec.fr/section/49/prendre-les-mesures-immediates-et-unilaterales-de-sauvegarde-des-interets-de-la-nation-et-d-application-de-notre-projet">Notre programme n'est pas compatible avec les règles des traités européens qui imposent l'austérité budgetaire, le libre-échange et la destruction des services publics</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-ruralite-web_vdef.pdf">Promulguer une loi de justice territoriale visant à enrayer la loi du marché, à permettre l’égalité d’accès des citoyen·ne·s aux services publics et promouvoir la coopération et le développement soutenable et juste de tous les territoires de la République.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-ruralite-web_vdef.pdf">Abroger les lois de l’Acte 3 de la décentralisation (…) pour mettre en place une organisation territoriale autour des communes et des départements.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-ruralite-web_vdef.pdf">Mise en place d'un commissariat à l’aménagement du territoire, doté de moyens d’analyse et de planification.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-ruralite-web_vdef.pdf">Inscrire l’égalité d’accès aux services publics des habitants de tous les territoires de la République sur les missions essentielles de l’État inscrites dans la Constitution : santé, éducation, eau, énergie, transports, communications, accès à la culture et aux services sociaux.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-ruralite-web_vdef.pdf">Moratoire sur les fermetures de services publics et un plan de redéploiement des services publics sur les territoires ruraux et périurbains : services postaux, gares de proximité, hôpitaux et services de santé, écoles, palais de justice.</aec>
+        <aec href="https://avenirencommun.fr/app/uploads/2017/02/Livret-ruralite-web_vdef.pdf">Refuser les baisses de dotations aux collectivités mises en place par le gouvernement Hollande et garantir une dotation à la hauteur des missions transférées aux collectivités. Il sera également mis fin au remplacement des dotations de l’État par des fonds d’investissement (…).</aec>
+        <aec>https://laec.fr/s49m4</aec>
       </aec>
     </entree>
 
