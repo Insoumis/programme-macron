@@ -14,6 +14,7 @@ addons:
     packages:
     - libsaxonb-java
     - default-jre
+    - inkscape
 
 install:
  - "pip install -r requirements.txt"
