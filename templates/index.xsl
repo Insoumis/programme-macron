@@ -454,8 +454,8 @@
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:site" content="@Action_Insoumis" />
                 <meta name="twitter:creator" content="@Action_Insoumis" />
-                <meta name="twitter:description" content="Analyse détaillée, mesure par mesure, du programme de Macron. Par la France Insoumise." />
-                <meta name="twitter:image" content="http://analysons-macron.fr/elements/logo-256x256.png" />
+                <meta name="twitter:description" content="Macron promet : {./engagement}. {./analyse/@description}" />
+                <meta name="twitter:image" content="http://analysons-macron.fr/elements/c{$chapitre_page}m{$element_page}.png" />
 
                 <title>Le programme de Macron expliqué</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
