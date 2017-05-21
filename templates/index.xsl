@@ -364,7 +364,7 @@
                                   <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
                                   <li>
                                       <div id="c{$chapitre}m{$element}" class="subgroup">
-                                          <span class="num"><a href="#c{$chapitre}m{$element}" class="anchor"><xsl:value-of select="$chapitre" />.<xsl:value-of select="$element" /></a></span>
+                                          <span class="num"><a href="c{$chapitre}m{$element}.html" class="anchor"><xsl:value-of select="$chapitre" />.<xsl:value-of select="$element" /></a></span>
                                           <a name="c{$chapitre}m{$element}"></a>
                                           <h3>« <xsl:value-of select="./engagement" />»</h3>
                                           <xsl:if test="./mesure">
@@ -410,7 +410,7 @@
                 </div>
               
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-              <!--<script>
+              <script>
                 $(document).ready(function(){
                   $('body').on('activate.bs.scrollspy', function () {
                       $('section div.subgroup, section h2').css('color', 'gray');
@@ -423,7 +423,7 @@
                       $('div#' + id + ' .aec').css('background-color', '#0098B6');
                   });
                 });
-              </script>-->
+              </script>
             </body>
         </html>
 <xsl:for-each select="/categories/categorie">
@@ -727,7 +727,7 @@
                                   <xsl:variable name="element" select="count(preceding-sibling::entree)+1" />
                                   <li>
                                       <div id="c{$chapitre}m{$element}" class="subgroup">
-                                          <span class="num"><a href="#c{$chapitre}m{$element}" class="anchor"><xsl:value-of select="$chapitre" />.<xsl:value-of select="$element" /></a></span>
+                                          <span class="num"><a href="c{$chapitre}m{$element}.html" class="anchor"><xsl:value-of select="$chapitre" />.<xsl:value-of select="$element" /></a></span>
                                           <a name="c{$chapitre}m{$element}"></a>
                                           <h3>« <xsl:value-of select="./engagement" />»</h3>
                                           <xsl:if test="./mesure">
