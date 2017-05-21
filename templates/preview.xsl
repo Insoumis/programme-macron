@@ -115,26 +115,37 @@
 <text
      transform="translate(106,90.204102)"
      id="text3526"><tspan
-       style="-inkscape-font-specification:'Gill Sans Bold Italic';font-family:'Gill Sans';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-size:30px;fill:#ffffff"
+       style="-inkscape-font-specification:Gill Sans MT Pro Bold Italic';font-family:'Gill Sans MT Pro';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-size:30px;fill:#ffffff"
        id="tspan3594">LA PROMESSE D’EN MARCHE</tspan></text>
 <text
      transform="matrix(1 0 0 1 31.7480469 197.394043)"
      class="st1 st8 st9"
      id="text3562"><tspan
-       style="-inkscape-font-specification:'Gill Sans Italic';font-family:'Gill Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+       style="-inkscape-font-specification:'Gill Sans MT Pro Italic';font-family:'Gill Sans MT Pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
        id="tspan3588">“</tspan></text>
+      
+       
+     <xsl:variable name="size" select="if (string-length(./analyse/@description) > 20) then 35 else 70" />
+     
+
+     <xsl:variable name="textlength" select="$size*string-length(./analyse/@description)+30" />
+     <xsl:variable name="height" select="74.0451355" />
+     <xsl:variable name="x" select="84.7403412 + ((530.9-84.7403412) div (70*10+30)) * $textlength" />
+     <xsl:variable name="lowy" select="359.4546509 - ((359.4546509-343.8742371) div (70*10+30)) * $textlength" />
+     <xsl:variable name="highy" select="$lowy + $height" />
+
 <polygon
      class="st6"
-     points="84.7403412,433.4997559 530.9043579,417.9193726 530.9043579,343.8742371 84.7403412,359.4546509 "
+     points="84.7403412,433.4997559 {$x},{$highy} {$x},{$lowy} 84.7403412,359.4546509 "
      id="polygon3564" /><text
      transform="matrix(0.99939087,-0.03490006,0,1.0006095,0,0)"
      id="text3566"
      x="106.32053"
      y="423.41309"
-     style="font-size:11.99269009px"><tspan
-       style="font-style:italic;font-variant:normal;font-stretch:normal;font-size:70px;font-family:'Gill Sans';word-spacing:0px;fill:#ffffff"
-       id="tspan3630"
-       dx="0 0 0 0 0 0 0 -0.049969543 -9.9939089 0"><xsl:value-of select="upper-case(./analyse/@description)" /></tspan></text>
+     
+       style="font-style:italic; font-variant:normal;font-stretch:normal;letter-spacing: 5%; font-weight: bold; font-size:{$size}px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';word-spacing:0px;fill:#ffffff"
+       
+       dx="0 0 0 0 0 0 0 -0.049969543 -9.9939089 0"><xsl:value-of select="upper-case(./analyse/@description)" /></text>
 <text
      transform="matrix(0.998782 -0.0348788 0 1.6666681 486.2689819 406.4814453)"
      class="st1 st2 st12"
@@ -150,7 +161,7 @@
        id="tspan4434"
        x="106.16722"
        y="472.61539"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.75px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans Bold Italic';fill:#e23d21;fill-opacity:1">nos explications sur analysons-macron.fr</tspan></text>
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.75px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';fill:#e23d21;fill-opacity:1">nos explications sur analysons-macron.fr</tspan></text>
 <flowRoot
      xml:space="preserve"
      id="flowRoot4154"
@@ -163,7 +174,12 @@
          y="119.12263"
          style="writing-mode:lr;" /></flowRegion><flowPara
        id="flowPara4160"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:103.99999619%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans Bold Italic';writing-mode:lr;fill:#ffffff"><xsl:value-of select="normalize-space(./engagement)" /></flowPara></flowRoot></svg>
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:103.99999619%;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';writing-mode:lr;fill:#ffffff"><xsl:value-of select="normalize-space(./engagement)" /></flowPara></flowRoot>
+
+<use xlink:href="#polygon3564"/>
+<use xlink:href="#text3566"/>
+
+</svg>
 </xsl:result-document>
 </xsl:for-each>
 </xsl:for-each>
