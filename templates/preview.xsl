@@ -117,12 +117,12 @@
      id="text3526"><tspan
        style="-inkscape-font-specification:Gill Sans MT Pro Bold Italic';font-family:'Gill Sans MT Pro';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-size:30px;fill:#ffffff"
        id="tspan3594">LA PROMESSE D’EN MARCHE</tspan></text>
-<text
+<!--<text
      transform="matrix(1 0 0 1 31.7480469 197.394043)"
      class="st1 st8 st9"
      id="text3562"><tspan
        style="-inkscape-font-specification:'Gill Sans MT Pro Italic';font-family:'Gill Sans MT Pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
-       id="tspan3588">“</tspan></text>
+       id="tspan3588">“</tspan></text>-->
       
        
      <xsl:variable name="size" select="if (string-length(./analyse/@description) > 20) then round(1400 div string-length(./analyse/@description)) else 70" />
@@ -183,7 +183,7 @@ x="106.32053"
          y="119.12263"
          style="writing-mode:lr;" /></flowRegion><flowPara
        id="flowPara4160"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:103.99999619%;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';writing-mode:lr;fill:#ffffff"><xsl:value-of select="normalize-space(./engagement)" /></flowPara></flowRoot>
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:103.99999619%;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';writing-mode:lr;fill:#ffffff">“ <xsl:value-of select="normalize-space(./engagement)" /> ”</flowPara></flowRoot>
 
 <use xlink:href="#polygon3564"/>
 <use xlink:href="#text3566"/>
