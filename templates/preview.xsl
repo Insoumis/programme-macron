@@ -143,9 +143,9 @@
      x="106.32053"
      y="423.41309"
      
-       style="font-style:italic; font-variant:normal;font-stretch:normal;letter-spacing: 5%; font-weight: bold; font-size:{$size}px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';word-spacing:0px;fill:#ffffff"
+       style="font-style:italic; font-variant:normal;font-stretch:normal;font-weight: bold; font-size:{$size}px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';word-spacing:0px;fill:#ffffff"
        
-       dx="0 0 0 0 0 0 0 -0.049969543 -9.9939089 0"><xsl:value-of select="upper-case(./analyse/@description)" /></text>
+       ><xsl:value-of select="upper-case(./analyse/@description)" /></text>
 <text
      transform="matrix(0.998782 -0.0348788 0 1.6666681 486.2689819 406.4814453)"
      class="st1 st2 st12"
@@ -161,7 +161,7 @@
        id="tspan4434"
        x="106.16722"
        y="472.61539"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.75px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';fill:#e23d21;fill-opacity:1">nos explications sur analysons-macron.fr</tspan></text>
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.75px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';fill:#e23d21;fill-opacity:1">découvrez pourquoi sur analysons-macron.fr</tspan></text>
 <flowRoot
      xml:space="preserve"
      id="flowRoot4154"
