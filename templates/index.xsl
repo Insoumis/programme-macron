@@ -412,7 +412,7 @@
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
               <script>
                 $(document).ready(function(){
-                  $('body').on('activate.bs.scrollspy', function () {
+                  <!--$('body').on('activate.bs.scrollspy', function () {
                       $('section div.subgroup, section h2').css('color', 'gray');
                       $('.aec').css('background-color', 'gray');
                       var id = $("#side-menu-container li.active > a").last().attr('href').substr(1);
@@ -421,7 +421,7 @@
                       var id = $("#side-menu-container li.active > a").first().attr('href').substr(1);
                       $('#' + id + ' h2').css('color', $('body').css('color'));
                       $('div#' + id + ' .aec').css('background-color', '#0098B6');
-                  });
+                  });-->
                 });
               </script>
             </body>
