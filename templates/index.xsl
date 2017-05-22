@@ -775,7 +775,7 @@
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
               <script>
                 $(document).ready(function(){
-                  location.hash = "#c<xsl:value-of select="$chapitre_page" />m<xsl:value-of select="$element_page" />";
+                  if (!location.hash) location.hash = "#c<xsl:value-of select="$chapitre_page" />m<xsl:value-of select="$element_page" />";
                 });
               </script>
             </body>
