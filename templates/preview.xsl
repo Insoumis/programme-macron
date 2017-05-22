@@ -125,7 +125,7 @@
        id="tspan3588">“</tspan></text>
       
        
-     <xsl:variable name="size" select="if (string-length(./analyse/@description) > 20) then 35 else 70" />
+     <xsl:variable name="size" select="if (string-length(./analyse/@description) > 20) then round(1400 div string-length(./analyse/@description)) else 70" />
      
 
      <xsl:variable name="textlength" select="$size*string-length(./analyse/@description)+30" />
@@ -133,17 +133,26 @@
      <xsl:variable name="x" select="84.7403412 + ((530.9-84.7403412) div (70*10+30)) * $textlength" />
      <xsl:variable name="lowy" select="359.4546509 - ((359.4546509-343.8742371) div (70*10+30)) * $textlength" />
      <xsl:variable name="highy" select="$lowy + $height" />
-
+     <xsl:variable name="midx" select="(84.7403412+$x) div 2.0" />
+     <xsl:variable name="midy" select="($height) + 359.4546509 - ((359.4546509-343.8742371) div (70*10+30)) * ($textlength div 2.0)" />
+<!--
+x="106.32053"
+     y="423.41309"
+-->
 <polygon
      class="st6"
      points="84.7403412,433.4997559 {$x},{$highy} {$x},{$lowy} 84.7403412,359.4546509 "
-     id="polygon3564" /><text
+     id="polygon3564" />
+
+<text
+     width="{$textlength}"
      transform="matrix(0.99939087,-0.03490006,0,1.0006095,0,0)"
      id="text3566"
-     x="106.32053"
-     y="423.41309"
+     text-anchor="middle"
+     x="{$midx}"
+     y="{$midy}"
      
-       style="font-style:italic; font-variant:normal;font-stretch:normal;font-weight: bold; font-size:{$size}px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';word-spacing:0px;fill:#ffffff"
+       style="font-style:italic;text-align:center;font-variant:normal;font-stretch:normal;font-weight: bold; font-size:{$size}px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';word-spacing:0px;fill:#ffffff"
        
        ><xsl:value-of select="upper-case(./analyse/@description)" /></text>
 <text
