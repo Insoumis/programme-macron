@@ -69,13 +69,18 @@
      
      
      
-
+     
+     
 <polygon class="st6"
-            points="84.7403412,433.4997559 723.42094866027397266,411.19631733013698633 723.42094866027397266,337.15118183013698633 84.7403412,359.4546509 "
-            id="polygon3564"/><text transform="matrix(0.99939087,-0.03490006,0,1.0006095,0,0)" id="text3566"
-         x="106.32053"
-         y="423.41309"
-         style="font-style:italic; font-variant:normal;font-stretch:normal;font-weight: bold; font-size:35px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';word-spacing:0px;fill:#ffffff">C'EST INEFFICACE ET DANGEREUX</text>
+            points="84.7403412,433.4997559 953.834909437808219256,403.149994038904109628 953.834909437808219256,329.104858538904109628 84.7403412,359.4546509 "
+            id="polygon3564"/>
+
+<text width="1422" transform="matrix(0.99939087,-0.03490006,0,1.0006095,0,0)"
+         id="text3566"
+         text-anchor="middle"
+         x="519.287625318904109628"
+         y="418.324890219452054814"
+         style="font-style:italic;text-align:center;font-variant:normal;font-stretch:normal;font-weight: bold; font-size:48px;font-family:'Gill Sans MT Pro';-inkscape-font-specification:'Gill Sans MT Pro Bold Italic';word-spacing:0px;fill:#ffffff">C'EST INEFFICACE ET DANGEREUX</text>
 <text transform="matrix(0.998782 -0.0348788 0 1.6666681 486.2689819 406.4814453)"
          class="st1 st2 st12"
          id="text3578"/>
