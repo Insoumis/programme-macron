@@ -397,7 +397,7 @@ A ce rythme, tous les logements ne seront rénovés qu'en 2192 ! Il faudra donc 
       <engagement> Nous ferons de la France le leader mondial 
 de la recherche sur la transition environnementale.</engagement> <!-- 3.6 -->
       <mesure>Les spécialistes étrangers bénéficieront de formalités d’accueil accélérées.</mesure>
-      <analyse tag="warning" description="Insuffisant et dangereux">
+      <analyse tag="warning" description="C'est insuffisant et dangereux">
 Nous avons vu qu'«&#xA0;En Marche&#xA0;» souhaite consacrer 15 milliards à la transition énergétique. Rappelons à ce propos qu'il souhaite fermer <a href="https://fr.wikipedia.org/wiki/Liste_des_centrales_thermiques_%C3%A0_flamme_en_France#Centrales_.C3.A0_charbon">les 4 centrales à charbon encore en activité</a> d'ici 5 ans et limiter la part du nucléaire de 75% à 50% pour 2025. Il s'agit donc de convertir 3 térawatt de capacité en énergie renouvelables rien que pour les centrales à charbon.<br/>
 Or nous savons qu'il faut consacrer plus de 30 milliards par an en moyenne pour faire une transition efficace (selon différents scénarii comme <a href="https://www.negawatt.org/IMG/pdf/synthese_scenario-negawatt_2017-2050.pdf">Negawatt</a> ou <a href="http://afterres2050.solagro.org/wp-content/uploads/2015/11/Solagro_afterres2050-v2-web.pdf">Afterres</a>). On voit donc à quel point les 15 milliards d'«&#xA0;En Marche&#xA0;» sur 5 ans, soit un investissement de 24 milliards d'ici 2025, ne sont pas crédibles.<br/>
 <br/>
@@ -636,7 +636,7 @@ Si cette mesure permettra de réduire la charge de travail des tribunaux judicia
     <entree>
       <engagement>Toute peine prononcée sera exécutée.</engagement> <!-- 5.5 -->
       <mesure></mesure>
-      <analyse tag="warning" description="Dangereux">Cette mesure semble innocente, mais si on l'interprète au pied de la lettre, elle revient à supprimer les <a href="http://www.vie-publique.fr/decouverte-institutions/justice/fonctionnement/administration-penitentiaire/peines-emprisonnement-peuvent-elles-etre-amenagees.html">aménagements de peine</a>, qui donnent de la latitude à la Justice pour suivre et évaluer les décisions de sanction optimales pour chaque individu. <a href="https://criminocorpus.revues.org/2489">Des études montrent</a> que ceci est de fait assez efficace : il y a moins de récidive chez les personnes ayant bénéficié d'aménagement de peine, prouvant sinon leur effet positif, du moins leur bien-fondé.</analyse>
+      <analyse tag="warning" description="C'est une arnaque">Cette mesure semble du bon sens, mais si on l'interprète au pied de la lettre, elle revient à supprimer les <a href="http://www.vie-publique.fr/decouverte-institutions/justice/fonctionnement/administration-penitentiaire/peines-emprisonnement-peuvent-elles-etre-amenagees.html">aménagements de peine</a>, qui donnent de la latitude à la Justice pour suivre et évaluer les décisions de sanction optimales pour chaque individu. <a href="https://criminocorpus.revues.org/2489">Des études montrent</a> que ceci est de fait assez efficace : il y a moins de récidive chez les personnes ayant bénéficié d'aménagement de peine, prouvant sinon leur effet positif, du moins leur bien-fondé. Cela entrainerait de plus une explosion du nombre de détenus. Mais en réalité, ce qui est proposé est de revenir sur l'automaticité de l'examen de l'aménagement des peines pour les condamnations inférieures à 2 ans de prison ferme.</analyse>
       <aec>
         <aec>https://laec.fr/s11m2</aec>
       </aec>
@@ -648,8 +648,8 @@ Si cette mesure permettra de réduire la charge de travail des tribunaux judicia
       <analyse tag="danger" description="C'est une fausse bonne idée">
         Certes, les prisons françaises sont actuellement en sous-capacité d'environ 10.000 places. Cependant, créer 15.000 places supplémentaires est une fausse bonne idée pour trois raisons principales :
         <ul>
-          <li>Selon la proposition <a href="#c4m5">précédente</a>, l'objectif semble être de ne plus effectuer d'aménagements de peine. Dans ce cas, étant donné que <a href="http://www.lemonde.fr/les-decodeurs/article/2016/09/20/surpopulation-carcerale-la-france-a-la-traine-en-europe_5000876_4355770.html">le nombre de peines de prison ferme prononcées en 2014 étant d'environ 120.000 soit le double de la population carcérale actuelle</a>, ceci serait clairement insuffisant pour accueillir les dizaines de milliers de détenus supplémentaires.</li>
-          <li>Depuis 2002, dernière date à laquelle la France n'était pas en surpopulation carcérale, 10.000 places ont été créées. Le problème est donc la nette augmentation du nombre de peines exécutées !</li>
+          <li>Selon la proposition <a href="#c4m5">précédente</a>, l'objectif semble être de réduire fortement les aménagements de peine. Dans ce cas, étant donné que <a href="http://www.lemonde.fr/les-decodeurs/article/2016/09/20/surpopulation-carcerale-la-france-a-la-traine-en-europe_5000876_4355770.html">le nombre de peines de prison ferme prononcées en 2014 étant d'environ 120.000 soit le double de la population carcérale actuelle</a>, ceci serait clairement insuffisant pour accueillir les dizaines de milliers de détenus supplémentaires.</li>
+          <li>Depuis 2002, dernière date à laquelle la France n'était pas en surpopulation carcérale, 10.000 places ont été créées. Le problème est donc d'abord la nette augmentation du nombre de peines exécutées !</li>
           <li>Les conditions de détention sont mauvaises et désocialisantes. Augmenter le nombre de détenus en l'état revient à augmenter le nombre d'individus désocialisés et placés dans des conditions défavorables à une bonne réinsertion.</li>
         </ul>
       </analyse>
