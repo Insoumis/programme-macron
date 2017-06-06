@@ -11,4 +11,7 @@ for f in templates/*.xsl; do
     saxonb-xslt -s:liste.xml -xsl:$f -o:"public/${bn_noext}.html" -ext:on
 done
 
-
+for f in public/elements/c*.svg; do
+  name=`echo $f | sed -e 's/\.[^.]*$//'`
+  inkscape $f -w 560 -h 300 -e "$name.png";
+done
